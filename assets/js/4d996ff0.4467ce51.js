@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwiki=self.webpackChunkwiki||[]).push([[32301],{67141:e=>{e.exports=JSON.parse('{"label":"release","permalink":"/shop/tags/release","allTagsPath":"/shop/tags","count":1}')}}]);

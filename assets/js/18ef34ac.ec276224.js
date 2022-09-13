@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwiki=self.webpackChunkwiki||[]).push([[28433],{44217:function(e){e.exports=JSON.parse('{"permalink":"/changelogs/tags/qol","page":1,"postsPerPage":10,"totalPages":1,"totalCount":10,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

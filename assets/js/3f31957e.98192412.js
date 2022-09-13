@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwiki=self.webpackChunkwiki||[]).push([[32758],{84434:function(s){s.exports=JSON.parse('{"allTagsPath":"/shop/tags","slug":"/shop/tags/act-7","name":"act7","count":1,"permalink":"/shop/tags/act-7"}')}}]);

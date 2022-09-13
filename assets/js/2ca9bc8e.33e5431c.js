@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwiki=self.webpackChunkwiki||[]).push([[10624],{65399:function(a){a.exports=JSON.parse('{"allTagsPath":"/changelogs/tags","slug":"/changelogs/tags/act-7","name":"act7","count":1,"permalink":"/changelogs/tags/act-7"}')}}]);

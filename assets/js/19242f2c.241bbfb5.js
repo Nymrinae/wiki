@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwiki=self.webpackChunkwiki||[]).push([[81170],{87903:a=>{a.exports=JSON.parse('{"label":"caligor","permalink":"/changelogs/tags/caligor","allTagsPath":"/changelogs/tags","count":1}')}}]);
