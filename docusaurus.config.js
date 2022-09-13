@@ -16,7 +16,11 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
   projectName: 'wiki', // Usually your repo name.
   themeConfig:
     ({
-      autoCollapseSidebarCategories: true,
+      docs: {
+        sidebar: {
+          autoCollapseCategories: true,
+        }
+      },
       navbar: {
         title: 'Olympus',
         logo: {
