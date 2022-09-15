@@ -14,6 +14,12 @@ module.exports = {
       className: 'bug-icon'
     },
     {
+      type: 'doc', 
+      id: 'community-guides',
+      label:'Community Guides',
+      className: 'guide-icon',
+    },
+    {
       type: 'category',
       label: 'Guides',
       className:'guide-icon',
