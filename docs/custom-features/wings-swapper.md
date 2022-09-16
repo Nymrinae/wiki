@@ -29,7 +29,7 @@ Feature contains all of the wings previously added to your card. If you want to 
 <p align="center"><img src="https://i.imgur.com/BqOqBjp.png"/></p>
 
 Medal is an item, that gives you possibility to unlock all of wings styles without necessity to put them one by one. <br/>
-Its 30 day version is available to buy in OC Shop with cost of **1500 OC**.
+Its 30 day version is available to buy in OC Shop with cost of **500 OC**.
 Remember! Medal is only for visuals, you can't add effects thanks to it.
 
 :::tip Tips & Tricks
