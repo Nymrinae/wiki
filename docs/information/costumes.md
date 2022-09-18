@@ -230,6 +230,33 @@ hide_title: true
 |:-:|:-:|:-:|
 | ![](https://i.imgur.com/1Ms9xiN.png) | ![](https://i.imgur.com/5k3hLmS.png) | ![](https://i.imgur.com/WSgjzJK.png)|
 
+### ``Red Detective/Pink Party Costume``
+| Costume Male | Costume Female | 
+|:-:|:-:|
+| ![](https://i.imgur.com/EjpF72N.png) | ![](https://i.imgur.com/9B0xpqS.png) |
+
+| Costume  | Costume Hat | Ruby Blessing |    
+|:-:|:-:|:-:|
+| ![](https://i.imgur.com/Wm2sQGH.png) | ![](https://i.imgur.com/CNBQ2ZK.png) | ![](https://i.imgur.com/U390bFL.png)|
+
+### ``Golden Detective/Yellow Party Costume``
+| Costume Male | Costume Female | 
+|:-:|:-:|
+| ![](https://i.imgur.com/7bOL8sV.png) | ![](https://i.imgur.com/4Z5QZhA.png) |
+
+| Costume  | Costume Hat | Citrine Blessing |    
+|:-:|:-:|:-:|
+| ![](https://i.imgur.com/EC0mQzc.png) | ![](https://i.imgur.com/6ieVTuI.png) | ![](https://i.imgur.com/36j6cHo.png)|
+
+### ``Brown Detective/Blue Party Costume``
+| Costume Male | Costume Female | 
+|:-:|:-:|
+| ![](https://i.imgur.com/tCMPC8c.png) | ![](https://i.imgur.com/WpHm3Gw.png) |
+
+| Costume  | Costume Hat | Lapis Blessing |    
+|:-:|:-:|:-:|
+| ![](https://i.imgur.com/6L3XmrY.png) | ![](https://i.imgur.com/xfJYTvI.png) | ![](https://i.imgur.com/cGnojaQ.png)|
+
 
 ## **Costumes Wings **
 
