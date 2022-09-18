@@ -1229,7 +1229,7 @@
                         "img": "https://cdn.olympusgg.com/images/10281.png",
                         "desc": "",
                         "type": "Magic Debuff",
-                        "duration": "Duration: 20 seconds",
+                        "duration": 20,
                         "bcard": [{
                                 "desc": "Every 2 seconds:MP is reduced by",
                                 "value": "400"
@@ -1261,7 +1261,7 @@
                         "img": "https://cdn.olympusgg.com/images/10281.png",
                         "desc": "",
                         "type": "Magic Debuff",
-                        "duration": "Duration: 20 seconds",
+                        "duration": 20,
                         "bcard": [{
                                 "desc": "Every 2 seconds:MP is reduced by",
                                 "value": "250"
@@ -1293,7 +1293,7 @@
                         "img": "https://cdn.olympusgg.com/images/10281.png",
                         "desc": "",
                         "type": "Magic Debuff",
-                        "duration": "Duration: 20 seconds",
+                        "duration": 20,
                         "bcard": [{
                                 "desc": "Every 2 seconds:MP is reduced by",
                                 "value": "200"
@@ -1325,7 +1325,7 @@
                         "img": "https://cdn.olympusgg.com/images/10281.png",
                         "desc": "",
                         "type": "Magic Debuff",
-                        "duration": "Duration: 20 seconds",
+                        "duration": 20,
                         "bcard": [{
                                 "desc": "Every 4 seconds:MP is reduced by",
                                 "value": "350"
@@ -1357,7 +1357,7 @@
                         "img": "https://cdn.olympusgg.com/images/10281.png",
                         "desc": "",
                         "type": "Magic Debuff",
-                        "duration": "Duration: 20 seconds",
+                        "duration": 20,
                         "bcard": [{
                                 "desc": "Every 4 seconds:MP is reduced by",
                                 "value": "300"
@@ -1389,7 +1389,7 @@
                         "img": "https://cdn.olympusgg.com/images/10281.png",
                         "desc": "",
                         "type": "Magic Debuff",
-                        "duration": "Duration: 20 seconds",
+                        "duration": 20,
                         "bcard": [{
                                 "desc": "Every 6 seconds:MP is reduced by",
                                 "value": "350"
@@ -1421,7 +1421,7 @@
                         "img": "https://cdn.olympusgg.com/images/10281.png",
                         "desc": "",
                         "type": "Magic Debuff",
-                        "duration": "Duration: 20 seconds",
+                        "duration": 20,
                         "bcard": [{
                                 "desc": "Every 6 seconds:MP is reduced by",
                                 "value": "300"
@@ -1461,7 +1461,7 @@
                             "img": "https://cdn.olympusgg.com/images/10291.png",
                             "desc": "",
                             "type": "Buff",
-                            "duration": "Duration: 180 seconds",
+                            "duration": 180,
                             "bcard": [{
                                     "desc": "All defence powers are increased by",
                                     "value": "50"
@@ -1520,7 +1520,7 @@
                             "img": "https://cdn.olympusgg.com/images/10291.png",
                             "desc": "",
                             "type": "Buff",
-                            "duration": "Duration: 180 seconds",
+                            "duration": 180,
                             "bcard": [{
                                     "desc": "All defence powers are increased by",
                                     "value": "40"
@@ -1570,7 +1570,7 @@
                             "img": "https://cdn.olympusgg.com/images/10291.png",
                             "desc": "",
                             "type": "Buff",
-                            "duration": "Duration: 180 seconds",
+                            "duration": 180,
                             "bcard": [{
                                     "desc": "All defence powers are increased by",
                                     "value": "30"
@@ -1620,7 +1620,7 @@
                             "img": "https://cdn.olympusgg.com/images/10291.png",
                             "desc": "",
                             "type": "Buff",
-                            "duration": "Duration: 180 seconds",
+                            "duration": 180,
                             "bcard": [{
                                     "desc": "All defence powers are increased by",
                                     "value": "30"
@@ -1670,7 +1670,7 @@
                             "img": "https://cdn.olympusgg.com/images/10291.png",
                             "desc": "",
                             "type": "Buff",
-                            "duration": "Duration: 180 seconds",
+                            "duration": 180,
                             "bcard": [{
                                     "desc": "All defence powers are increased by",
                                     "value": "20"
@@ -1720,7 +1720,7 @@
                             "img": "https://cdn.olympusgg.com/images/10291.png",
                             "desc": "",
                             "type": "Buff",
-                            "duration": "Duration: 180 seconds",
+                            "duration": 180,
                             "bcard": [{
                                     "desc": "All defence powers are increased by",
                                     "value": "20"
@@ -1770,7 +1770,7 @@
                             "img": "https://cdn.olympusgg.com/images/10291.png",
                             "desc": "",
                             "type": "Buff",
-                            "duration": "Duration: 180 seconds",
+                            "duration": 180,
                             "bcard": [{
                                     "desc": "All defence powers are increased by",
                                     "value": "10"
@@ -1840,7 +1840,7 @@
                         "title": "Heavy Bleeding",
                         "img": "https://cdn.olympusgg.com/images/10137.png",
                         "type": "Disease Debuff",
-                        "duration": "Duration: 20 seconds",
+                        "duration": 20,
                         "bcard": [{
                                 "desc": "Movement speed is decreased by",
                                 "value": "1"
@@ -1875,7 +1875,7 @@
                         "title": "Heavy Bleeding",
                         "img": "https://cdn.olympusgg.com/images/10137.png",
                         "type": "Disease Debuff",
-                        "duration": "Duration: 20 seconds",
+                        "duration": 20,
                         "bcard": [{
                             "desc": "Every 2 seconds:HP is reduced by",
                             "value": "300"
@@ -1905,7 +1905,7 @@
                         "title": "Heavy Bleeding",
                         "img": "https://cdn.olympusgg.com/images/10137.png",
                         "type": "Disease Debuff",
-                        "duration": "Duration: 20 seconds",
+                        "duration": 20,
                         "bcard": [{
                             "desc": "Every 2 seconds:HP is reduced by",
                             "value": "240"
@@ -1935,7 +1935,7 @@
                         "title": "Heavy Bleeding",
                         "img": "https://cdn.olympusgg.com/images/10137.png",
                         "type": "Disease Debuff",
-                        "duration": "Duration: 20 seconds",
+                        "duration": 20,
                         "bcard": [{
                             "desc": "Every 2 seconds:HP is reduced by",
                             "value": "200"
@@ -1965,7 +1965,7 @@
                         "title": "Heavy Bleeding",
                         "img": "https://cdn.olympusgg.com/images/10137.png",
                         "type": "Disease Debuff",
-                        "duration": "Duration: 20 seconds",
+                        "duration": 20,
                         "bcard": [{
                             "desc": "Every 2 seconds:HP is reduced by",
                             "value": "160"
@@ -1995,7 +1995,7 @@
                         "title": "Heavy Bleeding",
                         "img": "https://cdn.olympusgg.com/images/10137.png",
                         "type": "Disease Debuff",
-                        "duration": "Duration: 20 seconds",
+                        "duration": 20,
                         "bcard": [{
                             "desc": "Every 2 seconds:HP is reduced by",
                             "value": "100"
@@ -2025,7 +2025,7 @@
                         "title": "Heavy Bleeding",
                         "img": "https://cdn.olympusgg.com/images/10137.png",
                         "type": "Disease Debuff",
-                        "duration": "Duration: 20 seconds",
+                        "duration": 20,
                         "bcard": [{
                             "desc": "Every 2 seconds:HP is reduced by",
                             "value": "60"
@@ -2333,7 +2333,7 @@
                         "img": "https://cdn.olympusgg.com/images/10275.png",
                         "desc": "he Anger of the Viking erupts.",
                         "type": "Buff",
-                        "duration": "Duration: 180 seconds",
+                        "duration": 180,
                         "bcard": [{
                                 "desc": "Provides a 40% chance that you receive\nno damage. In addition, 80% of the\ndamage you should have received is\nadded to your HP.",
                                 "value": ""
@@ -2364,7 +2364,7 @@
                         "img": "https://cdn.olympusgg.com/images/10275.png",
                         "desc": "he Anger of the Viking erupts.",
                         "type": "Buff",
-                        "duration": "Duration: 180 seconds",
+                        "duration": 180,
                         "bcard": [{
                             "desc": "Provides a 25% chance that you receive\nno damage. In addition, 50% of the\ndamage you should have received is\nadded to your HP.",
                             "value": ""
@@ -2390,6 +2390,7 @@
                         "img": "https://cdn.olympusgg.com/images/10275.png",
                         "desc": "he Anger of the Viking erupts.",
                         "type": "Buff",
+                        "duration": 180,
                         "duration": "Duration: 180 seconds",
                         "bcard": [{
                             "desc": "Provides a 25% chance that you receive\nno damage. In addition, 50% of the\ndamage you should have received is\nadded to your HP.",
@@ -2416,7 +2417,7 @@
                         "img": "https://cdn.olympusgg.com/images/10275.png",
                         "desc": "he Anger of the Viking erupts.",
                         "type": "Buff",
-                        "duration": "Duration: 180 seconds",
+                        "duration": 180,
                         "bcard": [{
                             "desc": "Provides a 20% chance that you receive\nno damage. In addition, 35% of the\ndamage you should have received is\nadded to your HP.",
                             "value": ""
@@ -2442,7 +2443,7 @@
                         "img": "https://cdn.olympusgg.com/images/10275.png",
                         "desc": "he Anger of the Viking erupts.",
                         "type": "Buff",
-                        "duration": "Duration: 180 seconds",
+                        "duration": 180,
                         "bcard": [{
                             "desc": "Provides a 20% chance that you receive\nno damage. In addition, 20% of the\ndamage you should have received is\nadded to your HP.",
                             "value": ""
@@ -2468,7 +2469,7 @@
                         "img": "https://cdn.olympusgg.com/images/10275.png",
                         "desc": "he Anger of the Viking erupts.",
                         "type": "Buff",
-                        "duration": "Duration: 180 seconds",
+                        "duration": 180,
                         "bcard": [{
                             "desc": "Provides a 15% chance that you receive\nno damage. In addition, 20% of the\ndamage you should have received is\nadded to your HP.",
                             "value": ""
@@ -2494,7 +2495,7 @@
                         "img": "https://cdn.olympusgg.com/images/10275.png",
                         "desc": "he Anger of the Viking erupts.",
                         "type": "Buff",
-                        "duration": "Duration: 180 seconds",
+                        "duration": 180,
                         "bcard": [{
                             "desc": "Provides a 15% chance that you receive\nno damage. In addition, 10% of the\ndamage you should have received is\nadded to your HP.",
                             "value": ""
@@ -2826,7 +2827,7 @@
                         "img": "https://cdn.olympusgg.com/images/10358.png",
                         "desc": "Reduces the opponent's resistance.",
                         "type": "Magic Debuff",
-                        "duration": "Duration: 3 seconds",
+                        "duration": 3,
                         "bcard": [{
                                 "desc": "Fire resistance is decreased by",
                                 "value": "30"
@@ -2866,7 +2867,7 @@
                         "img": "https://cdn.olympusgg.com/images/10358.png",
                         "desc": "Reduces the opponent's resistance.",
                         "type": "Magic Debuff",
-                        "duration": "Duration: 3 seconds",
+                        "duration": 3,
                         "bcard": [{
                                 "desc": "Fire resistance is decreased by",
                                 "value": "20"
@@ -2902,7 +2903,7 @@
                         "img": "https://cdn.olympusgg.com/images/10358.png",
                         "desc": "Reduces the opponent's resistance.",
                         "type": "Magic Debuff",
-                        "duration": "Duration: 3 seconds",
+                        "duration": 3,
                         "bcard": [{
                                 "desc": "Fire resistance is decreased by",
                                 "value": "18"
@@ -2938,7 +2939,7 @@
                         "img": "https://cdn.olympusgg.com/images/10358.png",
                         "desc": "Reduces the opponent's resistance.",
                         "type": "Magic Debuff",
-                        "duration": "Duration: 3 seconds",
+                        "duration": 3,
                         "bcard": [{
                                 "desc": "Fire resistance is decreased by",
                                 "value": "16"
@@ -2974,7 +2975,7 @@
                         "img": "https://cdn.olympusgg.com/images/10358.png",
                         "desc": "Reduces the opponent's resistance.",
                         "type": "Magic Debuff",
-                        "duration": "Duration: 3 seconds",
+                        "duration": 3,
                         "bcard": [{
                                 "desc": "Fire resistance is decreased by",
                                 "value": "14"
@@ -3010,7 +3011,7 @@
                         "img": "https://cdn.olympusgg.com/images/10358.png",
                         "desc": "Reduces the opponent's resistance.",
                         "type": "Magic Debuff",
-                        "duration": "Duration: 3 seconds",
+                        "duration": 3,
                         "bcard": [{
                                 "desc": "Fire resistance is decreased by",
                                 "value": "12"
@@ -3046,7 +3047,7 @@
                         "img": "https://cdn.olympusgg.com/images/10358.png",
                         "desc": "Reduces the opponent's resistance.",
                         "type": "Magic Debuff",
-                        "duration": "Duration: 3 seconds",
+                        "duration": 3,
                         "bcard": [{
                                 "desc": "Fire resistance is decreased by",
                                 "value": "10"
@@ -11931,6 +11932,7 @@
                 },
                 {
                     "title": "Big Bang +3",
+
                     "times": "Casting time : 0.2 sec.\nCool time : 30 seconds\nConsumption MP: 110",
                     "range": "Attack Range: 11 cell\nTarget: Select One",
                     "fairyEffect": "",
@@ -12340,43 +12342,6 @@
                             }
                         ],
                         "rank": "(S).",
-                        "level": 2
-                    }]
-                },
-                {
-                    "title": "Supporting Fire +6",
-                    "times": "Casting time : 0.5 sec.\nCool time : 25 seconds\nConsumption MP: 150",
-                    "range": "Attack Range: 11 cell\nTarget: Select One",
-                    "fairyEffect": "",
-                    "bcard": [{
-                            "desc": "Ranged attack is increased by",
-                            "value": "165"
-                        },
-                        {
-                            "desc": "Water element is increased by",
-                            "value": "165"
-                        }
-                    ],
-                    "rank": "(A).",
-                    "img": "https://cdn.olympusgg.com/images/6221.png",
-                    "effectImg": ["https://cdn.olympusgg.com/images/6221.png"],
-                    "bcardEffects": ["There is a 100% chance of causing"],
-                    "effects": [{
-                        "title": "Supporting Fire",
-                        "img": "https://cdn.olympusgg.com/images/6221.png",
-                        "desc": "Support from potent fire power.",
-                        "type": "Buff",
-                        "duration": 18,
-                        "bcard": [{
-                                "desc": "Increases soft damage with a probability of 100% by",
-                                "value": "15%"
-                            },
-                            {
-                                "desc": "There's a 30% chance to ignore",
-                                "value": "30% of the target's defence."
-                            }
-                        ],
-                        "rank": "(A).",
                         "level": 2
                     }]
                 },
