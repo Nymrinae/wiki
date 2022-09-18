@@ -15,7 +15,7 @@ import ItemIcon from "../src/components/itemicon";
 ## Changes
 - Removed "Fireflower" summon from Red Mage's Inferno, add "Fire Spirit" buff instead.
   - Fire Spirit, 5Lv. Buff, 20 seconds
-  - Every 2 seconds: At a distance of 4, inflict [Burn] on enemies.
+  - Every 2 seconds: At a distance of 3, inflict [Burn] on enemies.
 - Removed "Minion Snowman" summons from Blue Mage's Glacier, move summons to a combo skill "Snowmen Army" after Glacier instead.
 - Family Extension Lv.1 (70 => 100 members)
 - Family Extension Lv.2 (100 => 200 members)
