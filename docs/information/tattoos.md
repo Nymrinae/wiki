@@ -14,6 +14,7 @@ import Tattoos from '../../src/components/classes/tattoos/tattoos'
 <img width= "40px" src="/img/tattos/tatoo-up.png"/></p>
 
 ## What is a Tattoo?
+
 First I will give a brief explanation of what a tattoo is as many players have probably never played Act 7.
 A tattoo is a similar mechanic to a buff, which we can cast whenever we want and it will have a cooldown time, it will grant us new abilities with very useful passives, depending on your playstyle you can try to get the one you like the most.
 
@@ -35,6 +36,7 @@ If any of the tattoos are not to your liking you can remove them at any time wit
 The materials required for the manufacture of each Pattern are shown below.
 
 <table>
+<tbody>
     <tr>
         <th>Tattoo Patterns</th>
         <th>Effect</th>
@@ -86,11 +88,13 @@ The materials required for the manufacture of each Pattern are shown below.
         <img src="/img/tattos/2416.png"/>x200 Moritius Obsidian<br/>
         <img src="/img/tattos/2408.png"/>x200 Occult Bone Powder<br/></th>
     </tr>
+</tbody>
 </table>
 
 ## Upgrading Tattoos
 
 <table className="tablaLetra">
+<tbody>
     <tr>
         <th>Upgrade</th>
         <th>Success</th>
@@ -134,7 +138,7 @@ The materials required for the manufacture of each Pattern are shown below.
         <th>-</th>
         <th>-</th>
         <th>-</th>
-        <th>-</th>    
+        <th>-</th>
     </tr>
     <tr>
         <th>+2</th>
@@ -149,7 +153,7 @@ The materials required for the manufacture of each Pattern are shown below.
         <th>-</th>
         <th>-</th>
         <th>-</th>
-        <th>-</th>     
+        <th>-</th>
     </tr>
     <tr>
         <th>+3</th>
@@ -164,7 +168,7 @@ The materials required for the manufacture of each Pattern are shown below.
         <th>-</th>
         <th>-</th>
         <th>-</th>
-        <th>-</th>     
+        <th>-</th>
     </tr>
     <tr>
         <th>+4</th>
@@ -194,7 +198,7 @@ The materials required for the manufacture of each Pattern are shown below.
         <th>-</th>
         <th>20</th>
         <th>-</th>
-        <th>-</th>       
+        <th>-</th>
     </tr>
     <tr>
         <th>+6</th>
@@ -209,7 +213,7 @@ The materials required for the manufacture of each Pattern are shown below.
         <th>-</th>
         <th>25</th>
         <th>3</th>
-        <th>-</th>    
+        <th>-</th>
     </tr>
     <tr>
         <th>+7</th>
@@ -239,7 +243,7 @@ The materials required for the manufacture of each Pattern are shown below.
         <th>-</th>
         <th>25</th>
         <th>-</th>
-        <th>3</th> 
+        <th>3</th>
     </tr>
     <tr>
         <th>+9</th>
@@ -256,9 +260,11 @@ The materials required for the manufacture of each Pattern are shown below.
         <th>-</th>
         <th>4</th>
     </tr>
+</tbody>
 </table>
 
-## Tattoo Tips 
+## Tattoo Tips
+
 - Most of the items needed to make a pattern or optimise a tattoo can be obtained from the <img width= "25px" src="/img/tattos/4766.png"/> Spirit King Kirollas box.
 - When trying to optimise a tattoo there will be a percentage of downgrade, to avoid this we can buy a <img width= "25px" src="/img/tattos/5815.png"/> Tattoo Safeguard Scroll from the NPC <font color="#423AC8">**Logotor**</font> for the price of 1,000,000 Gold.
 - You can only have a total of two tattoos, which you can see by clicking on the "K" button in the tattoos section. Tattoos can be placed in the skill bar.
@@ -269,4 +275,3 @@ The materials required for the manufacture of each Pattern are shown below.
 ## Tattoo list
 
 <Tattoos />
-

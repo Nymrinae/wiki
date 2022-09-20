@@ -1,0 +1,37 @@
+[
+  {
+    "loaType": "Lion | Eagle | Bear | Snake | Corrupt Shadow",
+    "icon": "",
+    "tattos": [
+      {
+        "name": "Tattoo Name",
+        "description": "Tattoo Description",
+        "icon": "Tattoo Icon",
+        "buffType": "Tattoo Buff type",
+        "level": 0,
+        "duration": 0,
+        "bcard": [
+          {
+            "description": "bcard Description",
+            "value": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+          }
+        ],
+        "bcardEffect": {
+          "name": "effect Name",
+          "icon": "",
+          "typeEffect": "",
+          "Level": 0,
+          "duration": 0,
+          "description": "effect Description",
+          "chance": "bcard Effect Rate Chance (can be an Array of rate)",
+          "bcard": [],
+          "bcardSideEffect": {}
+        },
+        "bcardSideEffect": { 
+          "time": 0,
+          "bcard": []
+        }
+      }
+    ]
+  }
+]

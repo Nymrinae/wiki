@@ -128,7 +128,7 @@ const RightPartnerBox = ({ dataPartner, setSpellEffect, setModal, modal }) => {
     </>
   );
 };
-// rank check need fix
+
 const Skills = ({
   dataPartner,
   skillIndex,
