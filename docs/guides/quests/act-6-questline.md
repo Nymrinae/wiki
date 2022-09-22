@@ -81,51 +81,47 @@ Starting quest is obtainable from Graham at **NosVille**
 
 16. Angels vs. Demons 11
 - Conversation with Crusader Graham
-17. Angels vs. Demons 12
-- Successfully complete Goddess Zenas Raid and head back to Crusader Graham
 
-**Quest-Reward: CXP, 1.000.000 Gold, Ancelloan's Armour Production Scroll**
-
-18. Angels vs. Demons 13
+17. Angels vs. Demons 13
 - Conversation with Crusader Graham
-19. Angels vs Demons 14
+18. Angels vs Demons 14
 - Conversation with Barak **(Located in Heaven's Gate 1, lower left corner of the Map)**
 
 ![Barak](https://i.imgur.com/xfLD1iw.png)
 
-20. Angels vs. Demons 15
+19. Angels vs. Demons 15
 - Hunt 5 Rozhank
 - Hunt 5 Esther
 - Hunt 5 Lazekiel
 
 **Quest-Reward: CXP, 500.000 Gold**
 
-21. Angels vs. Demons 16
+20. Angels vs. Demons 16
 - Conversation with Barak
 - Collect Unstable Energy **(Quest item, dropped by Zealots)**
 
 **Quest-Reward: CXP, 500.000 Gold**
 
- 22. Angels vs. Demons 17
+ 21. Angels vs. Demons 17
  - Conversation with Barak
- 23. Angels vs. Demons 18
+ 22. Angels vs. Demons 18
  - Conversation with Zepar **(Located in Heaven's Gate 2, middle of the Map)**
 
 ![Zepar](https://i.imgur.com/vHATd8q.png)
 
- 24. Angels vs. Demons 19
+ 23. Angels vs. Demons 19
  - Collect 30 Souls of Innocence **(Quest item, dropped by Sentinels)**
 
 **Quest-Reward: CXP, 500.000 Gold**
 
- 25. Angels vs. Demons 20
+ 24. Angels vs. Demons 20
  - Conversation with Zepar
- 26. Angels vs. Demons 21
+ 25. Angels vs. Demons 21
  - Conversation with Polneus **(Located in Heaven's Gate 3, upper right corner of the Map)**
 
 ![Polneus](https://i.imgur.com/Pza289F.png)
 
- 27. Angels vs. Demons 22
+ 26. Angels vs. Demons 22
  - Hunt 10 Rozhank
  - Hunt 10 Esther
  - Hunt 10 Lazkiel
@@ -133,24 +129,20 @@ Starting quest is obtainable from Graham at **NosVille**
 **Quest-Reward: CXP, 500.000 Gold**
 
  - Conversation with Polneus
- 28. Angels vs. Demons 23
+ 27. Angels vs. Demons 23
  - Deliver 1 Holy Blood to Polneus
 
 **Quest-Reward: CXP, 500.000 Gold, 15 Holy Blood**
 
- 29. Angels vs. Demons 24
+ 28. Angels vs. Demons 24
  - Conversation with Polneus
 
 **Quest-Reward: Goddess Erenia Raid Seal**
 
- 30. Angels vs. Demons 25
+ 29. Angels vs. Demons 25
  - Conversation with Crusader Graham 
- 31. Angels vs. Demons 26
- - Successfully complete Goddes Erenia Raid and head back to Crusader Graham
 
-**Quest-Reward: CXP, 10 Crystal of Balance, Ancelloan's Weapon Production Scroll**
-
- 32. Angels vs. Demons 27
+ 30. Angels vs. Demons 27
  - Conversation with Crusader Graham
 
 **Quest-Reward: Graham's Holy Stone**
