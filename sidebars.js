@@ -30,8 +30,8 @@ module.exports = {
           className:'leveling-icon',
           items: [
             { type: 'doc', id: 'guides/leveling/combat1-99', label: 'Combat Lv. 1-99', className:'fexpe-icon' },
-            { type: 'doc', id: 'guides/leveling/hero1-30', label: 'Hero Lv. 1-30', className:'clevel-icon' },
-            { type: 'doc', id: 'guides/leveling/hero30-50', label: 'Hero Lv. 30-50', className:'clevel-icon' },
+            { type: 'doc', id: 'guides/leveling/hero1-35', label: 'Hero Lv. 1-35', className:'clevel-icon' },
+            { type: 'doc', id: 'guides/leveling/hero35-60', label: 'Hero Lv. 35-60', className:'clevel-icon' },
           ]
         },
         {
@@ -67,6 +67,7 @@ module.exports = {
           className:'questl-icon',
           items: [
             { type: 'doc', id: 'guides/quests/valhalla-questline', label: 'Valhalla Questline', className:'valhallaquestline-icon' },
+            { type: 'doc', id: 'guides/quests/act-5.2-questline', label: 'Act 5.2 Questline', className:'act52questline-icon' },
             { type: 'doc', id: 'guides/quests/act-6-questline', label: 'Act 6.1 Questline', className:'q6-1-icon' },
             { type: 'doc', id: 'guides/quests/act-6-daily-quests', label: 'Act 6 Daily Quests', className:'dquest-icon' },
           ]
@@ -117,6 +118,7 @@ module.exports = {
         { type: 'doc', id: 'information/psp', label: 'Partner Specialist', className:'partner-icon' },
         { type: 'doc', id: 'information/pets' , label: 'Pets', className:'pets-icon' },
         { type: 'doc', id: 'information/costumes', label: 'Costumes', className:'costume-icon' },
+        { type: 'doc', id: 'information/reputation', label: 'Reputation', className: 'reputation-icon' },
         { type: 'doc', id: 'information/weaponskins', label: 'Weapon Skins', className:'wskin-icon' },
         { type: 'doc', id: 'information/wings-rework' , label:'Wings ', className: 'wings-icon', },
         { type: 'doc', id: 'information/equipment-act62-rework' , label:'Equipment', className:'equi-icon'  },
@@ -130,7 +132,6 @@ module.exports = {
       items: [
         { type: 'doc', id: 'qol/upgrades' , label: 'Equipment Upgrade', className: 'equpgrade-icon' },
         { type: 'doc', id: 'guides/crafting/sp-upgrade' , label: 'SP Upgrade', className: 'spupgrade-icon' },
-        { type: 'doc', id: 'information/reputation', label: 'reputation', className: 'reputation-icon' },
         { type: 'doc', id: 'information/shells', label: 'Shell Options', className: 'shell-icon' },
         { type: 'doc', id: 'qol/mass-crafting', label: 'Mass Crafting', className:'cella-icon' },
         { type: 'doc', id: 'information/items-sale-price', label: 'Item Sale Prices', className:'gold-icon' },

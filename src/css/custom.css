@@ -925,8 +925,19 @@ imagen3 {
   height: 30px;
   width: 100%;
   padding-left: 24px;
-  background: url("31030.png") no-repeat;
+  background: url("../../static/img/icons/reputation.png") no-repeat;
   background-position: 5% 50%;
   background-size: 18px;
+  display: inline-block;
+}
+
+.act52questline-icon{
+  margin-left: 5px;
+  height: 30px;
+  width: 100%;
+  padding-left: 24px;
+  background: url("../../static/img/icons/act52questline.png") no-repeat;
+  background-position: 5% 50%;
+  background-size: 22px;
   display: inline-block;
 }
