@@ -33,6 +33,7 @@ Hunt 30x [<b>Blaze Hound</b>]
 Have a conversation with [<b>John the Adventurer</b>] 
 <img src="https://i.imgur.com/MRIUcn9.png" height="200"/> <img src="https://cdn.olympusgg.com/images/monsters/1092.png" height="100"/>
 
+<br/><br/>
 <font color="#88B4D3"> Quest Reward: </font>EXP <img src="https://cdn.olympusgg.com/images/1089.png"/> 
 
 ---
@@ -52,7 +53,7 @@ Have a conversation with [<b>Priestess Serizad</b>]
 ##### <font color="#3399ff">  6. The Burning Sword </font> 
 Have a conversation with [<b>Michol</b>] 
 <img src="https://i.imgur.com/rRf3hHA.png" height="200"/> <img src="https://cdn.olympusgg.com/images/monsters/1089.png" height="100"/>
-
+<br/><br/>
 <font color="#88B4D3"> Quest Reward: </font>EXP <img src="https://cdn.olympusgg.com/images/1089.png"/> + 250k <img src="https://cdn.olympusgg.com/images/1088.png"/> + 10x Refreshing Ground Water <img src="https://cdn.olympusgg.com/images/2376.png"/>
 
 ---
@@ -60,7 +61,7 @@ Have a conversation with [<b>Michol</b>]
 ##### <font color="#3399ff">  7. The Burning Sword </font> 
 Have a conversation with [<b>Michol</b>] when you have 1x [<b>Grenigas Relic</b>]
 <img src="https://i.imgur.com/rRf3hHA.png" height="200"/> <img src="https://cdn.olympusgg.com/images/monsters/1089.png" height="100"/>
-
+<br/><br/>
 <font color="#88B4D3"> Quest Reward: </font> 250k <img src="https://cdn.olympusgg.com/images/1088.png"/> + 10x Refreshing Ground Water <img src="https://cdn.olympusgg.com/images/2376.png"/>
 
 ---
@@ -68,7 +69,7 @@ Have a conversation with [<b>Michol</b>] when you have 1x [<b>Grenigas Relic</b>
 ##### <font color="#3399ff">  8. The Burning Sword </font> 
 Have a conversation with [<b>Priestess Serizad</b>] 
 <img src="https://i.imgur.com/xUj6isq.png" height="200"/> <img src="https://cdn.olympusgg.com/images/monsters/1065.png" height="100"/>
-
+<br/><br/>
 <font color="#88B4D3"> Quest Reward: </font>EXP <img src="https://cdn.olympusgg.com/images/1089.png"/> + 250k <img src="https://cdn.olympusgg.com/images/1088.png"/>
 
 ---
@@ -86,17 +87,13 @@ Hunt 30x [<b>Blaze Hound</b>]
 Hunt 30x [<b>Magmaros</b>] 
 <img src="https://i.imgur.com/shu000r.png" height="200"/> <img src="https://i.imgur.com/pV5Aptq.png" height="200"/> <img src="https://i.imgur.com/fDOveSz.png" height="200"/> <img src="https://i.imgur.com/sB9ai5C.png" height="200"/> <img src="https://cdn.olympusgg.com/images/monsters/1042.png" height="100"/>
 
-
-
-
-
-
 ---
 
 ##### <font color="#3399ff">  11. The Burning Sword </font> 
 Have a conversation with [<b>John the Adventurer</b>] 
 <img src="https://i.imgur.com/MRIUcn9.png" height="200"/> <img src="https://cdn.olympusgg.com/images/monsters/1092.png" height="100"/>
 
+<br/><br/>
 <font color="#88B4D3"> Quest Reward: </font>EXP <img src="https://cdn.olympusgg.com/images/1089.png"/> 
 
 ---
@@ -105,6 +102,7 @@ Have a conversation with [<b>John the Adventurer</b>]
 Have a conversation with [<b>Fire Alchemist</b>] 
 <img src="https://i.imgur.com/XrMenyS.png" height="200"/> <img src="https://cdn.olympusgg.com/images/monsters/1098.png" height="100"/>
 
+<br/><br/>
 <font color="#88B4D3"> Quest Reward: </font>250k <img src="https://cdn.olympusgg.com/images/1088.png"/> + 10x Refreshing Ground Water <img src="https://cdn.olympusgg.com/images/2376.png"/>
 
 ---
@@ -113,9 +111,7 @@ Have a conversation with [<b>Fire Alchemist</b>]
 Hunt [<b>Flame Spider Valaket</b>] and collect 10x [<b>Valaket Egg</b>]  <img src="https://cdn.olympusgg.com/images/2181.png"/>
 <img src="https://i.imgur.com/FBkVk1c.png" height="200"/> <img src="https://i.imgur.com/JWRAhKi.png" height="200"/> <img src="https://cdn.olympusgg.com/images/monsters/1043.png" height="100"/>
 
-
-
-
+<br/><br/>
 <font color="#88B4D3"> Quest Reward: </font>250k <img src="https://cdn.olympusgg.com/images/1088.png"/> + 10x Refreshing Ground Water <img src="https://cdn.olympusgg.com/images/2376.png"/>
 
 ---
@@ -124,8 +120,8 @@ Hunt [<b>Flame Spider Valaket</b>] and collect 10x [<b>Valaket Egg</b>]  <img sr
 Have a conversation with [<b>Fire Alchemist</b>] 
 <img src="https://i.imgur.com/XrMenyS.png" height="200"/> <img src="https://cdn.olympusgg.com/images/monsters/1098.png" height="100"/>
 
+<br/><br/>
 <font color="#88B4D3"> Quest Reward: </font>EXP <img src="https://cdn.olympusgg.com/images/1089.png"/> + 250k <img src="https://cdn.olympusgg.com/images/1088.png"/> + 3x Earth Element <img src="https://cdn.olympusgg.com/images/2446.png"/>
-
 
 ---
 
@@ -139,6 +135,7 @@ Have a conversation with [<b>John the Adventurer</b>]
 Have a conversation with [<b>Priestess Serizad</b>] 
 <img src="https://i.imgur.com/xUj6isq.png" height="200"/> <img src="https://cdn.olympusgg.com/images/monsters/1065.png" height="100"/>
 
+<br/><br/>
 <font color="#88B4D3"> Quest Reward: </font>EXP <img src="https://cdn.olympusgg.com/images/1089.png"/> + 250k <img src="https://cdn.olympusgg.com/images/1088.png"/> + 30x Burning Chicken <img src="https://cdn.olympusgg.com/images/2351.png"/>
 
 ---
@@ -153,6 +150,7 @@ Have a conversation with [<b>Priestess Serizad</b>]
 Have a conversation with [<b>John the Adventurer</b>] 
 <img src="https://i.imgur.com/MRIUcn9.png" height="200"/> <img src="https://cdn.olympusgg.com/images/monsters/1092.png" height="100"/>
 
+<br/><br/>
 <font color="#88B4D3"> Quest Reward: </font>3x Strong Ice Flower Oil <img src="https://cdn.olympusgg.com/images/2456.png"/>
 
 ---
@@ -161,14 +159,8 @@ Have a conversation with [<b>John the Adventurer</b>]
 Hunt 30x [<b>Phoenix</b>] 
 <img src="https://i.imgur.com/PbyJP3T.png" height="200"/> <img src="https://i.imgur.com/hXDsjdU.png" height="200"/> <img src="https://i.imgur.com/XR7tlTY.png" height="200"/> <img src="https://cdn.olympusgg.com/images/monsters/1051.png" height="100"/>
 
-
-
-
 Hunt 30x [<b>Blazing Creature</b>]
 <img src="https://i.imgur.com/Qj7ac6H.png" height="200"/> <img src="https://i.imgur.com/iA467PW.png" height="200"/> <img src="https://i.imgur.com/5WxXIFm.png" height="200"/> <img src="https://cdn.olympusgg.com/images/monsters/1053.png" height="100"/>
-
-
-
 
 ---
 
@@ -176,6 +168,7 @@ Hunt 30x [<b>Blazing Creature</b>]
 Have a conversation with [<b>John the Adventurer</b>] 
 <img src="https://i.imgur.com/MRIUcn9.png" height="200"/> <img src="https://cdn.olympusgg.com/images/monsters/1092.png" height="100"/>
 
+<br/><br/>
 <font color="#88B4D3"> Quest Reward: </font>EXP <img src="https://cdn.olympusgg.com/images/1089.png"/> + 250k <img src="https://cdn.olympusgg.com/images/1088.png"/> + 1x Kertos' Raid Seal <img src="https://cdn.olympusgg.com/images/2460.png"/> + 1x Valakus' Raid Seal <img src="https://cdn.olympusgg.com/images/2461.png"/>
 
 ---
@@ -190,6 +183,7 @@ Have a conversation with [<b>Priestess Serizad</b>] when you have [<b>Kertos' Ra
 Have a conversation with [<b>High Priest Eladin</b>] 
 <img src="https://i.imgur.com/xUj6isq.png" height="200"/> <img src="https://cdn.olympusgg.com/images/monsters/1065.png" height="100"/>
 
+<br/><br/>
 <font color="#88B4D3"> Quest Reward: </font>EXP <img src="https://cdn.olympusgg.com/images/1089.png"/> + 250k <img src="https://cdn.olympusgg.com/images/1088.png"/> + 3x Strong Ice Flower Oil <img src="https://cdn.olympusgg.com/images/2456.png"/>
 
 ---
@@ -216,6 +210,7 @@ Hunt 1x [<b>Valakus' Shadow</b>]
 Have a conversation with [<b>Priestess Serizad</b>] 
 <img src="https://i.imgur.com/xUj6isq.png" height="200"/> <img src="https://cdn.olympusgg.com/images/monsters/1065.png" height="100"/>
 
+<br/><br/>
 <font color="#88B4D3"> Quest Reward: </font>EXP <img src="https://cdn.olympusgg.com/images/1089.png"/> + 250k <img src="https://cdn.olympusgg.com/images/1088.png"/> + 4x Strong Ice Flower Oil <img src="https://cdn.olympusgg.com/images/2456.png"/>
 
 ---
@@ -231,7 +226,7 @@ Have a conversation with [<b>John the Adventurer</b>]
 Have a conversation with [<b>Fire Alchemist</b>] 
 <img src="https://i.imgur.com/XrMenyS.png" height="200"/> <img src="https://cdn.olympusgg.com/images/monsters/1098.png" height="100"/>
 
-
+<br/><br/>
 <font color="#88B4D3"> Quest Reward: </font>EXP <img src="https://cdn.olympusgg.com/images/1089.png"/> + 250k <img src="https://cdn.olympusgg.com/images/1088.png"/> + 10x refreshing ground water <img src="https://cdn.olympusgg.com/images/2376.png"/>
 
 ---
@@ -240,6 +235,7 @@ Have a conversation with [<b>Fire Alchemist</b>]
 Hunt [<b>Flame Giant</b>] and collect 10x [<b>Flame Giant's Heart</b>]  <img src="https://cdn.olympusgg.com/images/1159.png"/>
 <img src="https://i.imgur.com/Ru5ex5u.png" height="200"/> <img src="https://cdn.olympusgg.com/images/monsters/1047.png" height="100"/>
 
+<br/><br/>
 <font color="#88B4D3"> Quest Reward: </font>250k <img src="https://cdn.olympusgg.com/images/1088.png"/> + 10x Refreshing Ground Water <img src="https://cdn.olympusgg.com/images/2376.png"/>
 
 ---
@@ -248,6 +244,7 @@ Hunt [<b>Flame Giant</b>] and collect 10x [<b>Flame Giant's Heart</b>]  <img src
 Have a conversation with [<b>Fire Alchemist</b>] 
 <img src="https://i.imgur.com/XrMenyS.png" height="200"/> <img src="https://cdn.olympusgg.com/images/monsters/1098.png" height="100"/>
 
+<br/><br/>
 <font color="#88B4D3"> Quest Reward: </font>EXP <img src="https://cdn.olympusgg.com/images/1089.png"/> + 3x Earth Crystal <img src="https://cdn.olympusgg.com/images/2448.png"/> + 1x Heat Resistance Potion (Quest) <img src="https://cdn.olympusgg.com/images/1199.png"/>
 
 ---
@@ -256,6 +253,7 @@ Have a conversation with [<b>Fire Alchemist</b>]
 Have a conversation with [<b>John the Adventurer</b>] while having 1x [<b>Heat Resistance Potion (Quest)</b>] <img src="https://cdn.olympusgg.com/images/1199.png"/>
 <img src="https://i.imgur.com/MRIUcn9.png" height="200"/> <img src="https://cdn.olympusgg.com/images/monsters/1092.png" height="100"/>
 
+<br/><br/>
 <font color="#88B4D3"> Quest Reward: </font>EXP <img src="https://cdn.olympusgg.com/images/1089.png"/> + 250k <img src="https://cdn.olympusgg.com/images/1088.png"/> + 1x Strong Ice Flower <img src="https://cdn.olympusgg.com/images/2456.png"/> + 10x Large Heat Resistance Potion <img src="https://cdn.olympusgg.com/images/1199.png"/>
 
 ---
@@ -264,6 +262,7 @@ Have a conversation with [<b>John the Adventurer</b>] while having 1x [<b>Heat R
 Have a conversation with [<b>Priestess Serizad</b>] 
 <img src="https://i.imgur.com/xUj6isq.png" height="200"/> <img src="https://cdn.olympusgg.com/images/monsters/1065.png" height="100"/>
 
+<br/><br/>
 <font color="#88B4D3"> Quest Reward: </font>EXP <img src="https://cdn.olympusgg.com/images/1089.png"/> + 250k <img src="https://cdn.olympusgg.com/images/1088.png"/>
 
 ---
@@ -272,6 +271,7 @@ Have a conversation with [<b>Priestess Serizad</b>]
 Have a conversation with [<b>Priestess Serizad</b>] 
 <img src="https://i.imgur.com/xUj6isq.png" height="200"/> <img src="https://cdn.olympusgg.com/images/monsters/1065.png" height="100"/>
 
+<br/><br/>
 <font color="#88B4D3"> Quest Reward: </font>1x Strong Ice Flower Oil <img src="https://cdn.olympusgg.com/images/2456.png"/> + 1x Grenigas' Raid Seal <img src="https://cdn.olympusgg.com/images/2462.png"/>
 
 ---
@@ -286,6 +286,7 @@ Hunt 1x [<b>Grail's Shadow</b>]
 Have a conversation with [<b>Priestess Serizad</b>] 
 <img src="https://i.imgur.com/xUj6isq.png" height="200"/> <img src="https://cdn.olympusgg.com/images/monsters/1065.png" height="100"/>
 
+<br/><br/>
 <font color="#88B4D3"> Quest Reward: </font>EXP <img src="https://cdn.olympusgg.com/images/1089.png"/> + 250k <img src="https://cdn.olympusgg.com/images/1088.png"/> + 10x refreshing ground water <img src="https://cdn.olympusgg.com/images/2376.png"/> + 30x Burning Chicken <img src="https://cdn.olympusgg.com/images/2351.png"/>
 
 ---
