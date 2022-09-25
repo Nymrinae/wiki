@@ -121,6 +121,10 @@ hide_title: true
 | Pet | Stats | Pet buff | Player buff |
 | -------- | -------- | -------- | -------- |
 |![](https://i.imgur.com/7jDzy4L.png)|![](https://i.imgur.com/Afpep7o.png)|![](https://i.imgur.com/hp3cb5b.png)|![](https://i.imgur.com/2D0oWBX.png)|
+### ``Cowboy Bushi``
+| Pet | Stats | Pet buff | Player buff |
+| -------- | -------- | -------- | -------- |
+|![](https://cdn.olympusgg.com/images/monsters/844.png)|![](https://i.imgur.com/3ervJiR.png)|![](https://i.imgur.com/1rd0ZnC.png)|![](https://i.imgur.com/89Ok4m5.png)|
 
 
 ## **Bushtails**
