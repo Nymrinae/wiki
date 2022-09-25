@@ -12,6 +12,10 @@ hide_table_of_contents: false
 import BCard from "../src/components/bcard";
 import ItemIcon from "../src/components/itemicon";   
 
+> 25/09/2022 - 19:40 (17:40 ST) <br/>
+> Server Version: 2.12.0 <br/>
+> Client Version: 1.162.0 <br/>
+
 ## Intro
 This update includes mostly bug fixes & technical reworks. This does not mean we are not working, we are in the end of testing phases of the following:
 - Act7.2 - The Celestial Spire
@@ -58,3 +62,12 @@ This update includes mostly bug fixes & technical reworks. This does not mean we
 - <font color="#fd4949">[REMOVE]</font> Peepo Sus Chest <img src="https://i.imgur.com/e7UbBVk.png" width="25px"/>
 - <font color="orange">[NEW]</font>  Kappa <img src="https://i.imgur.com/Jv0aym9.png" width="25px"/>
 - <font color="orange">[NEW]</font>  Player <img src="https://i.imgur.com/ydxGP5u.png" width="25px"/>
+
+---
+
+> 25/09/2022 - 20:55 (18:55 ST) <br/>
+
+# Fixes
+- Fixed Bazaar listing issue
+- Fixed some people could not get back from act4
+- Fixed Gilded Wings were not available in Wings Swapper

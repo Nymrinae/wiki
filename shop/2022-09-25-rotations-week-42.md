@@ -14,7 +14,7 @@ import ItemIcon from "../src/components/itemicon";
 
 ## Wings
 - <font color="#fd4949">[REMOVE]</font> Blade Wings Random Box <ItemIcon iconId="4324" width="25px"/> 
-- <font color="orange">[NEW]</font> Gilded Wings Random Box <img src="https://i.imgur.com/yKbL0vh.png" width="36"/>
+- <font color="orange">[NEW]</font> Gilded Wings Random Box <img src="https://i.imgur.com/F0RHf0O.png" width="36"/>
 
 ![](https://i.imgur.com/TB3QJfN.png)
 

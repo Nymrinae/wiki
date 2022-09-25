@@ -25,26 +25,25 @@ hide_title: true
 
 **Indications:**
 
-- The levers with this symbol ![](https://imagizer.imageshack.com/img923/6427/2zgVM6.png) are the correct levers
-- The levers with this symbol ![](https://imagizer.imageshack.com/img924/9690/UuZ5cs.png) are the levers that you should not activate
+- All levers must be taken care of
 
 **MAP 1**
 
-- Levers to operate: 4 Levers ![](https://imagizer.imageshack.com/img923/6427/2zgVM6.png) 
-- Monster to hunt: 1 Commander ![](https://imagizer.imageshack.com/img922/2164/f7tM6Y.png)
+- Levers to operate: 7 Levers ![](https://imagizer.imageshack.com/img923/6427/2zgVM6.png) 
+- Monster to hunt: 2 Commander ![](https://imagizer.imageshack.com/img922/2164/f7tM6Y.png)
 
 **Follow the raid map:**
 <p align="center">
-<img src="https://imageshack.com/i/pnGB5cm0p" border="0"/></p>
+<img src="https://i.imgur.com/nCGC1wl.png" border="0"/></p>
 
 **MAP 2**
 
-- Levers to operate: 3 Levers ![](https://imagizer.imageshack.com/img923/6427/2zgVM6.png) 
+- Levers to operate: 6 Levers ![](https://imagizer.imageshack.com/img923/6427/2zgVM6.png) 
 - Monster to hunt: 2 Commanders ![](https://imagizer.imageshack.com/img922/2164/f7tM6Y.png)
 
 **Follow the raid map:**
 <p align="center">
-<img src="https://imagizer.imageshack.com/img923/4420/Y07Nmk.png" border="0"/></p>
+<img src="https://i.imgur.com/DSdJDtl.png" border="0"/></p>
 
 ## Bonus
 
