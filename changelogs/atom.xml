@@ -2,11 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wiki.olympusgg.com/changelogs</id>
     <title>Olympus Wiki Blog</title>
-    <updated>2022-09-25T00:00:00.000Z</updated>
+    <updated>2022-10-02T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wiki.olympusgg.com/changelogs"/>
     <subtitle>Olympus Wiki Blog</subtitle>
     <icon>https://wiki.olympusgg.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Changelog - 02/10/2022]]></title>
+        <id>2022-10-02-changelog</id>
+        <link href="https://wiki.olympusgg.com/changelogs/2022-10-02-changelog"/>
+        <updated>2022-10-02T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[02/10/2022 - 1930 ST)]]></summary>
+        <content type="html"><![CDATA[<blockquote><p>02/10/2022 - 19:30 (17:30 ST) <br>
+Server Version: 2.18.0 <br>
+Client Version: 1.165.0 <br></p></blockquote><h2 class="anchor anchorWithStickyNavbar_LWe7" id="fixes">Fixes<a class="hash-link" href="#fixes" title="Direct link to heading">​</a></h2><ul><li>Fixed a bug where pets like "Pix" would disappear from pet list in character info and miniland</li><li>Fixed a bug where partner skills would sometimes not have cooldown</li><li>Fixed a bug where relogging would restore destroyed specialist cards</li><li>Fixed a bug where hats would be visible after removing a specialist card with "hats disabled" option</li><li>Fixed a bug where event specialists could be put in card holders</li><li>Fixed a bug where pets &amp; partners would not be saved under a certain scenario</li><li>Fixed description of achievement "Garton's Camp Area Monsters"</li></ul>]]></content>
+        <author>
+            <name>Protect</name>
+        </author>
+        <category label="changelog" term="changelog"/>
+        <category label="changes" term="changes"/>
+        <category label="fixes" term="fixes"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Changelog - 25/09/2022]]></title>
         <id>2022-09-25-changelog</id>
