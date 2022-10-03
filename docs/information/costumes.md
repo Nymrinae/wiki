@@ -98,6 +98,15 @@ hide_title: true
 |:-:|:-: |:-:|
 | ![](https://i.imgur.com/HqJ3b3L.png) | ![](https://i.imgur.com/cmhjcko.png) |  ![](https://i.imgur.com/DvQigTv.png)|
 
+### ``Frost Warrior``
+| Costume Male | Costume Female | 
+|:-:|:-: |
+| ![](https://i.imgur.com/GXZ6iw6.png) | ![](https://i.imgur.com/8xAuMIZ.png) |
+
+| Costume  | Costume Hat |    
+|:-:|:-: |
+| ![](https://i.imgur.com/5j2O9HW.png) | ![](https://i.imgur.com/VMcrw6S.png)|
+
 ### ``Football Costume``
 | Costume Male | Costume Female | 
 |:-:|:-: |
@@ -256,6 +265,15 @@ hide_title: true
 | Costume  | Costume Hat | Lapis Blessing |    
 |:-:|:-:|:-:|
 | ![](https://i.imgur.com/6L3XmrY.png) | ![](https://i.imgur.com/xfJYTvI.png) | ![](https://i.imgur.com/cGnojaQ.png)|
+
+### ``Auqa Bushtal Costume``
+| Costume Male | Costume Female | 
+|:-:|:-:|
+| ![](https://i.imgur.com/qpNQKRn.png) | ![](https://i.imgur.com/hLRdICk.png) |
+
+| Costume  | Costume Hat | Freeze  |    
+|:-:|:-:|:-:|
+| ![](https://i.imgur.com/pgdmKmg.png) | ![](https://i.imgur.com/DmH51eu.png) | ![](https://i.imgur.com/WPzhOnK.png)|
 
 
 ## **Costumes Wings **

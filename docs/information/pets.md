@@ -165,7 +165,7 @@ hide_title: true
 ### ``Sick Bushtail``
 | Pet | Stats | Debuff |
 | -------- | -------- | -------- |
-|![](https://i.imgur.com/XVQh4Fd.png)|![](https://i.imgur.com/KE5Ldz0.png)|![](https://i.imgur.com/kklRda6.png)|
+|![](https://i.imgur.com/XVQh4Fd.png)|![](https://i.imgur.com/KE5Ldz0.png)|![](https://i.imgur.com/O5jxvtH.png)|
 ### ``Special Ops Bushi``
 | Pet | Stats | Debuff |
 | -------- | -------- | -------- |
