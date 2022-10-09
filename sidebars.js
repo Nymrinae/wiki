@@ -68,7 +68,8 @@ module.exports = {
           items: [
             { type: 'doc', id: 'guides/quests/valhalla-questline', label: 'Valhalla Questline', className:'valhallaquestline-icon' },
             { type: 'doc', id: 'guides/quests/act-5.2-questline', label: 'Act 5.2 Questline', className:'act52questline-icon' },
-            { type: 'doc', id: 'guides/quests/act-6-questline', label: 'Act 6 Questline', className:'q6-1-icon' },
+            { type: 'doc', id: 'guides/quests/act-6.1-questline', label: 'Act 6.1 Questline', className:'q6-1-icon' },
+            { type: 'doc', id: 'guides/quests/act-6.2-questline', label: 'Act 6.2 Questline', className:'q6-1-icon' },
             { type: 'doc', id: 'guides/quests/act-6-daily-quests', label: 'Act 6 Daily Quests', className:'dquest-icon' },
           ]
         },

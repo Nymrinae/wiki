@@ -457,17 +457,6 @@ Hunt 1x [<b>Commander Garton</b>]
 Succesfully Complete 1x [<b>Ibrahim</b>] raid <img src="https://cdn.olympusgg.com/images/1892.png"/>
 <font color="#88B4D3"><br/> Quest Reward: </font>  EXP <img src="https://cdn.olympusgg.com/images/1089.png"/>
 
----
-
-#### <font color="#3399ff"> Hide and Seek (2)</font> 
-Succesfully Complete 1x [<b>Ibrahim</b>] raid <img src="https://cdn.olympusgg.com/images/1892.png"/>
-<font color="#88B4D3"><br/> Quest Reward: </font>  EXP <img src="https://cdn.olympusgg.com/images/1089.png"/>
-
----
-
-#### <font color="#3399ff"> Hide and Seek (3) </font> 
-Succesfully Complete 1x [<b>Ibrahim</b>] raid <img src="https://cdn.olympusgg.com/images/1892.png"/>
-<font color="#88B4D3"><br/> Quest Reward: </font>  EXP <img src="https://cdn.olympusgg.com/images/1089.png"/>
 
 ---
 
