@@ -12842,43 +12842,6 @@
                     }]
                 },
                 {
-                    "title": "Flame Attack +2",
-                    "times": "Casting time : 0.1 sec.\nCool time : 6 seconds\nConsumption MP: 100",
-                    "range": "Attack Range: 2 cell\nTarget: Select One",
-                    "fairyEffect": "With the equipment of Fire Fairy,\nattribute spirit will be added.",
-                    "bcard": [{
-                            "desc": "Melee attack is increased by",
-                            "value": "75"
-                        },
-                        {
-                            "desc": "Fire element is increased by",
-                            "value": "75"
-                        }
-                    ],
-                    "rank": "(E).",
-                    "img": "https://cdn.olympusgg.com/images/6417.png",
-                    "effectImg": ["https://cdn.olympusgg.com/images/10509.png"],
-                    "bcardEffects": ["There is a 8% chance of causing"],
-                    "effects": [{
-                        "title": "Cursed Flame",
-                        "img": "https://cdn.olympusgg.com/images/10509.png",
-                        "desc": "",
-                        "type": "Debuff",
-                        "duration": 2,
-                        "bcard": [{
-                                "desc": "Movement impossible",
-                                "value": ""
-                            },
-                            {
-                                "desc": "No attack possible",
-                                "value": ""
-                            }
-                        ],
-                        "rank": "(E).",
-                        "level": 3
-                    }]
-                },
-                {
                     "title": "Flame Attack +1",
                     "times": "Casting time : 0.1 sec.\nCool time : 6 seconds\nConsumption MP: 100",
                     "range": "Attack Range: 2 cell\nTarget: Select One",
