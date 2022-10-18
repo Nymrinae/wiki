@@ -14304,5 +14304,732 @@
                 }
             ]
         ]
+    },
+    {
+        "cardName": "Little Princess Venus Specialist Partner Card",
+        "buttonImg": "https://cdn.olympusgg.com/images/2810.png",
+        "iconImg": "https://cdn.olympusgg.com/images/27378.png",
+        "pspImg": "https://i.imgur.com/Rp2ud7A.png",
+        "partner1Img": "https://cdn.olympusgg.com/images/8311.png",
+        "partner2Img": "https://cdn.olympusgg.com/images/8120.png",
+        "partner3Img": "https://cdn.olympusgg.com/images/10522.png",
+        "partner4Img": "https://cdn.olympusgg.com/images/10523.png",
+        "playerBuff": {
+            "title": "Little Princess Venus \n(F)/(E)/(D)/(C)/(B)/(A)/(S)",
+            "img": "https://cdn.olympusgg.com/images/2810.png",
+            "desc": "Partner's following effect.",
+            "type": "Buff",
+            "duration": 300,
+            "bcard": [{
+                "desc": "All attacks are increased by \n 50/70/90/110/130/150/200.",
+                "value": ""
+            }],
+            "rank": "",
+            "level": 10
+        },
+        "resistances": {
+            "fire": 6,
+            "water": 8,
+            "light": 15,
+            "shadow": 1
+        },
+        "skills": [
+            [{
+                    "title": "Umbrella Slice +7",
+                    "times": "Casting time : 0.6 sec.\nCool time : 13 seconds\nConsumption MP: 100",
+                    "range": "Attack Range: Itself\nTarget: Around Enemy in 10 cell",
+                    "fairyEffect": "",
+                    "bcard": [{
+                            "desc": "Melee attack is increased by",
+                            "value": "275"
+                        },
+                        {
+                            "desc": "Light element is increased by",
+                            "value": "275"
+                        }
+                    ],
+                    "rank": "(S).",
+                    "img": "https://cdn.olympusgg.com/images/6260.png",
+                    "effectImg": ["https://cdn.olympusgg.com/images/6261.png"],
+                    "bcardEffects": ["There is a 5% chance of causing"],
+                    "effects": [{
+                        "title": "Sword Trail",
+                        "img": "https://cdn.olympusgg.com/images/6261.png",
+                        "desc": "A random slice causes critival \n bleeding.",
+                        "type": "Debuff",
+                        "duration": 6,
+                        "bcard": [{
+                                "desc": "Every 2 seconds: HP is reduced by \n ",
+                                "value": "(Player Level*11)"
+                            },
+                            {
+                                "desc": "Movement speed is decreased by 1.",
+                                "value": ""
+                            }
+                        ],
+                        "rank": "(S).",
+                        "level": 5
+                    }]
+                },
+                {
+                    "title": "Umbrella Slice +6",
+                    "times": "Casting time : 0.6 sec.\nCool time : 13 seconds\nConsumption MP: 100",
+                    "range": "Attack Range: Itself\nTarget: Around Enemy in 10 cell",
+                    "fairyEffect": "",
+                    "bcard": [{
+                            "desc": "Melee attack is increased by",
+                            "value": "165"
+                        },
+                        {
+                            "desc": "Light element is increased by",
+                            "value": "165"
+                        }
+                    ],
+                    "rank": "(A).",
+                    "img": "https://cdn.olympusgg.com/images/6260.png",
+                    "effectImg": ["https://cdn.olympusgg.com/images/6261.png"],
+                    "bcardEffects": ["There is a 5% chance of causing"],
+                    "effects": [{
+                        "title": "Sword Trail",
+                        "img": "https://cdn.olympusgg.com/images/6261.png",
+                        "desc": "A random slice causes critival \n bleeding.",
+                        "type": "Debuff",
+                        "duration": 6,
+                        "bcard": [{
+                                "desc": "Every 2 seconds: HP is reduced by \n ",
+                                "value": "(Player Level*10)"
+                            }
+                        ],
+                        "rank": "(A).",
+                        "level": 3
+                    }]
+                },
+                {
+                    "title": "Umbrella Slice +5",
+                    "times": "Casting time : 0.6 sec.\nCool time : 13 seconds\nConsumption MP: 100",
+                    "range": "Attack Range: Itself\nTarget: Around Enemy in 10 cell",
+                    "fairyEffect": "",
+                    "bcard": [{
+                            "desc": "Melee attack is increased by",
+                            "value": "132"
+                        },
+                        {
+                            "desc": "Light element is increased by",
+                            "value": "132"
+                        }
+                    ],
+                    "rank": "(B).",
+                    "img": "https://cdn.olympusgg.com/images/6260.png",
+                    "effectImg": ["https://cdn.olympusgg.com/images/6261.png"],
+                    "bcardEffects": ["There is a 5% chance of causing"],
+                    "effects": [{
+                        "title": "Sword Trail",
+                        "img": "https://cdn.olympusgg.com/images/6261.png",
+                        "desc": "A random slice causes critival \n bleeding.",
+                        "type": "Debuff",
+                        "duration": 6,
+                        "bcard": [{
+                                "desc": "Every 2 seconds: HP is reduced by \n ",
+                                "value": "(Player Level*9)"
+                            }
+                        ],
+                        "rank": "(B).",
+                        "level": 3
+                    }]
+                },
+                {
+                    "title": "Umbrella Slice +4",
+                    "times": "Casting time : 0.6 sec.\nCool time : 13 seconds\nConsumption MP: 100",
+                    "range": "Attack Range: Itself\nTarget: Around Enemy in 10 cell",
+                    "fairyEffect": "",
+                    "bcard": [{
+                            "desc": "Melee attack is increased by",
+                            "value": "110"
+                        },
+                        {
+                            "desc": "Light element is increased by",
+                            "value": "110"
+                        }
+                    ],
+                    "rank": "(C).",
+                    "img": "https://cdn.olympusgg.com/images/6260.png",
+                    "effectImg": ["https://cdn.olympusgg.com/images/6261.png"],
+                    "bcardEffects": ["There is a 5% chance of causing"],
+                    "effects": [{
+                        "title": "Sword Trail",
+                        "img": "https://cdn.olympusgg.com/images/6261.png",
+                        "desc": "A random slice causes critival \n bleeding.",
+                        "type": "Debuff",
+                        "duration": 6,
+                        "bcard": [{
+                                "desc": "Every 2 seconds: HP is reduced by \n ",
+                                "value": "(Player Level*8)"
+                            }
+                        ],
+                        "rank": "(C).",
+                        "level": 2
+                    }]
+                },
+                {
+                    "title": "Umbrella Slice +3",
+                    "times": "Casting time : 0.6 sec.\nCool time : 13 seconds\nConsumption MP: 100",
+                    "range": "Attack Range: Itself\nTarget: Around Enemy in 10 cell",
+                    "fairyEffect": "",
+                    "bcard": [{
+                            "desc": "Melee attack is increased by",
+                            "value": "88"
+                        },
+                        {
+                            "desc": "Light element is increased by",
+                            "value": "88"
+                        }
+                    ],
+                    "rank": "(D).",
+                    "img": "https://cdn.olympusgg.com/images/6260.png",
+                    "effectImg": ["https://cdn.olympusgg.com/images/6261.png"],
+                    "bcardEffects": ["There is a 5% chance of causing"],
+                    "effects": [{
+                        "title": "Sword Trail",
+                        "img": "https://cdn.olympusgg.com/images/6261.png",
+                        "desc": "A random slice causes critival \n bleeding.",
+                        "type": "Debuff",
+                        "duration": 6,
+                        "bcard": [{
+                                "desc": "Every 2 seconds: HP is reduced by \n ",
+                                "value": "(Player Level*7)"
+                            }
+                        ],
+                        "rank": "(D).",
+                        "level": 2
+                    }]
+                },
+                {
+                    "title": "Umbrella Slice +2",
+                    "times": "Casting time : 0.6 sec.\nCool time : 13 seconds\nConsumption MP: 100",
+                    "range": "Attack Range: Itself\nTarget: Around Enemy in 10 cell",
+                    "fairyEffect": "",
+                    "bcard": [{
+                            "desc": "Melee attack is increased by",
+                            "value": "55"
+                        },
+                        {
+                            "desc": "Light element is increased by",
+                            "value": "55"
+                        }
+                    ],
+                    "rank": "(E).",
+                    "img": "https://cdn.olympusgg.com/images/6260.png",
+                    "effectImg": ["https://cdn.olympusgg.com/images/6261.png"],
+                    "bcardEffects": ["There is a 5% chance of causing"],
+                    "effects": [{
+                        "title": "Sword Trail",
+                        "img": "https://cdn.olympusgg.com/images/6261.png",
+                        "desc": "A random slice causes critival \n bleeding.",
+                        "type": "Debuff",
+                        "duration": 6,
+                        "bcard": [{
+                                "desc": "Every 2 seconds: HP is reduced by \n ",
+                                "value": "(Player Level*6)"
+                            }
+                        ],
+                        "rank": "(E).",
+                        "level": 1
+                    }]
+                },
+                {
+                    "title": "Umbrella Slice +1",
+                    "times": "Casting time : 0.6 sec.\nCool time : 13 seconds\nConsumption MP: 100",
+                    "range": "Attack Range: Itself\nTarget: Around Enemy in 10 cell",
+                    "fairyEffect": "",
+                    "bcard": [{
+                            "desc": "Melee attack is increased by",
+                            "value": "33"
+                        },
+                        {
+                            "desc": "Light element is increased by",
+                            "value": "33"
+                        }
+                    ],
+                    "rank": "(F).",
+                    "img": "https://cdn.olympusgg.com/images/6260.png",
+                    "effectImg": ["https://cdn.olympusgg.com/images/6261.png"],
+                    "bcardEffects": ["There is a 5% chance of causing"],
+                    "effects": [{
+                        "title": "Sword Trail",
+                        "img": "https://cdn.olympusgg.com/images/6261.png",
+                        "desc": "A random slice causes critival \n bleeding.",
+                        "type": "Debuff",
+                        "duration": 6,
+                        "bcard": [{
+                                "desc": "Every 2 seconds: HP is reduced by \n ",
+                                "value": "(Player Level*5)"
+                            }
+                        ],
+                        "rank": "(F).",
+                        "level": 1
+                    }]
+                }               
+            ],
+            [{
+                    "title": "Blossom Blast +7",
+                    "times": "Casting time : 0.6 sec.\nCool time : 20 seconds\nConsumption MP: 180",
+                    "range": "Attack Range: Itself\nTarget: Around Enemy in 5 cell",
+                    "fairyEffect": "",
+                    "bcard": [{
+                            "desc": "Melee attack is increased by",
+                            "value": "325"
+                        },
+                        {
+                            "desc": "Light element is increased by",
+                            "value": "325"
+                        }
+                    ],
+                    "rank": "(S).",
+                    "img": "https://cdn.olympusgg.com/images/6262.png",
+                    "effectImg": ["https://cdn.olympusgg.com/images/6263.png"],
+                    "bcardEffects": ["There is a 60% chance of causing"],
+                    "effects": [{
+                        "title": "Blunder",
+                        "img": "https://cdn.olympusgg.com/images/6263.png",
+                        "desc": "Heavy damage puts you in \n jeopardy.",
+                        "type": "Debuff",
+                        "duration": 6,
+                        "bcard": [{
+                                "desc": "There is a 20% chance that \n damage received from all attacks is \n increased by",
+                                "value": "25%."
+                            },
+                            {
+                                "desc": "Mana for using magic skills is \n increased by",
+                                "value": "120%."
+                            },
+                            {
+                                "desc": "The effectiveness of recovery \n items is decreased by",
+                                "value": "25%."
+                            }
+                        ],
+                        "rank": "(S).",
+                        "level": 5
+                    }]
+                },
+                {
+                    "title": "Blossom Blast +6",
+                    "times": "Casting time : 0.6 sec.\nCool time : 20 seconds\nConsumption MP: 180",
+                    "range": "Attack Range: Itself\nTarget: Around Enemy in 5 cell",
+                    "fairyEffect": "",
+                    "bcard": [{
+                            "desc": "Melee attack is increased by",
+                            "value": "195"
+                        },
+                        {
+                            "desc": "Light element is increased by",
+                            "value": "195"
+                        }
+                    ],
+                    "rank": "(A).",
+                    "img": "https://cdn.olympusgg.com/images/6262.png",
+                    "effectImg": ["https://cdn.olympusgg.com/images/6263.png"],
+                    "bcardEffects": ["There is a 60% chance of causing"],
+                    "effects": [{
+                        "title": "Blunder",
+                        "img": "https://cdn.olympusgg.com/images/6263.png",
+                        "desc": "Heavy damage puts you in \n jeopardy.",
+                        "type": "Debuff",
+                        "duration": 6,
+                        "bcard": [{
+                                "desc": "There is a 20% chance that \n damage received from all attacks is \n increased by",
+                                "value": "20%."
+                            },
+                            {
+                                "desc": "Mana for using magic skills is \n increased by",
+                                "value": "70%."
+                            }
+                        ],
+                        "rank": "(A).",
+                        "level": 3
+                    }]
+                },
+                {
+                    "title": "Blossom Blast +5",
+                    "times": "Casting time : 0.6 sec.\nCool time : 20 seconds\nConsumption MP: 180",
+                    "range": "Attack Range: Itself\nTarget: Around Enemy in 5 cell",
+                    "fairyEffect": "",
+                    "bcard": [{
+                            "desc": "Melee attack is increased by",
+                            "value": "156"
+                        },
+                        {
+                            "desc": "Light element is increased by",
+                            "value": "132"
+                        }
+                    ],
+                    "rank": "(B).",
+                    "img": "https://cdn.olympusgg.com/images/6262.png",
+                    "effectImg": ["https://cdn.olympusgg.com/images/6263.png"],
+                    "bcardEffects": ["There is a 60% chance of causing"],
+                    "effects": [{
+                        "title": "Blunder",
+                        "img": "https://cdn.olympusgg.com/images/6263.png",
+                        "desc": "Heavy damage puts you in \n jeopardy.",
+                        "type": "Debuff",
+                        "duration": 6,
+                        "bcard": [{
+                                "desc": "There is a 15% chance that \n damage received from all attacks is \n increased by",
+                                "value": "20%."
+                            },
+                            {
+                                "desc": "Mana for using magic skills is \n increased by",
+                                "value": "60%."
+                            }
+                        ],
+                        "rank": "(B).",
+                        "level": 3
+                    }]
+                },
+                {
+                    "title": "Blossom Blast +4",
+                    "times": "Casting time : 0.6 sec.\nCool time : 20 seconds\nConsumption MP: 180",
+                    "range": "Attack Range: Itself\nTarget: Around Enemy in 5 cell",
+                    "fairyEffect": "",
+                    "bcard": [{
+                            "desc": "Melee attack is increased by",
+                            "value": "130"
+                        },
+                        {
+                            "desc": "Light element is increased by",
+                            "value": "110"
+                        }
+                    ],
+                    "rank": "(C).",
+                    "img": "https://cdn.olympusgg.com/images/6262.png",
+                    "effectImg": ["https://cdn.olympusgg.com/images/6263.png"],
+                    "bcardEffects": ["There is a 60% chance of causing"],
+                    "effects": [{
+                        "title": "Blunder",
+                        "img": "https://cdn.olympusgg.com/images/6263.png",
+                        "desc": "Heavy damage puts you in \n jeopardy.",
+                        "type": "Debuff",
+                        "duration": 6,
+                        "bcard": [{
+                                "desc": "There is a 15% chance that \n damage received from all attacks is \n increased by",
+                                "value": "15%."
+                            },
+                            {
+                                "desc": "Mana for using magic skills is \n increased by",
+                                "value": "50%."
+                            }
+                        ],
+                        "rank": "(C).",
+                        "level": 2
+                    }]
+                },
+                {
+                    "title": "Blossom Blast +3",
+                    "times": "Casting time : 0.6 sec.\nCool time : 20 seconds\nConsumption MP: 180",
+                    "range": "Attack Range: Itself\nTarget: Around Enemy in 5 cell",
+                    "fairyEffect": "",
+                    "bcard": [{
+                            "desc": "Melee attack is increased by",
+                            "value": "104"
+                        },
+                        {
+                            "desc": "Light element is increased by",
+                            "value": "88"
+                        }
+                    ],
+                    "rank": "(D).",
+                    "img": "https://cdn.olympusgg.com/images/6262.png",
+                    "effectImg": ["https://cdn.olympusgg.com/images/6263.png"],
+                    "bcardEffects": ["There is a 60% chance of causing"],
+                    "effects": [{
+                        "title": "Blunder",
+                        "img": "https://cdn.olympusgg.com/images/6263.png",
+                        "desc": "Heavy damage puts you in \n jeopardy.",
+                        "type": "Debuff",
+                        "duration": 6,
+                        "bcard": [{
+                                "desc": "There is a 10% chance that \n damage received from all attacks is \n increased by",
+                                "value": "15%."
+                            },
+                            {
+                                "desc": "Mana for using magic skills is \n increased by",
+                                "value": "40%."
+                            }
+                        ],
+                        "rank": "(D).",
+                        "level": 2
+                    }]
+                },
+                {
+                    "title": "Blossom Blast +2",
+                    "times": "Casting time : 0.6 sec.\nCool time : 20 seconds\nConsumption MP: 180",
+                    "range": "Attack Range: Itself\nTarget: Around Enemy in 5 cell",
+                    "fairyEffect": "",
+                    "bcard": [{
+                            "desc": "Melee attack is increased by",
+                            "value": "65"
+                        },
+                        {
+                            "desc": "Light element is increased by",
+                            "value": "55"
+                        }
+                    ],
+                    "rank": "(E).",
+                    "img": "https://cdn.olympusgg.com/images/6262.png",
+                    "effectImg": ["https://cdn.olympusgg.com/images/6263.png"],
+                    "bcardEffects": ["There is a 60% chance of causing"],
+                    "effects": [{
+                        "title": "Blunder",
+                        "img": "https://cdn.olympusgg.com/images/6263.png",
+                        "desc": "Heavy damage puts you in \n jeopardy.",
+                        "type": "Debuff",
+                        "duration": 6,
+                        "bcard": [{
+                                "desc": "There is a 10% chance that \n damage received from all attacks is \n increased by",
+                                "value": "10%."
+                            },
+                            {
+                                "desc": "Mana for using magic skills is \n increased by",
+                                "value": "30%."
+                            }
+                        ],
+                        "rank": "(E).",
+                        "level": 1
+                    }]
+                },
+                {
+                    "title": "Blossom Blast +1",
+                    "times": "Casting time : 0.6 sec.\nCool time : 20 seconds\nConsumption MP: 180",
+                    "range": "Attack Range: Itself\nTarget: Around Enemy in 5 cell",
+                    "fairyEffect": "",
+                    "bcard": [{
+                            "desc": "Melee attack is increased by",
+                            "value": "39"
+                        },
+                        {
+                            "desc": "Light element is increased by",
+                            "value": "33"
+                        }
+                    ],
+                    "rank": "(F).",
+                    "img": "https://cdn.olympusgg.com/images/6262.png",
+                    "effectImg": ["https://cdn.olympusgg.com/images/6263.png"],
+                    "bcardEffects": ["There is a 60% chance of causing"],
+                    "effects": [{
+                        "title": "Blunder",
+                        "img": "https://cdn.olympusgg.com/images/6263.png",
+                        "desc": "Heavy damage puts you in \n jeopardy.",
+                        "type": "Debuff",
+                        "duration": 6,
+                        "bcard": [{
+                                "desc": "There is a 5% chance that \n damage received from all attacks is \n increased by",
+                                "value": "10%."
+                            },
+                            {
+                                "desc": "Mana for using magic skills is \n increased by",
+                                "value": "20%."
+                            }
+                        ],
+                        "rank": "(F).",
+                        "level": 1
+                    }]
+                }
+            ],
+            [{
+                    "title": "Umbrella Shield +7",
+                    "times": "Casting time : 0.4 sec.\nCool time : 9 seconds\nConsumption MP: 220",
+                    "range": "Attack Range: Itself\nTarget: Nosmate",
+                    "fairyEffect": "",
+                    "bcard": [],
+                    "rank": "(S).",
+                    "img": "https://cdn.olympusgg.com/images/6264.png",
+                    "effectImg": ["https://cdn.olympusgg.com/images/6265.png"],
+                    "bcardEffects": ["There is a 100% chance of causing"],
+                    "effects": [{
+                        "title": "Flower Reflector",
+                        "img": "https://cdn.olympusgg.com/images/6265.png",
+                        "desc": "When you receive damage, some \n of it will be reflected. Skills that \n only generate a debuff cannot be reflected.",
+                        "type": "Buff",
+                        "duration": 2,
+                        "bcard": [{
+                                "desc": "Reflects up to 9.999 received \n damage but does not block the attack.",
+                                "value": ""
+                            },
+                            {
+                                "desc": "Reflects an opponent's bad effect \n with a certain likelihood.",
+                                "value": ""
+                            },
+                            {
+                                "desc": "Non-elemental damage received is \n decreased by",
+                                "value": "10%."
+                            }
+                        ],
+                        "rank": "(S).",
+                        "level": 4
+                    }]
+                },
+                {
+                    "title": "Umbrella Shield +6",
+                    "times": "Casting time : 0.4 sec.\nCool time : 9 seconds\nConsumption MP: 220",
+                    "range": "Attack Range: Itself\nTarget: Nosmate",
+                    "fairyEffect": "",
+                    "bcard": [],
+                    "rank": "(A).",
+                    "img": "https://cdn.olympusgg.com/images/6264.png",
+                    "effectImg": ["https://cdn.olympusgg.com/images/6265.png"],
+                    "bcardEffects": ["There is a 100% chance of causing"],
+                    "effects": [{
+                        "title": "Flower Reflector",
+                        "img": "https://cdn.olympusgg.com/images/6265.png",
+                        "desc": "When you receive damage, some \n of it will be reflected. Skills that \n only generate a debuff cannot be reflected.",
+                        "type": "Buff",
+                        "duration": 2,
+                        "bcard": [{
+                                "desc": "Reflects up to 8.888 received \n damage but does not block the attack.",
+                                "value": ""
+                            },
+                            {
+                                "desc": "Reflects an opponent's bad effect \n with a certain likelihood.",
+                                "value": ""
+                            }
+                        ],
+                        "rank": "(A).",
+                        "level": 3
+                    }]
+                },
+               {
+                    "title": "Umbrella Shield +5",
+                    "times": "Casting time : 0.4 sec.\nCool time : 9 seconds\nConsumption MP: 220",
+                    "range": "Attack Range: Itself\nTarget: Nosmate",
+                    "fairyEffect": "",
+                    "bcard": [],
+                    "rank": "(B).",
+                    "img": "https://cdn.olympusgg.com/images/6264.png",
+                    "effectImg": ["https://cdn.olympusgg.com/images/6265.png"],
+                    "bcardEffects": ["There is a 100% chance of causing"],
+                    "effects": [{
+                        "title": "Flower Reflector",
+                        "img": "https://cdn.olympusgg.com/images/6265.png",
+                        "desc": "When you receive damage, some \n of it will be reflected. Skills that \n only generate a debuff cannot be reflected.",
+                        "type": "Buff",
+                        "duration": 2,
+                        "bcard": [{
+                                "desc": "Reflects up to 7.777 received \n damage but does not block the attack.",
+                                "value": ""
+                            },
+                            {
+                                "desc": "Reflects an opponent's bad effect \n with a certain likelihood.",
+                                "value": ""
+                            }
+                        ],
+                        "rank": "(B).",
+                        "level": 3
+                    }]
+                },
+                {
+                    "title": "Umbrella Shield +4",
+                    "times": "Casting time : 0.4 sec.\nCool time : 9 seconds\nConsumption MP: 220",
+                    "range": "Attack Range: Itself\nTarget: Nosmate",
+                    "fairyEffect": "",
+                    "bcard": [],
+                    "rank": "(C).",
+                    "img": "https://cdn.olympusgg.com/images/6264.png",
+                    "effectImg": ["https://cdn.olympusgg.com/images/6265.png"],
+                    "bcardEffects": ["There is a 100% chance of causing"],
+                    "effects": [{
+                        "title": "Flower Reflector",
+                        "img": "https://cdn.olympusgg.com/images/6265.png",
+                        "desc": "When you receive damage, some \n of it will be reflected. Skills that \n only generate a debuff cannot be reflected.",
+                        "type": "Buff",
+                        "duration": 2,
+                        "bcard": [{
+                                "desc": "Reflects up to 6.666 received \n damage but does not block the attack.",
+                                "value": ""
+                            },
+                            {
+                                "desc": "Reflects an opponent's bad effect \n with a certain likelihood.",
+                                "value": ""
+                            }
+                        ],
+                        "rank": "(C).",
+                        "level": 2
+                    }]
+                },
+                {
+                    "title": "Umbrella Shield +3",
+                    "times": "Casting time : 0.4 sec.\nCool time : 9 seconds\nConsumption MP: 220",
+                    "range": "Attack Range: Itself\nTarget: Nosmate",
+                    "fairyEffect": "",
+                    "bcard": [],
+                    "rank": "(D).",
+                    "img": "https://cdn.olympusgg.com/images/6264.png",
+                    "effectImg": ["https://cdn.olympusgg.com/images/6265.png"],
+                    "bcardEffects": ["There is a 100% chance of causing"],
+                    "effects": [{
+                        "title": "Flower Reflector",
+                        "img": "https://cdn.olympusgg.com/images/6265.png",
+                        "desc": "When you receive damage, some \n of it will be reflected. Skills that \n only generate a debuff cannot be reflected.",
+                        "type": "Buff",
+                        "duration": 2,
+                        "bcard": [{
+                                "desc": "Reflects up to 5.555 received \n damage but does not block the attack.",
+                                "value": ""
+                            }
+                        ],
+                        "rank": "(D).",
+                        "level": 2
+                    }]
+                },
+                {
+                    "title": "Umbrella Shield +2",
+                    "times": "Casting time : 0.4 sec.\nCool time : 9 seconds\nConsumption MP: 220",
+                    "range": "Attack Range: Itself\nTarget: Nosmate",
+                    "fairyEffect": "",
+                    "bcard": [],
+                    "rank": "(E).",
+                    "img": "https://cdn.olympusgg.com/images/6264.png",
+                    "effectImg": ["https://cdn.olympusgg.com/images/6265.png"],
+                    "bcardEffects": ["There is a 100% chance of causing"],
+                    "effects": [{
+                        "title": "Flower Reflector",
+                        "img": "https://cdn.olympusgg.com/images/6265.png",
+                        "desc": "When you receive damage, some \n of it will be reflected. Skills that \n only generate a debuff cannot be reflected.",
+                        "type": "Buff",
+                        "duration": 2,
+                        "bcard": [{
+                                "desc": "Reflects up to 4.444 received \n damage but does not block the attack.",
+                                "value": ""
+                            }
+                        ],
+                        "rank": "(E).",
+                        "level": 1
+                    }]
+                },
+                {
+                    "title": "Umbrella Shield +1",
+                    "times": "Casting time : 0.4 sec.\nCool time : 9 seconds\nConsumption MP: 220",
+                    "range": "Attack Range: Itself\nTarget: Nosmate",
+                    "fairyEffect": "",
+                    "bcard": [],
+                    "rank": "(F).",
+                    "img": "https://cdn.olympusgg.com/images/6264.png",
+                    "effectImg": ["https://cdn.olympusgg.com/images/6265.png"],
+                    "bcardEffects": ["There is a 100% chance of causing"],
+                    "effects": [{
+                        "title": "Flower Reflector",
+                        "img": "https://cdn.olympusgg.com/images/6265.png",
+                        "desc": "When you receive damage, some \n of it will be reflected. Skills that \n only generate a debuff cannot be reflected.",
+                        "type": "Buff",
+                        "duration": 2,
+                        "bcard": [{
+                                "desc": "Reflects up to 3.333 received \n damage but does not block the attack.",
+                                "value": ""
+                            }
+                        ],
+                        "rank": "(F).",
+                        "level": 1
+                    }]
+                }
+            ]
+        ]
     }
 ]

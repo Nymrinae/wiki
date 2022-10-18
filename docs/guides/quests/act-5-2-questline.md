@@ -181,7 +181,7 @@ Have a conversation with [<b>Priestess Serizad</b>] when you have [<b>Kertos' Ra
 
 #### <font color="#3399ff"> 22. The Burning Sword </font> 
 Have a conversation with [<b>High Priest Eladin</b>] 
-<img src="https://i.imgur.com/xUj6isq.png" height="200"/> <img src="https://cdn.olympusgg.com/images/monsters/1065.png" height="100"/>
+<img src="https://i.imgur.com/MnPp4aU.png" height="200"/> <img src="https://cdn.olympusgg.com/images/monsters/1066.png" height="100"/>
 
 <br/><br/>
 <font color="#88B4D3"> Quest Reward: </font>EXP <img src="https://cdn.olympusgg.com/images/1089.png"/> + 250k <img src="https://cdn.olympusgg.com/images/1088.png"/> + 3x Strong Ice Flower Oil <img src="https://cdn.olympusgg.com/images/2456.png"/>

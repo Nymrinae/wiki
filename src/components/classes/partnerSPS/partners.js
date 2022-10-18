@@ -229,8 +229,8 @@ const Skill = ({
             {skill.fairyEffect && skill.fairyEffect != "" && (
               <p style={{ color: "#FA5" }}>{skill.fairyEffect}</p>
             )}
-            <p style={{ color: "#f5c478" }}>{skill.times}</p>
             <p style={{ color: "#f5c478" }}>{skill.range}</p>
+            <p style={{ color: "#f5c478" }}>{skill.times}</p>
             {skill.bcard.length > 0 && (
               <>
                 {skill.bcard.map((bcard) => {
