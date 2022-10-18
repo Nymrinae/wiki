@@ -25,7 +25,7 @@ The solo pocket dimension provides an auto loot feature. This feature is a setti
 
 Group pocket dimensions don't have this feature. The loot will be dropped on the ground.
 
-<img src="https://i.imgur.com/G9Y88BQ.png" height="500"/>
+<img src="https://i.imgur.com/IfJoktQ.png)" height="250"/>
 
 
 ## Farming reports
@@ -44,7 +44,7 @@ The farming report contains:
 
 
 ## Locations
-Pocket dimensions are available in many maps, and they are as follows
+Pocket dimensions are available in many maps, and they are as follows:
 
 ### Act 5.1
 
