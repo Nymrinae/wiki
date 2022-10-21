@@ -137,7 +137,7 @@ You can view raid box contents ingame with the NPC "Mysterious Monk" in NosVille
 ![](https://i.imgur.com/wwqSBlr.png)
 
 ### Rainbow Random Box
-![](https://i.imgur.com/v2StFZe.png)
+![](https://i.imgur.com/VXiWy9o.png)
 
 ### Hellord Military Supplies
 ![](https://i.imgur.com/aim5Qrw.png)
