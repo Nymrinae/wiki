@@ -124,6 +124,9 @@ You can view raid box contents ingame with the NPC "Mysterious Monk" in NosVille
 ### Jack O'Lantern
 ![](https://i.imgur.com/e56s77k.png)
 
+### Bag of Sweets
+![](https://i.imgur.com/LsrnZgf.png)
+
 ### Nine-tailed Foxy
 ![](https://i.imgur.com/MXZ0CGc.png)
 
