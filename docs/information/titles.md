@@ -121,3 +121,5 @@ You can choose to display a different title name, while having the effect of ano
 |Chicken Queen Raid <br/> (**Easter** event)|<font color="orange"> BBQ King </font>|<BCard> HP recovery is increased by 150. <br/> MP recovery is increased by 150. </BCard>|
 |Mad March Hare Raid <br/> (**Easter** event)|<font color="#9ab973"> Mad Hatter </font>|<BCard> Maximum MP is increased by 1000. </BCard>|
 |Pete O'Peng Raid <br/> (**Summer** event)|<font color="#00ff00"> Arrrrr! </font>|<BCard> On attack, there is a 3% chance of inflicting Heavy Bleeding on your opponent. </BCard>|
+|Nine-Tailed Foxy Raid <br/> (**Halloween** event)|<font color="#A828A8"> Monstrous </font>|<BCard> Dodge is increased by 3%. </BCard>|
+|Jack O'Lantern Raid <br/> (**Halloween** event)|<font color="#A828A8"> Horror </font>|<BCard> On attack, there is 2% change of inflicting Horror on your opponent. </BCard>|
