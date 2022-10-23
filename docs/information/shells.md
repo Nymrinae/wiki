@@ -86,7 +86,7 @@ Champion Equipment will be calculated as 100Lv.
 | Natural HP Recovery                        | -        | -        | 100      | -        |
 | Natural MP Recovery                        | -        | -        | 100      | -        |
 | Increased Max HP                           | -        | -        | -        | 2000     |
-| Chance of Receiving a Critical Hit Reduced | 6        | 11       | -        | -        |
+| Reduces Opponent's Critical Chance         | 6        | 11       | -        | -        |
 | Increased Fire Resistance                  | -        | 15       | 22       | -        |
 | Increased Water Resistance                 | -        | 15       | 22       | -        |
 | Increased Light Resistance                 | -        | 15       | 22       | -        |
