@@ -275,6 +275,15 @@ hide_title: true
 |:-:|:-:|:-:|
 | ![](https://i.imgur.com/pgdmKmg.png) | ![](https://i.imgur.com/DmH51eu.png) | ![](https://i.imgur.com/WPzhOnK.png)|
 
+### ``Glowing Pumpkin Hat``
+| Costume Male | Costume Female | 
+|:-:|:-:|
+| ![](https://i.imgur.com/PrIWJtf.png) | ![](https://i.imgur.com/Wpo5rdF.png) |
+
+| Costume Hat  | Pumpkin Curse |    
+|:-:|:-:|
+| ![](https://i.imgur.com/kjY1kHj.png)| ![](https://i.imgur.com/JGOVuJF.png) |
+
 ### ``Pumpkin Knight/Pumpkin Witch Costume``
 | Costume Male | Costume Female | 
 |:-:|:-:|
@@ -282,7 +291,7 @@ hide_title: true
 
 | Costume  | Costume Hat |    
 |:-:|:-:|
-| ![](https://i.imgur.com/WZzePZi.png) | ![](https://i.imgur.com/5cRnFfK.png) |
+| ![](https://i.imgur.com/mCEdPdc.png) | ![](https://i.imgur.com/GWqMq2n.png) |
 
 
 ## **Costumes Wings **
@@ -333,4 +342,4 @@ hide_title: true
 
 | Wings  |    
 |:-:|
-| ![](https://i.imgur.com/XDkktIR.png) |
+| ![](https://i.imgur.com/XY4pbx5.png) |
