@@ -266,7 +266,7 @@ hide_title: true
 |:-:|:-:|:-:|
 | ![](https://i.imgur.com/6L3XmrY.png) | ![](https://i.imgur.com/xfJYTvI.png) | ![](https://i.imgur.com/cGnojaQ.png)|
 
-### ``Auqa Bushtal Costume``
+### ``Aqua Bushtail Costume``
 | Costume Male | Costume Female | 
 |:-:|:-:|
 | ![](https://i.imgur.com/qpNQKRn.png) | ![](https://i.imgur.com/hLRdICk.png) |
@@ -274,6 +274,15 @@ hide_title: true
 | Costume  | Costume Hat | Freeze  |    
 |:-:|:-:|:-:|
 | ![](https://i.imgur.com/pgdmKmg.png) | ![](https://i.imgur.com/DmH51eu.png) | ![](https://i.imgur.com/WPzhOnK.png)|
+
+### ``Pumpkin Knight/Pumpkin Witch Costume``
+| Costume Male | Costume Female | 
+|:-:|:-:|
+| ![](https://i.imgur.com/vQpv2d3.png) | ![](https://i.imgur.com/HSt143k.png)|
+
+| Costume  | Costume Hat |    
+|:-:|:-:|
+| ![](https://i.imgur.com/WZzePZi.png) | ![](https://i.imgur.com/5cRnFfK.png) |
 
 
 ## **Costumes Wings **
@@ -316,3 +325,12 @@ hide_title: true
 | Wings  |    
 |:-:|
 | ![](https://i.imgur.com/10gULS8.png) | 
+
+### ``Pumpkin Knight/Pumpkin Witch Costume Wings``
+| Costume Male | Costume Female | 
+|:-:|:-:|
+| ![](https://i.imgur.com/tPmJMkZ.png) | ![](https://i.imgur.com/9umx5Vn.png) |
+
+| Wings  |    
+|:-:|
+| ![](https://i.imgur.com/XDkktIR.png) |

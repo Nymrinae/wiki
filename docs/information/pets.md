@@ -52,12 +52,15 @@ hide_title: true
 | -------- | -------- | -------- | -------- |
 |![](https://i.imgur.com/4hIWHeH.png)|![](https://i.imgur.com/feQiyjO.png)|![](https://i.imgur.com/Z10umyq.png)|![](https://i.imgur.com/O95uY6I.png)|
 
-## **Event**
+## **Easter Event**
 
 ### ``Pix``
 | Pet | Stats | Pet debuff | Player buff |
 | -------- | -------- | -------- | -------- |
 |![](https://i.imgur.com/oGZf73s.png)|![](https://i.imgur.com/z9Mu3g8.png)|![](https://i.imgur.com/fuhvOAO.png)|![](https://i.imgur.com/VAyYiWj.png)|
+
+## **Vessel Event**
+
 ### ``Tame Queen Bee``
 | Pet | Stats | Pet Debuff | Player buff |
 | -------- | -------- | -------- | -------- |
@@ -74,6 +77,9 @@ hide_title: true
 | Pet | Stats | Pet Debuff | Player buff |
 | -------- | -------- | -------- | -------- |
 |![](https://cdn.olympusgg.com/images/monsters/441.png)|![](https://i.imgur.com/ei1dftU.png)|![](https://i.imgur.com/02mWr8J.png)|![](https://i.imgur.com/UaqOlcg.png)|
+
+## **Summer Event**
+
 ### ``Pirate Bushi (Water)``
 | Pet | Stats | Pet Debuff | Player buff |
 | -------- | -------- | -------- | -------- |
@@ -102,6 +108,14 @@ hide_title: true
 | Pet | Stats | 
 | -------- | -------- |
 |![](https://cdn.olympusgg.com/images/monsters/544.png)|![](https://i.imgur.com/SwkL7e1.png)|
+
+## **Halloween Event**
+
+### ``Super Pumpkin Bushi``
+| Pet | Stats | Debuff |Player buff
+| -------- | -------- | -------- | -------- |
+|![](https://cdn.olympusgg.com/images/monsters/1383.png)|![](https://i.imgur.com/I1tATuh.png) |![](https://i.imgur.com/nFqJq7A.png) |![](https://i.imgur.com/aDjF1h7.png)
+
 
 ## **Common Bushtails**
 

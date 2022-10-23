@@ -119,6 +119,14 @@ You can view raid box contents ingame with the NPC "Mysterious Monk" in NosVille
 ### Captain Pete O'Peng
 ![](https://i.imgur.com/YKwD7Eh.png)
 
+## ** Halloween Event Boxes**
+
+### Jack O'Lantern
+![](https://i.imgur.com/e56s77k.png)
+
+### Nine-tailed Foxy
+![](https://i.imgur.com/MXZ0CGc.png)
+
 ## **Other Boxes**
 
 ### Glacernon Mount Box
@@ -142,7 +150,7 @@ You can view raid box contents ingame with the NPC "Mysterious Monk" in NosVille
 ### Hellord Military Supplies
 ![](https://i.imgur.com/aim5Qrw.png)
 
-### Mystic Haeven Military Supplies
+### Mystic Heaven Military Supplies
 ![](https://i.imgur.com/d5b9LO7.png)
 
 ### Rune Chest
