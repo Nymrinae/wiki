@@ -378,6 +378,11 @@ const LeftPartnerBox = ({ dataPartner }) => {
           <img src={dataPartner.partner3Img} className="imgParIcon" />
           <img src={dataPartner.partner4Img} className="imgParIcon" />
         </div>
+              <p className="inforPara3">Additional Speed</p>
+      <div className="speed"> </div>
+           <div>
+           Speed + {dataPartner.speed}
+          </div>
         <p className="inforPara2">Resistances</p>
         <div className="resis">
           <div>

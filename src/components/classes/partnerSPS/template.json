@@ -26,6 +26,7 @@
         "light": 0,
         "shadow": 0
     },
+    "speed": 0,
     "skills": [
         [{
             "title": "",

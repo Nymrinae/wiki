@@ -4,7 +4,7 @@ slug: psp
 title: PSP
 hide_title: true
 ---
-## **Partner Specialist Changelog**
+# **Partner Specialist**
 
 import Partner from '../../src/components/classes/partnerSPS/partners'
 
