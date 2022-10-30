@@ -56,12 +56,12 @@ Common prizes are easy to get, though not all of them are equally likely to get.
 - Partner Skill Ticket (Single) 1x
 
 #### [Emotes](https://wiki.olympusgg.com/custom-features/emotes)
-	- Kappa Emote Unlocker 1x
-	- Player Emote Unlocker 1x
+	- Peepo Yay Emote Unlocker 1x
+	- Peepo Scam Emote Unlocker 1x
 
 ``P.S.: These rewards can be changed later on, based on their prices and demand.``
 
-**Last rotation update**: 25.09.2022
+**Last rotation update**: 30.10.2022
 
 ### Rare Prizes
 
@@ -70,17 +70,17 @@ These prizes will be picked among items that were once in shop rotation.
 
 When you get a Rare Prize, it will be announced so that everyone can know how lucky you are.
 
-**Last rotation update**: 25.09.2022
+**Last rotation update**: 30.10.2022
 
-- Winter Costume Set <ItemIcon iconId="4007" width="25px" /> 
-- Leo the Coward <ItemIcon iconId="2883" width="25px" />
+- Desert/Belly Dancer Costume Set <ItemIcon iconId="2934" width="25px"/>  <ItemIcon iconId="2936" width="25px"/>
+- Fairy Wings <ItemIcon iconId="2882" width="25px"/> 
 
 ### Legendary Prizes
 
 In this rotation, all weapon skins released so far (except Christmas skins) are in the Altar.
 If you're lucky enough to roll legendary loot, you'll get one of listed below.
 
-**Last rotation update**: 25.09.2022
+**Last rotation update**: 30.10.2022
 
 - Steampunk Weapons Random Chest
 - Celebration Weapons Random Chest

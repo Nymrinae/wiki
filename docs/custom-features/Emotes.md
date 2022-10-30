@@ -28,7 +28,8 @@ You can get emotes from the God's Altar and NPCs. And there are few emotes exclu
 | ![](https://i.imgur.com/e7UbBVk.png) |   Peepo Sus  |
 | ![](https://i.imgur.com/Jv0aym9.png) |   Kappa |
 | ![](https://i.imgur.com/ydxGP5u.png) |   Player  |
-
+| ![](https://i.imgur.com/3OaQorK.png) |   Peepo Yay |
+| ![](https://i.imgur.com/KtbkTuB.png) |   Peepo Scam  |
 
 
 ### **Emotes from NPCs**
