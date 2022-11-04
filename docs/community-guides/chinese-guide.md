@@ -1,13 +1,9 @@
 ---
-id: community-guides
-title: Guides written by the Community
-slug: community-guides
+id: chinese-guide
+title: Chinese guide
+slug: chinese-guide
+hide_title: true
 ---
-
-
-## 🇭🇰 Chinese Guides
-
- You will find all the chinese guide here:
 
 ### [📖 Complete guide](https://docs.google.com/document/d/1UZh5o_-TZQSzy-qPMdQPccrlC28zWFerwtcN0KQI_Y4/edit?usp=sharing)
 

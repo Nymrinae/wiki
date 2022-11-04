@@ -14,10 +14,13 @@ module.exports = {
       className: 'bug-icon'
     },
     {
-      type: 'doc', 
-      id: 'community-guides',
+      type: 'category', 
       label:'Community Guides',
       className: 'guide-icon',
+      items: [
+        { type: 'doc', id: 'community-guides/chinese-guide', label: 'Chinese guide', className:'guide-icon' },
+        { type: 'doc', id: 'community-guides/community-pony-forest-guide', label: 'Pony\'s Spirit Forest guide', className:'guide-icon' }
+      ]
     },
     {
       type: 'category',
