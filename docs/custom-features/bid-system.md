@@ -102,6 +102,8 @@ In new button, click button 'Withdraw'. Money will be sent directly to your bank
 - SP Cards
 - Resistances (gloves & shoes)
 - Shells
+- Weapon Costumes
+- Costume Wings
 
 ## Connection with Notification System
 

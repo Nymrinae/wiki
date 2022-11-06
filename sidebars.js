@@ -136,7 +136,7 @@ module.exports = {
       label: 'Information',
       items: [
         { type: 'doc', id: 'qol/upgrades' , label: 'Equipment Upgrade', className: 'equpgrade-icon' },
-        { type: 'doc', id: 'guides/crafting/sp-upgrade' , label: 'SP Upgrade', className: 'spupgrade-icon' },
+        { type: 'doc', id: 'guides/crafting/sp-upgrade' , label: 'SP Upgrade & Perfection', className: 'spupgrade-icon' },
         { type: 'doc', id: 'information/shells', label: 'Shell Options', className: 'shell-icon' },
         { type: 'doc', id: 'qol/mass-crafting', label: 'Mass Crafting', className:'cella-icon' },
         { type: 'doc', id: 'information/items-sale-price', label: 'Item Sale Prices', className:'gold-icon' },
