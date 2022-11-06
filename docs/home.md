@@ -6,11 +6,8 @@ hide_table_of_contents: true
 hide_title: true
 ---
 
-<p align="center">
-
-<h1>Welcome to Olympus ⚡</h1> 
-
 <div class="home-container">
+    <h1>Welcome to Olympus ⚡</h1> 
     <div class="home-container-section">
         <img src="https://imageshack.com/i/poeP1gD4g" />
         <img src="https://i.imgur.com/ph8wEkm.gif" />
@@ -26,10 +23,9 @@ hide_title: true
         <img src="https://i.imgur.com/o5dHQIY.gif" />
     </div>
 </div>
-</p>
 
 ---
-:::tip How to contribute :
+:::tip How to contribute:
 1. Write an article or a guide about a topic using https://stackedit.io/ or https://hackmd.io
 2. Ask for reviews/feedback to people
 3. Do a Pull Request or create a Ticket on our support

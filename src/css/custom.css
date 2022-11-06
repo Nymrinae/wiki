@@ -38,7 +38,9 @@ html[data-theme='dark'] .docusaurus-highlight-code-line {
 {
   display:flex;
   flex-direction: column;
+  text-align:center;
 }
+
 
 .home-container-section {
   margin: 0;
