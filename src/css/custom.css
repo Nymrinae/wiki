@@ -34,25 +34,14 @@ html[data-theme='dark'] .docusaurus-highlight-code-line {
   background-color: rgba(0, 0, 0, 0.3);
 }
 
-.imagen {
-  margin: 0;
-  display: inline-block;
-  position: center;
-  line-height: 0;
+.home-container
+{
+  display:flex;
+  flex-direction: column;
 }
 
-.imagen2 {
-  padding: 0;
+.home-container-section {
   margin: 0;
-  display: inline-block;
-  position: center;
-  line-height: 0;
-}
-
-.imagen3 {
-  margin: 0;
-  display: inline-block;
-  position: center;
   line-height: 0;
 }
 

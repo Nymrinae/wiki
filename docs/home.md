@@ -10,21 +10,21 @@ hide_title: true
 
 <h1>Welcome to Olympus ⚡</h1> 
 
-<div>
-    <imagen>
-        <img src="https://imageshack.com/i/poeP1gD4g"  />
-        <img  src="https://i.imgur.com/ph8wEkm.gif" />
-    </imagen>
-    <imagen2>
-        <a href="https://discord.gg/RUk4r4T" rel="some text"><img  src="https://i.imgur.com/7bRhHki.gif" /></a>
-        <a href="https://dashboard.olympusgg.com" rel="some text"><img  src="https://i.imgur.com/sTeEOaR.gif" /></a>
-        <a href="https://dashboard.olympusgg.com" rel="some text"><img  src="https://i.imgur.com/9D6F0s8.gif" /></a>
-    </imagen2>
-    <imagen3>
-        <img  src="https://i.imgur.com/s7yheFI.gif" />
-        <img  src="https://i.imgur.com/JO9Bd11.gif" />
-        <img  src="https://i.imgur.com/o5dHQIY.gif" />
-    </imagen3>
+<div class="home-container">
+    <div class="home-container-section">
+        <img src="https://imageshack.com/i/poeP1gD4g" />
+        <img src="https://i.imgur.com/ph8wEkm.gif" />
+    </div>
+    <div class="home-container-section">
+        <a href="https://discord.gg/RUk4r4T" rel="some text"><img src="https://i.imgur.com/7bRhHki.gif" /></a>
+        <a href="https://dashboard.olympusgg.com" rel="some text"><img src="https://i.imgur.com/sTeEOaR.gif" /></a>
+        <a href="https://dashboard.olympusgg.com" rel="some text"><img src="https://i.imgur.com/9D6F0s8.gif" /></a>
+    </div>
+    <div class="home-container-section">
+        <img src="https://i.imgur.com/s7yheFI.gif" />
+        <img src="https://i.imgur.com/JO9Bd11.gif" />
+        <img src="https://i.imgur.com/o5dHQIY.gif" />
+    </div>
 </div>
 </p>
 
