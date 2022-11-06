@@ -99,6 +99,7 @@ module.exports = {
         { type: 'doc', id: 'custom-features/warp-system', label: 'Warp System', className:'warp-icon' },
         { type: 'doc', id: 'custom-features/wings-swapper', label: 'Wings Swapper', className:'wingsswapper-icon'},
         { type: 'doc', id: 'custom-features/rainbow-battle', label: 'Rainbow Battle', className:'rbb-icon'},
+        { type: 'doc', id: 'custom-features/option-window', label: 'Custom Options Window', className:'custom-icon'},
       ]
     },
     {
