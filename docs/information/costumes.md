@@ -343,3 +343,21 @@ hide_title: true
 | Wings  |    
 |:-:|
 | ![](https://i.imgur.com/XY4pbx5.png) |
+
+### ``Rainbow Costume Wings``
+| Wings  |    
+|:-:|
+| ![](https://imgur.com/G0RfB4x.png) |
+
+| Effect  |    
+|:-:|
+| ![](https://imgur.com/1SqNLUa.png) |
+
+### ``Dark Rainbow Costume Wings``
+| Wings  |    
+|:-:|
+| ![](https://imgur.com/hIp0Mtx.png) |
+
+| Effect  |    
+|:-:|
+| ![](https://imgur.com/pI9kdpa.png) |

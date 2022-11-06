@@ -98,6 +98,7 @@ module.exports = {
         { type: 'doc', id: 'custom-features/trophy-system', label: 'Trophy System', className:'trophy-icon' },
         { type: 'doc', id: 'custom-features/warp-system', label: 'Warp System', className:'warp-icon' },
         { type: 'doc', id: 'custom-features/wings-swapper', label: 'Wings Swapper', className:'wingsswapper-icon'},
+        { type: 'doc', id: 'custom-features/rainbow-battle', label: 'Rainbow Battle', className:'rbb-icon'},
       ]
     },
     {
