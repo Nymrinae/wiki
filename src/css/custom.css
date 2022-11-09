@@ -942,4 +942,17 @@ html[data-theme='dark'] .docusaurus-highlight-code-line {
     background-position: 5% 50%;
     background-size: 20px;
     display: inline-block;
-  }
+}
+
+.hide {
+    display: none;
+}
+
+.hide-img {
+    color:#358fe3;
+    display: inline-block;
+}
+
+.hide-img:hover + .hide {
+    display: inline-block;
+}
