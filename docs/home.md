@@ -6,6 +6,13 @@ hide_table_of_contents: true
 hide_title: true
 ---
 
+:::caution Disclaimer
+This project is an opensource project, you can find its source at https://github.com/olympusgg/wiki
+
+Maintenance is done on a "best effort" volunteering basis, which means some information can be outdated, feel free to ask on our discord or ingame for confirmation if you have doubts.
+
+Changelogs should be considered as Olympus' source of truth
+:::
 <div class="home-container">
     <h1>Welcome to Olympus ⚡</h1> 
     <div class="home-container-section">
@@ -23,6 +30,8 @@ hide_title: true
         <img src="https://i.imgur.com/o5dHQIY.gif" />
     </div>
 </div>
+
+
 
 ---
 :::tip How to contribute:
