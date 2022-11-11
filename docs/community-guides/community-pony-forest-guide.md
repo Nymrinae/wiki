@@ -227,7 +227,7 @@ Wonderland ![](https://cdn.olympusgg.com/images/4477.png), Puppet Master ![](htt
 
 ## Gear guide
 
-This part of the guide will cover all the gear used when farming. This includes weapons, armors, equipment, accessories, costumes, specialists, partners, pets, skill books, titles, consumables and special items. Note that weapon carvings are not covered yet.
+This part of the guide will cover all the gear used when farming. This includes weapons, armors, equipment, accessories, fairies, costumes, specialists, partners, pets, tattoos, skill books, titles, consumables and special items. Note that weapon carvings are not covered yet.
 
 ### Weapon shells
 
@@ -323,17 +323,19 @@ Here we will go over the best masks, hats, gloves, shoes, accessories and trophi
 
 1. Masks
 
-Azrael's Mask ![](https://cdn.olympusgg.com/images/2825.png). +10% chance to not receive a debuff up to level 4. The only mask worth using, as there is nothing else even comparable.
+Azrael's Mask ![](https://cdn.olympusgg.com/images/2825.png) +10% chance to not receive a debuff up to level 4. The only mask worth using, as there is nothing else even comparable.
 
 ---
 
 2. Hats
 
-Beast's Golden Horn ![](https://cdn.olympusgg.com/images/2657.png). +10% chance to not receive a debuff up to level 4, when being hit 3% chance to reflect damage and debuffs for 2 seconds. Very cheap, has the highest effect activation chance of all hats. While having reflection active you are immune to all debuffs.
+Beast's Golden Horn ![](https://cdn.olympusgg.com/images/2657.png) +10% chance to not receive a debuff up to level 4, when being hit 3% chance to reflect damage and debuffs for 2 seconds. Very cheap, has the highest effect activation chance of all hats. While having reflection active you are immune to all debuffs.
 
-Laurena's Witch Hat ![](https://cdn.olympusgg.com/images/2701.png). +10% chance to not receive a debuff up to level 4, when being hit 2% chance to gain 80% skill cooldown reduction for 10 seconds. Recommended hat for Berserker and Seer.
+Laurena's Witch Hat ![](https://cdn.olympusgg.com/images/2701.png) +10% chance to not receive a debuff up to level 4, when being hit 2% chance to gain 80% skill cooldown reduction for 10 seconds. Recommended hat for Berserker and Seer.
 
-Dragon Wing Decoration ![](https://cdn.olympusgg.com/images/2904.png). +20% chance to not receive a debuff up to level 4. Highest anti debuff effect of all hats. Recommended hat for Demon Hunter.
+Dragon Wing Decoration ![](https://cdn.olympusgg.com/images/2904.png) +20% chance to not receive a debuff up to level 4. Recommended hat for Demon Hunter.
+
+Ancient Beast Helmet ![](https://cdn.olympusgg.com/images/4196.png) +20% chance to not receive a debuff up to level 4, +5 to all elemental resistances. Small upgrade to Dragon Wing Decoration. Recommended hat for Demon Hunter.
 
 ---
 
@@ -369,13 +371,13 @@ Twilight Gem ![](https://i.imgur.com/lxI12tk.png). Reduces the enemy's resistanc
 
 Here we will go over the best fairy to use.
 
-1. Turik. Starts at 40% and levels up to 70%. Cheap and only 10% lower than Varik. Recommended for beginners.
+1. Turik ![](https://cdn.olympusgg.com/images/277.png) Starts at 40% and levels up to 70%. Cheap and only 10% lower than Varik. Recommended for beginners.
 
-2. Varik. Starts at 50% and levels up to 80%. A better Turik but much more expensive.
+2. Varik ![](https://cdn.olympusgg.com/images/993.png) Starts at 50% and levels up to 80%. A better Turik but much more expensive.
 
-3. Zenas (Shadow), Erenia (Shadow). -3 to enemy shadow resistance, fixed at 80%. Extremely expensive. Not recommended if you're not trying to push your monster kills per hour.
+3. Zenas (Shadow) ![](https://cdn.olympusgg.com/images/4805.png), Erenia (Shadow) ![](https://cdn.olympusgg.com/images/4800.png) -3 to enemy shadow resistance, fixed at 80%. Extremely expensive. Not recommended if you're not trying to push your monster kills per hour.
 
-4. Fernon (Shadow). -5 to enemy shadow resistance, fixed at 90%. Obscenely expensive. Consider this as the
+4. Fernon (Shadow) ![](https://cdn.olympusgg.com/images/4809.png) -5 to enemy shadow resistance, fixed at 90%. Obscenely expensive. Consider this as the last possible upgrade.
 
 ### Costumes
 
