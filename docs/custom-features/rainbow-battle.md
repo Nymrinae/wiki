@@ -14,7 +14,7 @@ The rainbow battle is held every 2 hours, starting at 01:00:00 Server Time.
 
 ### How do I join the Rainbow Battle?
 
-An icon will appear in the bottom right when the rainbow battle registration begins. Click on it then accept the confirmation prompt to join the rainbow battle.
+The rainbow battle is only accessible in Channel 1. An icon will appear in the bottom right when the rainbow battle registration begins. Click on it then accept the confirmation prompt to join the rainbow battle.
 
 ![](https://imgur.com/jZw5gDX.png)
 
@@ -91,7 +91,7 @@ By default the leaderboard sorts players by Total Points, which is the sorting u
 
 ### Seasons
 
-Every month is considered a season. At the end of every season, the top ranked players are rewarded with Rainbow Vouchers![](https://cdn.olympusgg.com/images/25110.png) :
+Every month is considered a season. At the end of every season, the top ranked players are rewarded with Rainbow Vouchers![](https://cdn.olympusgg.com/images/25110.png) and all rankings are reset:
 
 - Rank 1 : 3 Rainbow Vouchers![](https://cdn.olympusgg.com/images/25110.png)
 - Ranks 2-5 : 2 Rainbow Vouchers![](https://cdn.olympusgg.com/images/25110.png)

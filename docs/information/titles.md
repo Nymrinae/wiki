@@ -28,17 +28,17 @@ You can choose to display a different title name, while having the effect of ano
 
 |Class | Level | Titel|Effects|
 | --- | --- | --- | --- |
-| **Adventurer** | 50|<font color="#93a6cd"> Lawful Evil </font>|<BCard> Non-elemental **melee** damage is increased by 5%. </BCard>|
-||90|<font color="#7fc8ff"> Chaotic Good  </font>|<BCard> Non-elemental **melee** damage is increased by 5%. </BCard> <br/> <BCard> Non-elemental **ranged** damage is increased by 5%. </BCard>|
+| **Adventurer** | 50|<font color="#93a6cd"> Lawful Evil </font>|<BCard>**Melee** attacks are increased by 5%. </BCard>|
+||90|<font color="#7fc8ff"> Chaotic Good  </font>|<BCard>**Melee** attacks are increased by 5%. </BCard> <br/> <BCard>**Ranged** attacks are increased by 5%. </BCard>|
 |||||
-|**Swordman**|50|<font color="#93a6cd"> Mercenary </font>|<BCard> Non-elemental **melee** damage is increased by 5%. </BCard>|
-||90|<font color="#7fc8ff"> Templar </font>|<BCard> Non-elemental **melee** damage is increased by 5%. </BCard> <br/> <BCard> Non-elemental **ranged** damage is increased by 5%. </BCard>|
+|**Swordman**|50|<font color="#93a6cd"> Mercenary </font>|<BCard>**Melee** attacks are increased by 5%. </BCard>|
+||90|<font color="#7fc8ff"> Templar </font>|<BCard>**Melee** attacks are increased by 5%. </BCard> <br/> <BCard>**Ranged** attacks are increased by 5%. </BCard>|
 |||||
-|**Archer**|50|<font color="#93a6cd"> Bull's Eye </font>|<BCard> Non-elemental **ranged** damage is increased by 5%. </BCard>|
-||90|<font color="#7fc8ff"> Robin Hood </font>|<BCard> Non-elemental **ranged** damage is increased by 5%. </BCard> <br/> <BCard> Non-elemental **melee** damage is increased by 5%. </BCard>|
+|**Archer**|50|<font color="#93a6cd"> Bull's Eye </font>|<BCard>**Ranged** attacks are increased by 5%. </BCard>|
+||90|<font color="#7fc8ff"> Robin Hood </font>|<BCard>**Ranged** attacks are increased by 5%. </BCard> <br/> <BCard>**Melee** attacks are increased by 5%. </BCard>|
 ||||
-| **Mage**|50|<font color="#93a6cd"> Mystic  </font>| <BCard>  Non-elemental **magic** damage is increased by 5%. </BCard>|
-| |90|<font color="#7fc8ff"> Arch Mage  </font>|<BCard> Non-elemental **magic** damage is increased by 5%. </BCard> <br/> <BCard> Non-elemental **ranged** damage is increased by 5%.  </BCard>|
+| **Mage**|50|<font color="#93a6cd"> Mystic  </font>| <BCard> **Magic** attacks are increased by 5%. </BCard>|
+| |90|<font color="#7fc8ff"> Arch Mage  </font>|<BCard>**Magic** attacks are increased by 5%. </BCard> <br/> <BCard>**Ranged** attacks are increased by 5%.  </BCard>|
 
 
         

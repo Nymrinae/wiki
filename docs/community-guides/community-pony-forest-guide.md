@@ -26,7 +26,13 @@ From Olorun Village, go to Woodland Path > Spirit Forest Edge > Spirit Forest.
 
 There isn't a definite answer. Each class has its own pros and cons; the best class is going to be the one you prefer playing as. Demon Hunter, Berserker and Seer are all capable of clearing 2800 monsters in an hour.
 
+### How do I contact the author of this guide?
+
+If you have any question or suggestion, feel free to send me a message on discord. My username is PonyWarrior#1535.
+
 ## Beginner guide
+
+This guide is a condensed version of the full guide, made as a quick introduction for beginners. For more details and information read the Gear Guide and Advanced Guide.
 
 ### Minimum gear
 
@@ -51,9 +57,13 @@ If you do not meet these requirements you should farm in act 5.2 or do other act
 
 ### Title
 
-As damage is very low at this stage, you need to equip the Hunter title. You unlock it while leveling and it gives a 10% damage increase against all monsters in spirit forest.
+At this stage there are 3 titles to choose from, which you have unlocked while leveling. Use the one you prefer.
 
-![](https://imgur.com/aXXPhZQ.png)
+- Indefatigable. +1 movement speed. As you are missing many movement speed equipment, using this title will help a bit to move faster.
+
+- Idealist. +5% experience gain. While a small increase, it is permanent and free.
+
+- Templar, Robin Hood, Arch Mage. +5% attack.
 
 ### Important items
 
@@ -223,7 +233,7 @@ This part of the guide will cover all the gear used when farming. This includes 
 
 When looking for a weapon there are 3 option types to consider :
 
-- Damage options : Enhanced Attack, Increase Overall Attack, Increase Damage to Monster Races, Increase Damage to Low-Level Races, Increase Shadow Element, Increased Chance of Critical Hits, Increased Critical Damage, Undisturbed When Casting Spells.
+- Damage options : Enhanced Attack, Increase Overall Attack, Increase Damage to Low-Level Races, Increase Shadow Element, Increased Chance of Critical Hits, Increased Critical Damage, Undisturbed When Casting Spells.
 - SL options : Increased Overall SL Stat, Increased SL Attack, Increased SL Element.
 - Special options : Gain more Gold (Main weapon only).
 
@@ -235,7 +245,7 @@ Your main weapon needs to have as many damage options as possible, while your se
 
 - Must have - Do not buy a weapon without those options
 
-    - Increase Damage to Low-Level Races, Increase Damage to Monster Races, Increase Overall Attack : Not having those options will make you lose a lot of damage. **Make sure your weapon has at least 2, with at least 25% combined damage**.
+    - Increase Damage to Low-Level Races, Increase Overall Attack : Not having those options will make you lose a lot of damage. **Make sure your weapon has at least 1, with at least 10% combined damage bonus**.
 
     - Undisturbed When Casting Spells (Mage) : Must have option, as without it you will randomly be interrupted while attacking.
 
@@ -271,7 +281,7 @@ Your main weapon needs to have as many damage options as possible, while your se
 
 - Optimization - Consider those options when looking for the perfect weapon
 
-    - Increase Damage to Low-Level Races, Increase Damage to Monster Races, Increase Overall Attack (Archer) : Helps with finishing off enemies using auto attacks.
+    - Increase Damage to Low-Level Races, Increase Overall Attack (Archer) : Helps with finishing off enemies using auto attacks.
 
 ### Example weapon sets
 
@@ -354,6 +364,18 @@ Orc Hero Ring ![](https://cdn.olympusgg.com/images/4207.png), Spirit King's Brac
 6. Trophies
 
 Twilight Gem ![](https://i.imgur.com/lxI12tk.png). Reduces the enemy's resistances by 5/10/15, Fairy level +10 (tier 3). Huge damage boost once upgraded. Craft it as soon as possible, then spend money whenever you can to upgrade it.
+
+### Fairies
+
+Here we will go over the best fairy to use.
+
+1. Turik. Starts at 40% and levels up to 70%. Cheap and only 10% lower than Varik. Recommended for beginners.
+
+2. Varik. Starts at 50% and levels up to 80%. A better Turik but much more expensive.
+
+3. Zenas (Shadow), Erenia (Shadow). -3 to enemy shadow resistance, fixed at 80%. Extremely expensive. Not recommended if you're not trying to push your monster kills per hour.
+
+4. Fernon (Shadow). -5 to enemy shadow resistance, fixed at 90%. Obscenely expensive. Consider this as the
 
 ### Costumes
 
@@ -441,15 +463,49 @@ Here we will go over the best pets to use, based on their buff and skill, ranked
 
 2. Pirate Bushi (Shadow) ![](https://cdn.olympusgg.com/images/1527.png): -7 to enemy shadow resistance, +5 fairy level. Much cheaper alternative to Pix, but locked to a single element.
 
-3. Rudi Rowdy ![](https://cdn.olympusgg.com/images/2572.png): +15% damage dealt against low level monsters. Applies to all enemies in the spirit forest.
+3. Otter ![](https://cdn.olympusgg.com/images/4145.png): +10% damage dealt, -5% damage received. Its skill <div class="hide-img">Sushi Party</div><div class="hide"><img src="https://cdn.olympusgg.com/images/4083.png"/></div> pulls and stuns enemies in 6 cells, with a 70 seconds cooldown. Great for party rift and solo rift 4 lures when used with Amon, as it provides a backup pull if you mess up Amon's Provocation. Not a replacement to Amon due to the long cooldown however.
 
-4. Otter ![](https://cdn.olympusgg.com/images/4145.png): +10% damage dealt, -5% damage received. Its skill Sushi Party pulls and stuns enemies in 6 cells, with a 70 seconds cooldown. Great for party rift and solo rift 4 lures when used with Amon, as it provides a backup pull if you mess up Amon's Provocation. Not a replacement to Amon due to the long cooldown however.
+4. Death Lancer ![](https://cdn.olympusgg.com/images/4315.png): +10% damage dealt, 10% chance to increase damage by 10% when using a shadow fairy. Great pet when combined with the Death Lancer Skullcap costume hat, stacking to 30% chance and 35% damage.
 
-5. Death Lancer ![](https://cdn.olympusgg.com/images/4315.png): +10% damage dealt, 10% chance to increase damage by 10% when using a shadow fairy. Great pet when combined with the Death Lancer Skullcap costume hat, stacking to 30% chance and 35% damage.
+5. Any pet with a +10% damage dealt buff.
 
-6. Any pet with a +10% damage dealt buff.
+6. Any pet with a +5% damage dealt buff.
 
-7. Any pet with a +5% damage dealt buff.
+### Tattoos
+
+Here we will go over the best tattoos to use while farming.
+
+- First slot
+
+    - Swift as the Wind (Eagle) ![](https://cdn.olympusgg.com/images/6453.png)
+        - +1 movement speed (+0)
+        - +2 movement speed (+5)
+        - +3 movement speed (+9)
+        
+        Most important tattoo for farming and is good enough at +5.
+
+- Second slot
+
+    - Recuperative Healing (Lion) ![](https://cdn.olympusgg.com/images/6450.png)
+        - 2% chance to reset the cooldown of the skill used (+0).
+        - 8% chance to reset the cooldown of the skill used (+5).
+        - 20% chance to reset the cooldown of the skill used (+9).
+        
+        Recommended tattoo for Berserker and Seer. Unfortunately only starts to shine at high upgrades.
+
+    - Blessed Pelt (Bear) ![](https://cdn.olympusgg.com/images/6442.png)
+        - +5% chance to not receive a debuff up to level 2 (+0)
+        - +12% chance to not receive a debuff up to level 3 (+5)
+        - +15% chance to not receive a debuff up to level 5 (+9)
+        
+        Recommended tattoo for Demon Hunter. Better to keep at +5 as the chance increase at higher ranks is not worth the cost, and already works against Glue (lvl 1) and Short Blackout (lvl 3).
+
+    - Attack Stance (Lion) ![](https://cdn.olympusgg.com/images/6446.png)
+        - +2% damage received and +2% attack (+0)
+        - +8% damage received and +8% attack (+5)
+        - +20% damage received and +20% attack (+9)
+        
+        Use this tattoo if you prefer having more damage.
 
 ### Skill Books
 
