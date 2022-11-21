@@ -863,7 +863,7 @@
                             {
                                 "img": "https://cdn.olympusgg.com/images/10155.png",
                                 "title": "Wounded Leg",
-                                "subtitle": "Debuff\n(Level 1)\n",
+                                "subtitle": "Disease Debuff\n(Level 1)\n",
                                 "duration": "Duration: 10.0 seconds",
                                 "desc": "An injury to the legs or wings\nwhich slows movement.",
                                 "bcard1": "Movement speed is decreased by\n50%",
@@ -924,7 +924,7 @@
                                     {
                                         "img": "https://cdn.olympusgg.com/images/10155.png",
                                         "title": "Wounded Leg",
-                                        "subtitle": "Debuff\n(Level 1)\n",
+                                        "subtitle": "Disease Debuff\n(Level 1)\n",
                                         "duration": "Duration: 10.0 seconds",
                                         "desc": "An injury to the legs or wings\nwhich slows movement.",
                                         "bcard1": "Movement speed is decreased by\n50%",
@@ -985,7 +985,7 @@
                                             {
                                                 "img": "https://cdn.olympusgg.com/images/10155.png",
                                                 "title": "Wounded Leg",
-                                                "subtitle": "Debuff\n(Level 1)\n",
+                                                "subtitle": "Disease Debuff\n(Level 1)\n",
                                                 "duration": "Duration: 10.0 seconds",
                                                 "desc": "An injury to the legs or wings\nwhich slows movement.",
                                                 "bcard1": "Movement speed is decreased by\n50%",
@@ -2990,7 +2990,7 @@
                                 "title": "Sacrificial Cut",
                                 "subtitle" : "Disease Buff\n(Level 5)\n",
                                 "duration" : "Duration : 4.0 seconds",
-                                "desc": "You suffer from the sacrificial cut.\n",
+                                "desc": "You suffer from the sacrificial cut.",
                                 "bcard1": "Every 2 seconds:HP is reduced by\n5%."
                             }
                         ]
