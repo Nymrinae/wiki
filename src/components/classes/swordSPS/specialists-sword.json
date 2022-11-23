@@ -65,7 +65,7 @@
                                 "subtitle": "Disease Debuff\n(Level 3)\n",
                                 "duration": "Duration: 40.0 seconds",
                                 "desc": "A serious injury which reduces HP.",
-                                "bcard1": "Every 2 seconds:HP is reduced by\n(Player level*4).",
+                                "bcard1": "Every 2 seconds:HP is reduced by\n(Player Level*4).",
                                 "subBcard1": [],
                                 "subBcard2": [],
                                 "subBuff": [],
@@ -81,7 +81,7 @@
                                         "buff": "Disease Debuff\n(Level 1)\n",
                                         "duration": "Duration: 30.0 seconds",
                                         "desc": "You are deeply saddened.",
-                                        "bcard1": "Every 4 seconds:MP is reduced by\n(Player level/3).\nMovement speed is decreased by 20%."
+                                        "bcard1": "Every 4 seconds:MP is reduced by\n(Player Level/3).\nMovement speed is decreased by 20%."
                                     }
                                 ]
                             }
@@ -836,7 +836,7 @@
                                 "subtitle": "Disease Debuff\n(Level 3)\n",
                                 "duration": "Duration: 40.0 seconds",
                                 "desc": "A serious injury which reduces HP.",
-                                "bcard1": "Every 2 seconds:HP is reduced by\n(Player level*4).",
+                                "bcard1": "Every 2 seconds:HP is reduced by\n(Player Level*4).",
                                 "subBcard1": [],
                                 "subBcard2": [],
                                 "subBuff": [],
@@ -852,7 +852,7 @@
                                         "buff": "Disease Debuff\n(Level 1)\n",
                                         "duration": "Duration: 30.0 seconds",
                                         "desc": "You are deeply saddened.",
-                                        "bcard1": "Every 4 seconds:MP is reduced by\n(Player level/3).\nMovement speed is decreased by 20%."
+                                        "bcard1": "Every 4 seconds:MP is reduced by\n(Player Level/3).\nMovement speed is decreased by 20%."
                                     }
                                 ]
                             }
@@ -897,7 +897,7 @@
                                         "subtitle": "Disease Debuff\n(Level 3)\n",
                                         "duration": "Duration: 40.0 seconds",
                                         "desc": "A serious injury which reduces HP.",
-                                        "bcard1": "Every 2 seconds:HP is reduced by\n(Player level*4).",
+                                        "bcard1": "Every 2 seconds:HP is reduced by\n(Player Level*4).",
                                         "subBcard1": [],
                                         "subBcard2": [],
                                         "subBuff": [],
@@ -913,7 +913,7 @@
                                                 "buff": "Disease Debuff\n(Level 1)\n",
                                                 "duration": "Duration: 30.0 seconds",
                                                 "desc": "You are deeply saddened.",
-                                                "bcard1": "Every 4 seconds:MP is reduced by\n(Player level/3).\nMovement speed is decreased by 20%."
+                                                "bcard1": "Every 4 seconds:MP is reduced by\n(Player Level/3).\nMovement speed is decreased by 20%."
                                             }
                                         ]
                                     }
@@ -958,7 +958,7 @@
                                                 "subtitle": "Disease Debuff\n(Level 3)\n",
                                                 "duration": "Duration: 40.0 seconds",
                                                 "desc": "A serious injury which reduces HP.",
-                                                "bcard1": "Every 2 seconds:HP is reduced by\n(Player level*4).",
+                                                "bcard1": "Every 2 seconds:HP is reduced by\n(Player Level*4).",
                                                 "subBcard1": [],
                                                 "subBcard2": [],
                                                 "subBuff": [],
@@ -974,7 +974,7 @@
                                                         "buff": "Disease Debuff\n(Level 1)\n",
                                                         "duration": "Duration: 30.0 seconds",
                                                         "desc": "You are deeply saddened.",
-                                                        "bcard1": "Every 4 seconds:MP is reduced by\n(Player level/3).\nMovement speed is decreased by 20%."
+                                                        "bcard1": "Every 4 seconds:MP is reduced by\n(Player Level/3).\nMovement speed is decreased by 20%."
                                                     }
                                                 ]
                                             }
@@ -2159,7 +2159,7 @@
                         "price" : "Price : 0 Gold",
                         "desc": "Defend with the shield and\ncounter with the sword.",
                         "bcard1": "Melee attack is increased by 300.\n",
-                        "bcard2": "Fire element is increased by 100.\n",
+                        "bcard2": "Fire element is increased by 100.\nChance of inflicting critical hits is\nincreased by 30%.\n",
                         "bcard3": "There is a 20% chance of causing\n",
                         "bcard4": " Knockdown.",
                         "buff": [
@@ -2243,7 +2243,7 @@
                                 "subtitle": "Disease Debuff\n(Level 2)\n",
                                 "duration": "Duration: 10.0 seconds",
                                 "desc": "A slight injury, but one which can\nbecome serious if left untreated.",
-                                "bcard1": "Every 2 seconds:HP is reduced by\n(Player level*2).",
+                                "bcard1": "Every 2 seconds:HP is reduced by\n(Player Level*2).",
                                 "release": " Minor Bleeding occurs, in\nreleasing at the probability of 70%",
                                 "releaseBuff": [
                                     {
@@ -2252,7 +2252,7 @@
                                         "subtitle": "Disease Debuff\n(Level 1)\n",
                                         "duration": "Duration: 10.0 seconds",
                                         "desc": "Suffered a minor injury.",
-                                        "bcard1": "Every 2 seconds:HP is reduced by\n(Player level*1)."
+                                        "bcard1": "Every 2 seconds:HP is reduced by\n(Player Level*1)."
                                     }
                                 ]
                             }
@@ -3249,7 +3249,7 @@
                                 "subtitle": "Debuff\n(Level 4)\n",
                                 "duration": "Duration: 30.0 seconds",
                                 "desc": "Fatally injured by a wound to a\nsensitive spot.",
-                                "bcard1": "Every 2 seconds:HP is reduced by\n(Player level*5)\nThe chance of receiving a critical\nhit is increased by 20%."
+                                "bcard1": "Every 2 seconds:HP is reduced by\n(Player Level*5)\nThe chance of receiving a critical\nhit is increased by 20%."
                             }
                         ]
                     }
@@ -3279,7 +3279,7 @@
                                 "subtitle": "Debuff\n(Level 4)\n",
                                 "duration": "Duration: 30.0 seconds",
                                 "desc": "Fatally injured by a wound to a\nsensitive spot.",
-                                "bcard1": "Every 2 seconds:HP is reduced by\n(Player level*5)\nThe chance of receiving a critical\nhit is increased by 20%."
+                                "bcard1": "Every 2 seconds:HP is reduced by\n(Player Level*5)\nThe chance of receiving a critical\nhit is increased by 20%."
                             }
                         ]
                     }

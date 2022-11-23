@@ -3479,7 +3479,7 @@
                         "bcard1": "Melee attack is increased by 1300.\n",
                         "bcard2": "Light element is increased by 1250.\nChance of inflicting critical hits is\nincreased by 30%.\n",
                         "bcard3": "There is a 60% chance of causing\n",
-                        "bcard4": " Fatal Bleeding",
+                        "bcard4": " Fatal Bleeding.",
                         "buff": [
                             {
                                 "img": "https://cdn.olympusgg.com/images/10140.png",
