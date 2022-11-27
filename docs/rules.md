@@ -49,7 +49,8 @@ hide_title: true
 :::
 ---
 :::important  5. Multi-Accounts
-- 5.1 You are allowed to have and use only **one** Olympus account. You are allowed to connect with one single character at the same time, meaning you cannot use someone else's account to play multiple characters at the same time.
+
+- 5.1 You are allowed to own and connect to **only one** Olympus account.
 
 - 5.2 It is forbidden to sell or share your account with other players. 
 ::: 
@@ -81,12 +82,14 @@ hide_title: true
 :::important  9. Consequences And Punishments
 - 9.1 Depending on the seriousness of your non-respect of the rules, we have several sanctions at our disposal:  
     - 9.1.1 Warning (after a certain number you may be banned). 
-    - 9.1.2 You can be kicked out of the server. 
-    - 9.1.3 You can receive a ban either temporary or permanent. 
+    - 9.1.2 You could receive a mute. 
+    - 9.1.3 You could receive a ban either temporary or permanent. 
 
 - 9.2 We reserve the right to take the aforementioned actions against a player without giving reasons that may be personally related to the player or the game. 
 
-- 9.3 We reserve the right to modify these rules at any time. You should respect them. 
+- 9.3 In case of a ban, you can appeal it on our [Support Server](https://discord.gg/U3pMwCg59Q). You have 2 months to issue an appeal, failure to do so may lead to forfeiting your appeal by default.
 
-- 9.4 Ignorantia legis non excusat - ignorance of law excuses no one. 
+- 9.4 We reserve the right to modify these rules at any time. You should respect them. 
+
+- 9.5 Ignorantia legis non excusat - ignorance of law excuses no one. 
 :::
