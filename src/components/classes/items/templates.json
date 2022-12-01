@@ -20,7 +20,7 @@
                 "title": "",
                 "requirements": "Swordsman, Archer, Mage only\nRequiredLevel: 20Lv\n",
                 "restrictions": [],
-                "stats": "MeleeDefence: 0\nRangedDefence: 0\nMagicDefence: 0\nDodge: 0",
+                "stats": "MeleeDefence: 0\nRangedDefence: 0\nMagicDefence: 0\nDodge: 0\n\n",
                 "price": "Price: 0",
                 "bcard": "",
                 "buffBcard1": [],
@@ -78,7 +78,7 @@
                 "combination": "CombinationTimes: 0",
                 "stats": "MeleeDefence: 0\nRangedDefence: 0\nMagicDefence: 0\nDodge: 0",
                 "resistances": "FireElement Resistance: 0%\nWaterElement Resistance: 0%\nLightElement Resistance: 0%\nDarkElement Resistance: 0%",
-                "price": "0Gold",
+                "price": "Price: 0",
                 "bcard": "",
                 "description": []
             }

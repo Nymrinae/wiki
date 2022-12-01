@@ -117,7 +117,7 @@
                 "restrictions": "[Drop] False\n\n",
                 "stats": "MeleeDefence: 5\nRangedDefence: 3\nMagicDefence: 1\nDodge: 0\n\n",
                 "price": "Price: 2,400",
-                "bcard": "High probability of preventing a\nbad effect.\nBelow level 2 there is a 10%\nchance of never getting a bad\neffect.\n\n",
+                "bcard": "High probability of preventing a\nbad effect.\nBelow level 2 there is a 10%\nchance of never getting a bad\neffect.\n",
                 "description": "Provide a high chance of\nprotection from Blackouts.",
                 "buffBcard1": [],
                 "buffBcard2": [],
@@ -526,7 +526,7 @@
                 "optionLevel": "MaximumOptionLevel: 10",
                 "optionCount": "MaximumOptionPieceNumber: 0/3",
                 "price": "Price: 800,000",
-                "bcard": "Damage dealt is increased by 3%.\nDamage received is decreased by\n1%.Ranged defence is increased by 40.",
+                "bcard": "Damage dealt is increased by 3%.\nDamage received is decreased by\n1%.\nRanged defence is increased by 40.",
                 "description": "A ring imbued with the power of\nthe orc heroes.\nIts power is immense."
             }
         ]
@@ -534,7 +534,7 @@
     {
         "item": [
             {
-                "id": "10001",
+                "id": "17002",
                 "type": "buff",
                 "title": "Pix's Blessing",
                 "subtitle": "Buff\n(Level 3)\n",
@@ -547,7 +547,7 @@
     {
         "item": [
             {
-                "id": "10002",
+                "id": "26511",
                 "type": "buff",
                 "title": "Shadow Pirate's Blessing",
                 "subtitle": "Buff\n(Level 3)\n",
@@ -757,6 +757,644 @@
                                 ] 
                             }
                         ] 
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item": [
+            {
+                "id": "2699",
+                "type": "consumable",
+                "title": "Mystic Gemstone",
+                "category": "Special items",
+                "restrictions": "\n\n[Drop] False",
+                "price": "0Gold",
+                "description": "A mysterious gemstone that can\nbe transmutated into any other."
+            }
+        ]
+    },
+    {
+        "item": [
+            {
+                "id": "705",
+                "type": "resistance",
+                "title": "Shining Battle Gauntlets",
+                "restrictions": "RequiredLevel: 45Lv\n",
+                "combination": "CombinationTimes: 0",
+                "stats": "MeleeDefence: 16\nRangedDefence: 2\nMagicDefence: 0\nDodge: 0",
+                "resistances": "FireElement Resistance: 0%\nWaterElement Resistance: 7%\nLightElement Resistance: 0%\nDarkElement Resistance: 0%",
+                "price": "Price : 11,970",
+                "bcard": "Magic attack power is decreased\nby 5.",
+                "description": []
+            }
+        ]
+    },
+    {
+        "item": [
+            {
+                "id": "714",
+                "type": "resistance",
+                "title": "Shining Wind Boots",
+                "restrictions": "RequiredLevel: 45Lv\n",
+                "combination": "CombinationTimes: 0",
+                "stats": "MeleeDefence: 3\nRangedDefence: 10\nMagicDefence: 5\nDodge: 0",
+                "resistances": "FireElement Resistance: 0%\nWaterElement Resistance: 0%\nLightElement Resistance: 7%\nDarkElement Resistance: 0%",
+                "price": "Price: 11,970",
+                "bcard": [],
+                "description": []
+            }
+        ]
+    },
+    {
+        "item": [
+            {
+                "id": "10388",
+                "type": "buff",
+                "title": "Odin's Blessing",
+                "subtitle": "Buff\n(Level 3)\n",
+                "duration": "Duration: 300.0 seconds",
+                "desc": "Increases your damage and\nrestores MP at set intervals.",
+                "bcard1": "Damage dealt is increased by 5%.\nEvery 60 seconds:Restores\n(Player Level*20) MP."
+            }
+        ]
+    },
+    {
+        "item": [
+            {
+                "id": "2187",
+                "type": "consumable",
+                "title": "Special Pet Food",
+                "category": "Pet items",
+                "restrictions": "\n\n[Drop] False",
+                "price": "10,000Gold",
+                "description": "Feed your pet with this food\nto have them automatically collect\nfallen items. All items collected\nwill land in your inventory.\nThis option can only be\nactivated on NosMates\naccompanying you.\nPlacing your pet in a bead\nwill cancel this option."
+            }
+        ]
+    },
+    {
+        "item": [
+            {
+                "id": "2070",
+                "type": "consumable",
+                "title": "Wing of Return",
+                "category": "Magic item",
+                "restrictions": [],
+                "price": "300Gold",
+                "description": "This amulet returns you to the\nvillage. Your current location is\nsaved, and by using the Amulet of\nReturn, you can return to this\nlocation again afterwards."
+            }
+        ]
+    },
+    {
+        "item": [
+            {
+                "id": "2071",
+                "type": "consumable",
+                "title": "Amulet of Return",
+                "category": "Magic item",
+                "restrictions": [],
+                "price": "600Gold",
+                "description": "Returns you to the place where\nyou used the Wing of Return."
+            }
+        ]
+    },
+    {
+        "item": [
+            {
+                "id": "2072",
+                "type": "consumable",
+                "title": "Bell of Sweet Home",
+                "category": "Magic item",
+                "restrictions": [],
+                "price": "400Gold",
+                "description": "Returns you to your Miniland.\nWhen leaving the Miniland you will\nreturn to the place where you\nused the Bell of Sweet Home."
+            }
+        ]
+    },
+    {
+        "item": [
+            {
+                "id": "656",
+                "type": "equipment",
+                "title": "Tarot Card (Fool)",
+                "requirements": "RequiredLevel: 1Lv\n",
+                "restrictions": "[Drop], [Transactions], [Sale] False\nRemaining Hours: 10800Seconds\n\n",
+                "price": "Price: 10,000",
+                "bcard": "Movement speed is increased by 1.\nIncreases Gold earned by 10%.\n",
+                "description": "You behave like a fool.\nIncreases movement speed by 1\nand gold earned by 10%.\nRequired level: 1\nUsage duration: 3 hours\nDuration starts as soon as you use\nit."
+            }
+        ]
+    },
+    {
+        "item": [
+            {
+                "id": "588",
+                "type": "equipment",
+                "title": "Tarot Card (The Sun)",
+                "requirements": "RequiredLevel: 1Lv\n",
+                "restrictions": "[Drop], [Transactions], [Sale] False\nRemaining Hours: 10800Seconds\n\n",
+                "price": "Price: 10,000",
+                "bcard": "All attacks are increased by 250.\nMovement speed is increased by 1.\nMaximum MP is increased by 800.\n",
+                "description": "The warmth of the sun gives you\npower.\nIncreases movement speed by 1,\nMP by 800 and attack power by\n250.\nRequired level: 1\nUsage duration: 3 hours"
+            }
+        ]
+    },
+    {
+        "item": [
+            {
+                "id": "661",
+                "type": "equipment",
+                "title": "Tarot Card (The Devil)",
+                "requirements": "RequiredLevel: 1Lv\n",
+                "restrictions": "[Drop], [Transactions], [Sale] False\nRemaining Hours: 10800Seconds\n\n",
+                "price": "Price: 10,000",
+                "bcard": "Maximum HP is increased by 800.\nMovement speed is increased by 1.\nAll attacks are increased by 250.",
+                "description": "Gives you demonic strength.\nIncreases movement speed by 1,\nHP by 800 and your attack power\nby 250.\nRequired level: 1\nUsage duration: 3 hours\nDuration starts as soon as you use\nit."
+            }
+        ]
+    },
+    {
+        "item": [
+            {
+                "id": "663",
+                "type": "equipment",
+                "title": "Tarot Card (The Star)",
+                "requirements": "RequiredLevel: 1Lv\n",
+                "restrictions": "[Drop], [Transactions], [Sale] False\nRemaining Hours: 10800Seconds\n\n",
+                "price": "Price: 10,000",
+                "bcard": "Movement speed is increased by 1.\nExperience gain is increased by\n15%.\n",
+                "description": "Gives you the power of shining\nstars.\nIncreases your movement speed\nby 1 and combat experience by\n15%.\nRequired level: 1\nUsage duration: 3 hour\nDuration starts as soon as you use\nit."
+            }
+        ]
+    },
+    {
+        "item": [
+            {
+                "id": "4251",
+                "type": "consumable",
+                "title": "Spirit Forest Branch",
+                "category": "Material",
+                "restrictions": [],
+                "price": "2,000,000Gold",
+                "description": "A branch from the trees of the\nSpirit Forest. It contains the\nmagical power of the spirits.\nDropped by Moss Gloops and Moss\nFairies."
+            }
+        ]
+    },
+    {
+        "item": [
+            {
+                "id": "4230",
+                "type": "consumable",
+                "title": "Golem Core",
+                "category": "Material",
+                "restrictions": [],
+                "price": "2,000,000Gold",
+                "description": "A magical core imbued with life\nenergy.\nDropped by Rock Golems and\nGuardian Spirits."
+            }
+        ]
+    },
+    {
+        "item": [
+            {
+                "id": "2825",
+                "type": "equipment",
+                "title": "Azrael's Mask",
+                "requirements": "Swordsman, Archer, Mage, Martial\nArtist only\nRequiredChampionLevel: 50Lv\n",
+                "restrictions": [],
+                "stats": "MeleeDefence: 0\nRangedDefence: 0\nMagicDefence: 0\nDodge: 0\n\n",
+                "price": "Price: 1,000,000",
+                "bcard": "Up to level 4 there is a 10%\nchance of never getting a bad effect.\nDamage dealt in PvP is increased\nby 3%.\nDamage received in PvP is decreased\nby 3%.",
+                "description": "A fire mask created by an ancient\ncivilisation."
+            }
+        ]
+    },
+    {
+        "item": [
+            {
+                "id": "4203",
+                "type": "accessory",
+                "title": "Spirit King's Bracelet",
+                "level": "RequiredChampionLevel: 55Lv",
+                "optionLevel": "MaximumOptionLevel: 10",
+                "optionCount": "MaximumOptionPieceNumber: 0/3",
+                "price": "Price: 800,000",
+                "bcard": "Damage dealt is increased by 3%.\nDamage received is decreased by\n1%.\nMelee defence is increased by 40.",
+                "description": "A bracelet with the power of the\nSpirit King's left hand."
+            }
+        ]
+    },
+    {
+        "item": [
+            {
+                "id": "4211",
+                "type": "accessory",
+                "title": "Beastheart Necklace",
+                "level": "RequiredChampionLevel: 58Lv",
+                "optionLevel": "MaximumOptionLevel: 10",
+                "optionCount": "MaximumOptionPieceNumber: 0/3",
+                "price": "Price: 800,000",
+                "bcard": "Damage dealt is increased by 4%.\nDamage received is decreased by\n2%.\nMagic defence is increased by 40.",
+                "description": "A necklace imbued with the power\nof ancient beasts."
+            }
+        ]
+    },
+    {
+        "item": [
+            {
+                "id": "2657",
+                "type": "equipment",
+                "title": "Beast's Golden Horn",
+                "requirements": "Swordsman, Archer, Mage, Martial\nArtist only\nRequiredLevel: 70Lv\n",
+                "restrictions": "[Drop] False\n\n",
+                "stats": "MeleeDefence: 0\nRangedDefence: 0\nMagicDefence: 0\nDodge: 0\n\n",
+                "price": "Price: 50,000",
+                "buffBcard1": "There is a 3% chance of causing\n",
+                "buffBcard2": " Magical Reflection.\nUp to level 4 there is a 10%\nchance of never getting a bad effect.",
+                "buff": [
+                    {
+                        "img": "https://cdn.olympusgg.com/images/10250.png",
+                        "title": "Magical Reflection",
+                        "subtitle": "Buff\n(Level 3)\n",
+                        "duration": "Duration: 2.0 seconds",
+                        "desc": "Magical Reflection reflects all the\nenemy's debuffs with a certain\nprobability. Skills that only\ngenerate a debuff, without\ncausing damage, cannot be\nreflected.",
+                        "bcard1": "Reflects up to (Player\nLevel*50) received damage and\nblocks the attack.\nReflects an opponent's bad effect\nwith a certain likelihood."
+                    }
+                ],
+                "description": "The golden horn is filled with the\npower of the Beast."
+            }
+        ]
+    },
+    {
+        "item": [
+            {
+                "id": "10250",
+                "type": "buff",
+                "title": "Magical Reflection",
+                "subtitle": "Buff\n(Level 3)\n",
+                "duration": "Duration: 2.0 seconds",
+                "desc": "Magical Reflection reflects all the\nenemy's debuffs with a certain\nprobability. Skills that only\ngenerate a debuff, without\ncausing damage, cannot be\nreflected.",
+                "bcard1": "Reflects up to (Player\nLevel*50) received damage and\nblocks the attack.\nReflects an opponent's bad effect\nwith a certain likelihood."
+            }
+        ]
+    },
+    {
+        "item": [
+            {
+                "id": "31526",
+                "type": "buff",
+                "title": "Archdaemon Wings",
+                "subtitle": "Buff\n(Level 10)\n",
+                "duration": "Duration: 300.0 seconds",
+                "bcard1": "Reduces the enemy's shadow\nresistance by 10.\nShadow element is increased by\n100.\nMovement speed is increased by 1."
+            }
+        ]
+    },
+    {
+        "item": [
+            {
+                "id": "25521",
+                "type": "equipment",
+                "title": "Twilight Gem I",
+                "requirements": "RequiredLevel: 1Lv\n",
+                "restrictions": "[Drop], [Transactions], [Sale] False\n\n",
+                "stats": "MeleeDefence: 0\nRangedDefence: 0\nMagicDefence: 0\nDodge: 0\n\n",
+                "price": "Price: 20,000,000",
+                "bcard": "Reduces the enemy's elemental\nresistances by 5.\nMaximum MP is increased by 5000.\n",
+                "description": "Mysterious Major Trophy for\nnocturnal warriors."
+            }
+        ]
+    },
+    {
+        "item": [
+            {
+                "id": "25522",
+                "type": "equipment",
+                "title": "Twilight Gem II",
+                "requirements": "RequiredLevel: 1Lv\n",
+                "restrictions": "[Drop], [Transactions], [Sale] False\n\n",
+                "stats": "MeleeDefence: 0\nRangedDefence: 0\nMagicDefence: 0\nDodge: 0\n\n",
+                "price": "Price: 20,000,000",
+                "bcard": "Reduces the enemy's elemental\nresistances by 10.\nMaximum MP is increased by 7500.\n",
+                "description": "Legendary Major Trophy for\nnocturnal warriors."
+            }
+        ]
+    },
+    {
+        "item": [
+            {
+                "id": "25523",
+                "type": "equipment",
+                "title": "Twilight Gem IIII",
+                "requirements": "RequiredLevel: 1Lv\n",
+                "restrictions": "[Drop], [Transactions], [Sale] False\n\n",
+                "stats": "MeleeDefence: 0\nRangedDefence: 0\nMagicDefence: 0\nDodge: 0\n\n",
+                "price": "Price: 20,000,000",
+                "bcard": "Reduces the enemy's elemental\nresistances by 15.\nMaximum MP is increased by 10000.\nThe equipped fairy's attribute level\nincreases by 10.",
+                "description": "Phenomenal Major Trophy for\nnocturnal warriors."
+            }
+        ]
+    },
+    {
+        "item": [
+            {
+                "id": "2904",
+                "type": "equipment",
+                "title": "Dragon Wing Decoration",
+                "requirements": "Swordsman, Archer, Mage, Martial\nArtist only\nRequiredLevel: 70Lv\n",
+                "restrictions": "[Drop] False\n\n",
+                "stats": "MeleeDefence: 0\nRangedDefence: 0\nMagicDefence: 0\nDodge: 0\n\n",
+                "price": "Price: 2,500",
+                "bcard": "Up to level 4 there is a 20%\nchance of never getting a bad\neffect.",
+                "description": "This decoration is created when\nyou combine Fafnir's Scale\nwith Dragon Breath."
+            }
+        ]
+    },
+    {
+        "item": [
+            {
+                "id": "4196",
+                "type": "equipment",
+                "title": "Ancient Beast Helmet",
+                "requirements": "Swordsman, Archer, Mage, Martial\nArtist only\nRequiredChampionLevel: 50Lv\n",
+                "stats": "MeleeDefence: 50\nRangedDefence: 50\nMagicDefence: 40\nDodge: 0\n\n",
+                "price": "Price: 100,000",
+                "bcard": "Up to level 4 there is a 20%\nchance of never getting a bad\neffect.\nAll elemental resistances are\nincreased by 5.",
+                "description": "A helmet imbued with the power\nof ancient beasts."
+            }
+        ]
+    },
+    {
+        "item": [
+            {
+                "id": "4199",
+                "type": "resistance",
+                "title": "Spirit King Gloves",
+                "restrictions": "RequiredChampionLevel: 40Lv\n",
+                "combination": "CombinationTimes: 0",
+                "stats": "MeleeDefence: 70\nRangedDefence: 85\nMagicDefence: 85\nDodge: 10",
+                "resistances": "FireElement Resistance: 0%\nWaterElement Resistance: 20%\nLightElement Resistance: 0%\nDarkElement Resistance: 20%",
+                "price": "Price: 120,000",
+                "bcard": "All elements are increased by 150.\nMaximum MP is increased by 1500.\n",
+                "description": "Gloves with the power of the\nSpirit King."
+            }
+        ]
+    },
+    {
+        "item": [
+            {
+                "id": "4201",
+                "type": "resistance",
+                "title": "Spirit King Shoes",
+                "restrictions": "RequiredChampionLevel: 58Lv\n",
+                "combination": "CombinationTimes: 0",
+                "stats": "MeleeDefence: 15\nRangedDefence: 20\nMagicDefence: 25\nDodge: 15",
+                "resistances": "FireElement Resistance: 0%\nWaterElement Resistance: 20%\nLightElement Resistance: 0%\nDarkElement Resistance: 20%",
+                "price": "Price: 120,000",
+                "bcard": "Movement speed is increased by 1.\nAll elements are increased by 120.\n",
+                "description": "Boots with the power of the Spirit\nKing.\nWhen you wear them, you feel\nlighter somehow."
+            }
+        ]
+    },
+    {
+        "item": [
+            {
+                "id": "2826",
+                "type": "resistance",
+                "title": "Fernon's Shoes",
+                "restrictions": "RequiredChampionLevel: 50Lv\n",
+                "combination": "CombinationTimes: 0",
+                "stats": "MeleeDefence: 100\nRangedDefence: 100\nMagicDefence: 100\nDodge: 0",
+                "resistances": "FireElement Resistance: 12%\nWaterElement Resistance: 12%\nLightElement Resistance: 12%\nDarkElement Resistance: 12%",
+                "price": "Price: 0",
+                "bcard": "Movement speed is increased by 2.\n",
+                "description": "These shoes contain the power of\nmother earth."
+            }
+        ]
+    },
+    {
+        "item": [
+            {
+                "id": "2918",
+                "type": "equipment",
+                "title": "Steampunk Chronoblade\n(Permanent)",
+                "requirements": "Swordsman only\nRequiredLevel: 20Lv\n",
+                "restrictions": "[Drop] False\n\n",
+                "stats": "MeleeDefence: 0\nRangedDefence: 0\nMagicDefence: 0\nDodge: 0\n\n",
+                "price": "Price: 2,400",
+                "bcard": "Damage dealt in PvE is increased\nby 5%.",
+                "description": "Let off some steam with this\nmarvellous Steampunk skin."
+            }
+        ]
+    },
+    {
+        "item": [
+            {
+                "id": "2919",
+                "type": "equipment",
+                "title": "Steampunk Clockwork Bow\n(Permanent)",
+                "requirements": "Archer only\nRequiredLevel: 20Lv\n",
+                "restrictions": "[Drop] False\n\n",
+                "stats": "MeleeDefence: 0\nRangedDefence: 0\nMagicDefence: 0\nDodge: 0\n\n",
+                "price": "Price: 2,400",
+                "bcard": "Damage dealt in PvE is increased\nby 5%.",
+                "description": "Let off some steam with this\nmarvellous Steampunk skin."
+            }
+        ]
+    },
+    {
+        "item": [
+            {
+                "id": "2920",
+                "type": "equipment",
+                "title": "Steampunk Geared Wand\n(Permanent)",
+                "requirements": "Mage only\nRequiredLevel: 20Lv\n",
+                "restrictions": "[Drop] False\n\n",
+                "stats": "MeleeDefence: 0\nRangedDefence: 0\nMagicDefence: 0\nDodge: 0\n\n",
+                "price": "Price: 2,400",
+                "bcard": "Damage dealt in PvE is increased\nby 5%.",
+                "description": "Let off some steam with this\nmarvellous Steampunk skin."
+            }
+        ]
+    },
+    {
+        "item": [
+            {
+                "id": "2892",
+                "type": "equipment",
+                "title": "Imp Cudgel Skin (Permanent)",
+                "requirements": "Swordsman only\nRequiredLevel: 20Lv\n",
+                "restrictions": "[Drop] False\n\n",
+                "stats": "MeleeDefence: 0\nRangedDefence: 0\nMagicDefence: 0\nDodge: 0\n\n",
+                "price": "Price: 2,400",
+                "bcard": "Reduces the enemy's elemental\nresistances by 5.\nThe equipped fairy's attribute level\nincreases by 5.\n",
+                "description": "Awaken the brute within you with\nthis Imp Cudgel Skin."
+            }
+        ]
+    },
+    {
+        "item": [
+            {
+                "id": "2893",
+                "type": "equipment",
+                "title": "Wildflower Bow Skin (Permanent)",
+                "requirements": "Archer only\nRequiredLevel: 20Lv\n",
+                "restrictions": "[Drop] False\n\n",
+                "stats": "MeleeDefence: 0\nRangedDefence: 0\nMagicDefence: 0\nDodge: 0\n\n",
+                "price": "Price: 2,400",
+                "bcard": "Reduces the enemy's elemental\nresistances by 5.\nThe equipped fairy's attribute level\nincreases by 5.\n",
+                "description": "Sound the horn and go on the\nhunt with this Wildflower Bow Skin."
+            }
+        ]
+    },
+    {
+        "item": [
+            {
+                "id": "2894",
+                "type": "equipment",
+                "title": "Uchiwa Skin (Permanent)",
+                "requirements": "Mage only\nRequiredLevel: 20Lv\n",
+                "restrictions": "[Drop] False\n\n",
+                "stats": "MeleeDefence: 0\nRangedDefence: 0\nMagicDefence: 0\nDodge: 0\n\n",
+                "price": "Price: 2,400",
+                "bcard": "Reduces the enemy's elemental\nresistances by 5.\nThe equipped fairy's attribute level\nincreases by 5.\n",
+                "description": "This Uchiwa Skin would make any\ngeisha jealous."
+            }
+        ]
+    },
+    {
+        "item": [
+            {
+                "id": "26517",
+                "type": "buff",
+                "title": "Gilded Wings",
+                "subtitle": "Buff\n(Level 10)\n",
+                "duration": "Duration: 300.0 seconds",
+                "bcard1": "Increases Gold earned by 15%.\nMovement speed is increased by 2."
+            }
+        ]
+    },
+    {
+        "item": [
+            {
+                "id": "6209",
+                "type": "skill",
+                "title": "Provocation +7",
+                "job" : "Job level: 0Lv",
+                "cp" : "Necessary CP : 0",
+                "range": "Attack Range : Itself",
+                "target": "Target : Around enemy in 6 cell",
+                "cast" : "Casting time : 0.6 sec.",
+                "cool" : "Cool time : 25.0 seconds",
+                "mp" : "Consumption MP : 180",
+                "price" : "Price : 0 Gold",
+                "bcard3": "There is a 100% chance of causing\n",
+                "bcard4": " Spell Tinder (S).\nDraws enemies to 1 fields away\nfrom you.\n",
+                "buff": [
+                    {
+                        "img": "https://cdn.olympusgg.com/images/6210.png",
+                        "title": "Spell Tinder (S)",
+                        "subtitle": "Buff\n(Level 4)\n",
+                        "duration": "Duration: 20.0 seconds",
+                        "desc": "Reduces damage by using the\npowerful Spell Tinder.",
+                        "bcard1": "Defence is increased by 26%.\nUp to level 4 there is a 15%\nchance of never getting a bad\neffect.\nNon-elemental damage received is\ndecreased by 15%."
+                    }
+                ],
+                "bcard5": "There is a 50% chance of causing\n",
+                "bcard6": " Atrocity.",
+                "buff2": [
+                    {
+                        "img": "https://cdn.olympusgg.com/images/10146.png",
+                        "title": "Atrocity",
+                        "subtitle": "Debuff\n(Level 3)\n",
+                        "duration": "Duration: 10.0 seconds",
+                        "desc": "Extremely irritated and angry.",
+                        "bcard1": "Skill cooldown is increased by 10%.\nReduced to carrying out normal\nattacks by sheer anger."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item": [
+            {
+                "id": "6137",
+                "type": "skill",
+                "title": "Piercing Howl +7",
+                "job" : "Job level: 0Lv",
+                "cp" : "Necessary CP : 0",
+                "range": "Attack Range : Itself",
+                "target": "Target : NosMate",
+                "cast" : "Casting time : 0.2 sec.",
+                "cool" : "Cool time : 30.0 seconds",
+                "mp" : "Consumption MP : 180",
+                "price" : "Price : 0 Gold",
+                "bcard3": "There is a 100% chance of causing\n",
+                "bcard4": " Piercing Howl (S).",
+                "buff": [
+                    {
+                        "img": "https://cdn.olympusgg.com/images/6140.png",
+                        "title": "Piercing Howl (S)",
+                        "subtitle": "Buff\n(Level 2)\n",
+                        "duration": "Duration: 30.0 seconds",
+                        "desc": "A bitting and piercing fox howl from\nFoxy.",
+                        "bcard1": "Resists forced movement with a\nprobability of 90%.\nMagic attack power is increased by\n140.\nThe cooldown for reusing\nmagic skills is reduced by 25%."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item": [
+            {
+                "id": "2810",
+                "type": "buff",
+                "title": "Little Princess Venus (S)",
+                "subtitle": "Buff\n(Level 10)\n",
+                "duration": "Duration: 300.0 seconds",
+                "desc": "Partner's following effect.",
+                "bcard1": "All attacks are increased by 200."
+            }
+        ]
+    },
+    {
+        "item": [
+            {
+                "id": "4078",
+                "type": "buff",
+                "title": "Magic Student Yuna's\nCompanion (S)",
+                "subtitle": "Buff\n(Level 10)\n",
+                "duration": "Duration: 300.0 seconds",
+                "desc": "Partner's following effect.",
+                "bcard1": "Experience gain is increased by\n10%.\nIncreases champion experience\nreceived by 10%."
+            }
+        ]
+    },
+    {
+        "item": [
+            {
+                "id": "4083",
+                "type": "skill",
+                "title": "Loving Heart +7",
+                "job" : "Job level: 0Lv",
+                "cp" : "Necessary CP : 0",
+                "fairy": "With the equipment of Light Fairy,\nattribute spirit will be added.\n\n",
+                "range": "Attack Range : Itself",
+                "target": "Target : NosMate",
+                "cast" : "Casting time : 0.2 sec.",
+                "cool" : "Cool time : 60.0 seconds",
+                "mp" : "Consumption MP : 300",
+                "price" : "Price : 0 Gold",
+                "bcard3": "There is a 100% chance of causing\n",
+                "bcard4": " Heart Pound (S).",
+                "buff": [
+                    {
+                        "img": "https://cdn.olympusgg.com/images/10440.png",
+                        "title": "Heart Pound (S)",
+                        "subtitle": "Buff\n(Level 4)\n",
+                        "duration": "Duration: 30.0 seconds",
+                        "desc": "I am so excited! I feel so much\nbetter!",
+                        "bcard1": "All elements are increased by\n(Player Level*4).\nEvery 4 seconds:Restores\n(Player Level*25) HP."
                     }
                 ]
             }
