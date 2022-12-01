@@ -1399,5 +1399,207 @@
                 ]
             }
         ]
+    },
+    {
+        "item": [
+            {
+                "id": "10127",
+                "type": "buff",
+                "title": "Rage Mode",
+                "subtitle": "Buff\n(Level 9)\n",
+                "duration": "Duration: 20.0 seconds",
+                "desc": "The rage meter is completely full.",
+                "bcard1": "Damage dealt in PvP is increased\nby 50%.\nDamage received in PvP is reduced\nby 50%.\nResists forced movement with a\nprobability of 50%.\n\n",
+                "sideEff": "Side effect: after 10.0 seconds\n",
+                "sideEffbcard1": "Reflects an opponent's bad effect\nwith a certain likelihood.\nReduces cooldown of skills by 50%."
+            }
+        ]
+    },
+    {
+        "item": [
+            {
+                "id": "4140",
+                "type": "consumable",
+                "title": "Rainbow Coin",
+                "category": "Material",
+                "restrictions": "\n\n[Drop], [Transactions], [Sale] False",
+                "price": "0Gold",
+                "description": "This coin can be earned as a\nreward in Rainbow Battle.\nUse it in the Rainbow Shop in the\nTime Circle."
+            }
+        ]
+    },
+    {
+        "item": [
+            {
+                "id": "25110",
+                "type": "consumable",
+                "title": "Rainbow Voucher",
+                "category": "Special items",
+                "restrictions": "\n\n[Drop], [Sale] False",
+                "price": "0Gold",
+                "description": "This item is rewarded to\nchampions of Rainbow Battle each\nseason.\nCan be used to trade with Retro\nWings."
+            }
+        ]
+    },
+    {
+        "item": [
+            {
+                "id": "2930",
+                "type": "equipment",
+                "title": "Jennifer's Feathered Hat",
+                "requirements": "Swordsman, Archer, Mage, Martial\nArtist only\nRequiredChampionLevel: 30Lv\n",
+                "restrictions": "[Drop] False\n\n",
+                "stats": "MeleeDefence: 50\nRangedDefence: 50\nMagicDefence: 50\nDodge: 40\n\n",
+                "price": "Price: 1,000,000",
+                "bcard": "Up to level 4 there is a 15%\nchance of never getting a bad\neffect.\nDamage dealt in PvP is increased\nby 10%.\nDamage received in PvP is decreased\nby 10%.",
+                "description": "A hat with a stylish feather.\nA real looker and very eye-catching.\nThe only question is whether it's\nreally appropriate."
+            }
+        ]
+    },
+    {
+        "item": [
+            {
+                "id": "4135",
+                "type": "consumable",
+                "title": "Rainbow Random Box",
+                "category": "Special items",
+                "restrictions": "\n\n[Drop], [Transactions], [Sale] False",
+                "price": "5,000Gold",
+                "description": "What's in the box?\nCheck by double clicking it.\nContains of many random items of\ngiven type."
+            }
+        ]
+    },
+    {
+        "item": [
+            {
+                "id": "1841",
+                "type": "consumable",
+                "title": "Tarot Card Game",
+                "category": "Special items",
+                "restrictions": "\n\n[Drop] False",
+                "price": "10,000Gold",
+                "description": "A set of five tarot cards.\nYou will receive five of the\nfollowing sealed cards:\nFool, The Magician, The Lovers,\nThe Hermit, Death, The Devil, The\nTower, The Star, The Moon or\nThe Sun.\nUpon using a sealed tarot card you\nwill receive a Tarot card as an\nequipment item. Duration starts as\nsoon as you use it.\nThere is no level requirement for\nthis item."
+            }
+        ]
+    },
+    {
+        "item": [
+            {
+                "id": "2282",
+                "type": "consumable",
+                "title": "Angel's Feather",
+                "category": "Material",
+                "restrictions": [],
+                "price": "100Gold",
+                "description": "Angel's Feathers are important\nmaterials for improving specialist\ncards."
+            }
+        ]
+    },
+    {
+        "item": [
+            {
+                "id": "1030",
+                "type": "consumable",
+                "title": "Full Moon Crystal",
+                "category": "Producing items",
+                "restrictions": [],
+                "price": "2,400Gold",
+                "description": "Full Moon Crystals are an important\nmaterial for improving specialist\ncards."
+            }
+        ]
+    },
+    {
+        "item": [
+            {
+                "id": "1399",
+                "type": "consumable",
+                "title": "Mysterious Box of Completion",
+                "category": "Special items",
+                "restrictions": "\n\n[Drop] False",
+                "price": "5,000Gold",
+                "description": "What's in the box?\nCheck by double clicking it.\nContains of many random items of\ngiven type."
+            }
+        ]
+    },
+    {
+        "item": [
+            {
+                "id": "10515",
+                "type": "buff",
+                "title": "Rainbow Blessing",
+                "subtitle": "Buff\n(Level 3)\n",
+                "duration": "Duration: 300.0 seconds",
+                "desc": "Enhances your damage and speed\nduring the Rainbow Battle.",
+                "bcard1": "PvP attack power is increased by\n10% during the Rainbow Battle.\nMovement speed is increased by 1\nduring the Rainbow Battle."
+            }
+        ]
+    },
+    {
+        "item": [
+            {
+                "id": "2399",
+                "type": "consumable",
+                "title": "Mysterious Hair Dye",
+                "category": "Magic item",
+                "restrictions": [],
+                "price": "400Gold",
+                "description": "This hair dye is truly mysterious.\nIt changes your current hair colour\nto another random colour.\nTry it out to find out what you\nget. Go on, we dare you!"
+            }
+        ]
+    },
+    {
+        "item": [
+            {
+                "id": "441",
+                "type": "equipment",
+                "title": "Colourful Wig",
+                "requirements": "Swordsman, Archer, Mage, Martial\nArtist only\nRequiredLevel: 20Lv\n",
+                "restrictions": "[Drop] False\n\n",
+                "stats": "MeleeDefence: 2\nRangedDefence: 3\nMagicDefence: 1\nDodge: 4\n\n",
+                "price": "Price: 2,400"
+            }
+        ]
+    },
+    {
+        "item": [
+            {
+                "id": "27600",
+                "type": "equipment",
+                "title": "Rainbow Costume Wings\n(Permanent)",
+                "requirements": "Swordsman, Archer, Mage, Martial\nArtist only\nRequiredLevel: 20Lv\n",
+                "restrictions": "[Drop] False\n\n",
+                "stats": "MeleeDefence: 0\nRangedDefence: 0\nMagicDefence: 0\nDodge: 0\n\n",
+                "price": "Price: 0",
+                "bcard": "PvP attack power is increased by\n5% during the Rainbow Battle.\nMovement speed is increased by 1\nduring the Rainbow Battle.",
+                "description": "Carry your own rainbow with you."
+            }
+        ]
+    },
+    {
+        "item": [
+            {
+                "id": "27602",
+                "type": "equipment",
+                "title": "Dark Rainbow Costume Wings\n(Permanent)",
+                "requirements": "Swordsman, Archer, Mage, Martial\nArtist only\nRequiredLevel: 20Lv\n",
+                "restrictions": "[Drop] False\n\n",
+                "stats": "MeleeDefence: 0\nRangedDefence: 0\nMagicDefence: 0\nDodge: 0\n\n",
+                "price": "Price: 0",
+                "bcard": "PvP attack power is increased by\n5% during the Rainbow Battle.\nMovement speed is increased by 1\nduring the Rainbow Battle.",
+                "description": "Rainbow captured by a shell of\ndarkness."
+            }
+        ]
+    },
+    {
+        "item": [
+            {
+                "id": "31539",
+                "type": "buff",
+                "title": "Retro Wings",
+                "subtitle": "Buff\n(Level 3)\n",
+                "duration": "Duration: 300.0 seconds",
+                "bcard1": "Damage dealt in PvP is increased\nby 7%.\nDamage received in PvP is reduced\nby 7%.\nIn PvP all elemental resistances are\nincreased by 10."
+            }
+        ]
     }
 ]
