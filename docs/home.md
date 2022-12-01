@@ -7,7 +7,8 @@ hide_title: true
 ---
 
 :::caution Disclaimer
-This project is an opensource project, you can find its source at https://github.com/olympusgg/wiki
+This project is a community project, you can find its source at https://github.com/olympusgg/wiki
+It has been designed **for Olympus and by Olympus**, using opensource technologies.
 
 Maintenance is done on a "best effort" volunteering basis, which means some information can be outdated, feel free to ask on our discord or ingame for confirmation if you have doubts.
 
