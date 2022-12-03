@@ -69,7 +69,7 @@ function App (itemId, height, width) {
     }
         
     return (
-        <div>
+        <div class="item-popup">
             <div>
                 {
                     Items.map(Items => {
