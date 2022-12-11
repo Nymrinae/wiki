@@ -96,7 +96,7 @@
                         "image": "/img/tattos/6446.png",
                         "desc": "Increases attack power at the\nexpense of denfence.",
                         "bcard1": "Non-elemental damage received is \nincreased by",
-                        "bcard2": "Non-elemental damage is increased\n by",
+                        "bcard2": "All attacks are increased by",
                         "bcard3": [],
                         "bcard4": [],
                         "minibuff": [],
