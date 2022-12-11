@@ -130,5 +130,5 @@ You can choose to display a different title name, while having the effect of ano
 
 | Icon | Title |
 | --- | --------- |
-| ![](/static/img/icons/piggy.gif) | <font color="#D06EF6"> Piggy </font> |
-| ![](/static/img/icons/reaper.gif)| <font color="#8B572A"> Reaper </font> |
+| ![](../../static/img/icons/piggy.gif) | <font color="#D06EF6"> Piggy </font> |
+| ![](../../static/img/icons/reaper.gif) | <font color="#8B572A"> Reaper </font> |
