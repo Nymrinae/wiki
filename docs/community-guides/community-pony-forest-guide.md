@@ -21,9 +21,9 @@ From Olorun Village, go to Woodland Path > Spirit Forest Edge > Spirit Forest.
 
 ### Which specialist is the best?
 
-- For archers, the best specialist is Demon Hunter <div class="item-popup"><Icon iconId="2655" width="25px"/></div>
-- For swordsmen, the best specialist is Berserker <div class="item-popup"><Icon iconId="910" width="25px"/></div>
-- For mages, the best specialist is Seer <div class="item-popup"><Icon iconId="2656" width="25px"/></div>
+- For archers, the best specialist is Demon Hunter <Icon iconId="2655" width="25px"/>
+- For swordsmen, the best specialist is Berserker <Icon iconId="910" width="25px"/>
+- For mages, the best specialist is Seer <Icon iconId="2656" width="25px"/>
 
 ### Which class is the best?
 
@@ -43,12 +43,12 @@ If you do not meet these requirements you should farm in act 5.2 or do other act
 
 ![](https://imgur.com/Z41Hu68.png)![](https://imgur.com/SCHRQoh.png)![](https://imgur.com/pOTYGl8.png)
 
-- Mask : While X Mask<div class = "item-popup"><Item itemId="227"/></div>is not technically required, there is no better and cheaper item that you can use at this stage.
-- Hat : Use Cowboy Hat<div class = "item-popup"><Item itemId="339"/></div>for archers and swordsmen, Monkey Hat<div class = "item-popup"><Item itemId="340" height= "25" width="25"/></div>for mages.
-- Fairy : While expensive at this stage, a Grown Turik<div class = "item-popup"><Item itemId="277"/></div>is worth the cost as it is already at 40% and can level up to 70%. A regular Shadow Fairy, most likely at 0% is a severe loss of damage.
+- Mask : While X Mask<Item itemId="227"/>is not technically required, there is no better and cheaper item that you can use at this stage.
+- Hat : Use Cowboy Hat<Item itemId="339"/>for archers and swordsmen, Monkey Hat<Item itemId="340" height= "25" width="25"/>for mages.
+- Fairy : While expensive at this stage, a Grown Turik<Item itemId="277"/>is worth the cost as it is already at 40% and can level up to 70%. A regular Shadow Fairy, most likely at 0% is a severe loss of damage.
 - Main and secondary weapons : Fernon weapons are cheaper and stronger than Heavenly/Hellord weapons which makes them the best choice. Buy whatever is cheapest, investing in a strong shell is not worth the cost. Upgrade your main weapon to rarity 5+7 at a minimum. Archers will also need to upgrade their dagger.
-- Specialist : Demon Hunter <div class="item-popup"><Icon iconId="2655" width="25px"/></div> and Seer <div class="item-popup"><Icon iconId="2656" width="25px"/></div> can be traded for 50 Mystic Gemstones<div class = "item-popup"><Item itemId="2699"/></div>at NPC Lilith in Port Alveus Square, which you can buy in the NosBazaar. Berserker <div class="item-popup"><Icon iconId="910" width="25px"/></div> is obtained by completing the SP4 quest line. You should upgrade your specialist to +10 or higher.
-- Resistances : Buy Shining Battle Gauntlets<div class = "item-popup"><Item itemId="705"/></div> and Shining Wind Boots<div class = "item-popup"><Item itemId="714"/></div> at Teoman Topp then make a Sum 5 of each at Malcolm Mix.
+- Specialist : Demon Hunter <Icon iconId="2655" width="25px"/> and Seer <Icon iconId="2656" width="25px"/> can be traded for 50 Mystic Gemstones<Item itemId="2699"/>at NPC Lilith in Port Alveus Square, which you can buy in the NosBazaar. Berserker <Icon iconId="910" width="25px"/> is obtained by completing the SP4 quest line. You should upgrade your specialist to +10 or higher.
+- Resistances : Buy Shining Battle Gauntlets<Item itemId="705"/> and Shining Wind Boots<Item itemId="714"/> at Teoman Topp then make a Sum 5 of each at Malcolm Mix.
 - Armor : Keep the level 90 armor you gained while leveling.
 - Accessories : Keep the Rudiselrun accessories you gained while leveling. If you forgot, give them options at Soraya Style.
 - Costume : Make sure you equipped the free permanent bear costume you gained early on while leveling.
@@ -56,7 +56,7 @@ If you do not meet these requirements you should farm in act 5.2 or do other act
 ### Partner and Pet
 
 - For your partner, use Kliff. Buy a sword and swordsman armor at Teoman Topp then convert it to partner equipment and give it to Kliff.
-- For your pet buy a Viking Bushi<div class = "item-popup"><Item itemId="10388"/></div> as it is the cheapest pet with a 5% damage buff. Do not forget to give it special pet food<div class = "item-popup"><Item itemId="2187"/></div>as it increases its speed and allows it to pick up items.
+- For your pet buy a Viking Bushi<Item itemId="10388"/> as it is the cheapest pet with a 5% damage buff. Do not forget to give it special pet food<Item itemId="2187"/>as it increases its speed and allows it to pick up items.
 
 ### Title
 
@@ -70,16 +70,16 @@ At this stage there are 3 titles to choose from, which you have unlocked while l
 
 ### Important items
 
-- Infinite versions of Wing of Return<div class = "item-popup"><Item itemId="2070"/></div>, Amulet of Return<div class = "item-popup"><Item itemId="2071"/></div>and Bell of Sweet Home<div class = "item-popup"><Item itemId="2072"/></div>: Very useful since you won't ever need to buy them again, and are used a lot as you will see below. You can trade them for 999 of the regular version at Malcolm Mix. Infinite Wing of Return is not technically needed as you will rarely use it.
-- Nosmate Guardian Angel<div class="item-popup"><Item itemId="2089"/></div> and Partner's Guardian Angel<div class="item-popup"><Item itemId="1453"/></div>: Lets your pets respawn instantly, make sure you always have a few hundreds in your inventory.
-- Fairy Booster<div class = "item-popup"><Item itemId="1296"/></div>: Significant damage boost for one hour at a cheap cost.
-- Divine Recovery Potion<div class = "item-popup"><Item itemId="1244"/></div>: Instantly refills all your HP and MP. Becomes basically free after some time spent farming. Crafted with Fresh Moss at the Supermarket in Olorun.
-- Achemist's Beverage<div class = "item-popup"><Item itemId="25084"/></div> : 10 Minutes Attack Potion, Defence Potion and Energy Potion in one. Becomes basically free after some time spent farming. Crafted with Juice Meat at the Supermarket in Olorun.
-- Tarot Cards : Use Fool<div class = "item-popup"><Item itemId="656"/></div>, Devil<div class = "item-popup"><Item itemId="661"/></div>, Sun<div class = "item-popup"><Item itemId="588"/></div>or Star<div class = "item-popup"><Item itemId="663"/></div> while leveling. Usually more expensive than fairy boosters but last for 3 hours.
+- Infinite versions of Wing of Return<Item itemId="2070"/>, Amulet of Return<Item itemId="2071"/>and Bell of Sweet Home<Item itemId="2072"/>: Very useful since you won't ever need to buy them again, and are used a lot as you will see below. You can trade them for 999 of the regular version at Malcolm Mix. Infinite Wing of Return is not technically needed as you will rarely use it.
+- Nosmate Guardian Angel<Item itemId="2089"/> and Partner's Guardian Angel<<Item itemId="1453"/>: Lets your pets respawn instantly, make sure you always have a few hundreds in your inventory.
+- Fairy Booster<Item itemId="1296"/>: Significant damage boost for one hour at a cheap cost.
+- Divine Recovery Potion<Item itemId="1244"/>: Instantly refills all your HP and MP. Becomes basically free after some time spent farming. Crafted with Fresh Moss at the Supermarket in Olorun.
+- Achemist's Beverage<Item itemId="25084"/> : 10 Minutes Attack Potion, Defence Potion and Energy Potion in one. Becomes basically free after some time spent farming. Crafted with Juice Meat at the Supermarket in Olorun.
+- Tarot Cards : Use Fool<Item itemId="656"/>, Devil<Item itemId="661"/>, Sun<Item itemId="588"/>or Star<Item itemId="663"/> while leveling. Usually more expensive than fairy boosters but last for 3 hours.
 
 ### Point of return and Personal warp setup
 
-Before you start farming you need to setup your point of return. This is done by using a Wing of Return<div class = "item-popup"><Item itemId="2070"/></div>and clicking Confirm when asked to save your position. You want to set it in the bottom right corner of the map. Also, since you will often come back to farm in spirit forest you will want to add a personal warp here.
+Before you start farming you need to setup your point of return. This is done by using a Wing of Return<Item itemId="2070"/>and clicking Confirm when asked to save your position. You want to set it in the bottom right corner of the map. Also, since you will often come back to farm in spirit forest you will want to add a personal warp here.
 <iframe src="https://streamable.com/e/ihewsu?loop=0" frameborder="0" width="100%" height="315" allowfullscreen="true"></iframe>
 
 ### Enemies
@@ -88,19 +88,19 @@ In Spirit Forest there are 5 different enemies :
 
 ![](https://cdn.olympusgg.com/images/monsters/3013.png)
 
-Moss Gloop (Water) - Very weak enemy but also the most dangerous because of its debuff. When attacking it has a 2% chance to inflict Glue for 15 seconds, which reduces your speed by 50%. Because of the extreme speed reduction, receiving this debuff is really bad. Can drop x1 Spirit Forest Branch<div class = "item-popup"><Item itemId="4251"/></div>(100k)
+Moss Gloop (Water) - Very weak enemy but also the most dangerous because of its debuff. When attacking it has a 2% chance to inflict Glue for 15 seconds, which reduces your speed by 50%. Because of the extreme speed reduction, receiving this debuff is really bad. Can drop x1 Spirit Forest Branch<Item itemId="4251"/>(100k)
 
 ![](https://cdn.olympusgg.com/images/monsters/3015.png)
 
-Rock Golem (Water) - They have a 1% chance to stun you for 2 seconds. Can drop x2 Golem Core<div class = "item-popup"><Item itemId="4230"/></div>(100k)
+Rock Golem (Water) - They have a 1% chance to stun you for 2 seconds. Can drop x2 Golem Core<Item itemId="4230"/>(100k)
 
 ![](https://cdn.olympusgg.com/images/monsters/3014.png)
 
-Moss Fairy (Water) - Weak enemy. Can drop x2 Spirit Forest Branch<div class = "item-popup"><Item itemId="4251"/></div>(100k)
+Moss Fairy (Water) - Weak enemy. Can drop x2 Spirit Forest Branch<Item itemId="4251"/>(100k)
 
 ![](https://cdn.olympusgg.com/images/monsters/3011.png)
 
-Guardian Spirit (Light) - When being attacked, they have a 50% chance to reduce the damage by 50%. This makes them much tankier than the other enemies and they are the reason a Dark element specialist is needed to farm here. Can drop x1 Golem Core<div class = "item-popup"><Item itemId="4230"/></div>(100k)
+Guardian Spirit (Light) - When being attacked, they have a 50% chance to reduce the damage by 50%. This makes them much tankier than the other enemies and they are the reason a Dark element specialist is needed to farm here. Can drop x1 Golem Core<Item itemId="4230"/>(100k)
 
 ![](https://cdn.olympusgg.com/images/monsters/3011.png)
 
@@ -122,7 +122,7 @@ Note : when luring with your pets it is common for them to get stunned or slowed
 
 Before you enter the rift and start farming, you need to get all your buffs outside the rift as you can't use the bell of sweet home from inside the rift. A rift lasts for 60 minutes so you want all your buffs to end at the same time.
 
-First go next to the rift and use the bell of sweet home. In your miniland use 6 Alchemist's Beverage<div class = "item-popup"><Item itemId="25084"/></div>, which will stack to 60 minutes, then a Fairy Booster<div class = "item-popup"><Item itemId="1296"/></div>. Talk to the Phantom Druid NPC > Receive a buff > Hero's Greater Blessing. Finally exit your miniland, talk to the Mysterious Rift NPC > Enter Alone or Enter with Party.
+First go next to the rift and use the bell of sweet home. In your miniland use 6 Alchemist's Beverage<Item itemId="25084"/>, which will stack to 60 minutes, then a Fairy Booster<Item itemId="1296"/>. Talk to the Phantom Druid NPC > Receive a buff > Hero's Greater Blessing. Finally exit your miniland, talk to the Mysterious Rift NPC > Enter Alone or Enter with Party.
 
 <iframe src="https://streamable.com/e/p7csqg?loop=0" frameborder="0" width="100%" height="315" allowfullscreen="true"></iframe>
 
@@ -168,27 +168,27 @@ Below are upgrades gated by champion level.
 
 - Level 50
 
-Azrael's Mask<div class = "item-popup"><Item itemId="2825"/></div>. Very cheap mask and the effect stacks with other equipment.
+Azrael's Mask<Item itemId="2825"/>. Very cheap mask and the effect stacks with other equipment.
 
 - Level 53
 
-Orc Hero Ring<div class = "item-popup"><Item itemId="4207"/></div>. Options do not matter, simply buy the cheapest.
+Orc Hero Ring<Item itemId="4207"/>. Options do not matter, simply buy the cheapest.
 
 - Level 55
 
-Spirit King's Bracelet<div class = "item-popup"><Item itemId="4203"/></div>. Options do not matter, simply buy the cheapest.
+Spirit King's Bracelet<Item itemId="4203"/>. Options do not matter, simply buy the cheapest.
 
 Orc Loa main and secondary weapons. The biggest upgrade you will make. For your first weapons, you can either buy the cheapest and upgrade it then later buy good weapons, or accumulate gold with fernon weapons to buy good orc loa weapons. Be sure to read the gear guide before you decide.
 
 - Level 58
 
-Beastheart Necklace<div class = "item-popup"><Item itemId="4211"/></div>. Options do not matter, simply buy the cheapest.
+Beastheart Necklace<Item itemId="4211"/>. Options do not matter, simply buy the cheapest.
 
 Orc Loa armors. What really matters here is the shell rather than the armor itself. Read the gear guide before you buy.
 
 - Level 60
 
-Loa Tomes <div class="item-popup"><Icon iconId="2799" width="25px"/></div> . Bear +7000 HP, Eagle +120 agility, Snake +120 intelligence, Lion physical strength +120. Very cheap items that give important stats.
+Loa Tomes <Icon iconId="2799" width="25px"/> . Bear +7000 HP, Eagle +120 agility, Snake +120 intelligence, Lion physical strength +120. Very cheap items that give important stats.
 
 Belial weapons and armor. You can craft them using Orc Loa production scrolls and your Orc Loa weapons and armor, or buy them from players. When crafting be sure to select Keep Options and not Keep Upgrades. Read gear guide before buying.
 
@@ -198,11 +198,11 @@ Below are upgrades that were gated by being too expensive for beginners, listed 
 
 - Hat :
 
-Beast's Golden Horn<div class = "item-popup"><Item itemId="2657"/></div>. Very cheap and has the highest effect activation chance of all hats. While having Magical Reflection<div class = "item-popup"><Item itemId="10250" height="20" width="20"/></div>active you are immune to all debuffs.
+Beast's Golden Horn<Item itemId="2657"/>. Very cheap and has the highest effect activation chance of all hats. While having Magical Reflection<Item itemId="10250" height="20" width="20"/>active you are immune to all debuffs.
 
 - Fairy :
 
-Varik<div class = "item-popup"><Item itemId="993"/></div>. Starts at 50% and can go up to 80%.
+Varik<Item itemId="993"/>. Starts at 50% and can go up to 80%.
 
 Weapons :
 
@@ -210,7 +210,7 @@ Orc Loa/Belial. Read gear guide before buying. Upgrade to rarity 7+8.
 
 Specialist :
 
-Upgrade your specialist to +13 and buy Archdaemon Wings<div class = "item-popup"><Item itemId="31526"/></div>.
+Upgrade your specialist to +13 and buy Archdaemon Wings<Item itemId="31526"/>.
 
 Armor :
 
@@ -218,15 +218,15 @@ Orc Loa/Belial. Read gear guide before buying. Damage received is not a big issu
 
 Gloves and Shoes :
 
-Damned Gloves<div class = "item-popup"><Item itemId="413"/></div>and Sacred Boots<div class = "item-popup"><Item itemId="415"/></div>. Should be your first upgrade as they give resistance to all elements and are dropped in the forest. Do not buy any from players, simply farm and combine the ones you drop.
+Damned Gloves<Item itemId="413"/>and Sacred Boots<Item itemId="415"/>. Should be your first upgrade as they give resistance to all elements and are dropped in the forest. Do not buy any from players, simply farm and combine the ones you drop.
 
 Trophy :
 
-Twilight Gem<div class="item-popup"><Item itemId="25521"/></div><div class="item-popup"><Item itemId="25522"/></div><div class="item-popup"><Item itemId="25523"/></div>. Huge damage boost once upgraded. Craft it as soon as possible, then spend money whenever you can to upgrade it.
+Twilight Gem<Item itemId="25521"/><Item itemId="25522"/><Item itemId="25523"/>. Huge damage boost once upgraded. Craft it as soon as possible, then spend money whenever you can to upgrade it.
 
 - Costume :
 
-Wonderland<div class="item-popup"><Item itemId="4477"/></div>, Puppet Master<div class="item-popup"><Item itemId="4047"/></div><div class="item-popup"><Item itemId="4045"/></div>, Detective/Party <div class="item-popup"><Item itemId="2635"/></div><div class="item-popup"><Item itemId="2641"/></div>. Buy whichever is cheapest.
+Wonderland<Item itemId="4477"/>, Puppet Master<Item itemId="4047"/><Item itemId="4045"/>, Detective/Party <Item itemId="2635"/><Item itemId="2641"/>. Buy whichever is cheapest.
 
 ## Gear guide
 
@@ -326,61 +326,61 @@ Here we will go over the best masks, hats, gloves, shoes, accessories and trophi
 
 1. Masks
 
-Azrael's Mask<div class="item-popup"><Item itemId="2825"/></div>. The only mask worth using, as there is nothing else even comparable.
+Azrael's Mask<Item itemId="2825"/>. The only mask worth using, as there is nothing else even comparable.
 
 ---
 
 2. Hats
 
-Beast's Golden Horn<div class = "item-popup"><Item itemId="2657"/></div>. Very cheap and has the highest effect activation chance of all hats. While having Magical Reflection<div class = "item-popup"><Item itemId="10250" height="20" width="20"/></div>active you are immune to all debuffs.
+Beast's Golden Horn<Item itemId="2657"/>. Very cheap and has the highest effect activation chance of all hats. While having Magical Reflection<Item itemId="10250" height="20" width="20"/>active you are immune to all debuffs.
 
-Laurena's Witch Hat<div class = "item-popup"><Item itemId="2701"/></div>. Recommended hat for Berserker and Seer.
+Laurena's Witch Hat<Item itemId="2701"/>. Recommended hat for Berserker and Seer.
 
-Dragon Wing Decoration<div class = "item-popup"><Item itemId="2904"/></div>. Recommended hat for Demon Hunter.
+Dragon Wing Decoration<Item itemId="2904"/>. Recommended hat for Demon Hunter.
 
-Ancient Beast Helmet<div class = "item-popup"><Item itemId="4196"/></div>. Small upgrade to Dragon Wing Decoration. Recommended hat for Demon Hunter.
+Ancient Beast Helmet<Item itemId="4196"/>. Small upgrade to Dragon Wing Decoration. Recommended hat for Demon Hunter.
 
 ---
 
 3. Gloves
 
-Damned Gloves<div class = "item-popup"><Item itemId="413"/></div>. Gives resistances to all elements and is dropped while farming. Combine the first 3 you drop to sum 2, then do sum 5 attempts each time you drop 6.
+Damned Gloves<Item itemId="413"/>. Gives resistances to all elements and is dropped while farming. Combine the first 3 you drop to sum 2, then do sum 5 attempts each time you drop 6.
 
-Spirit King Gloves<div class = "item-popup"><Item itemId="4199"/></div>. Upgrade to Damned Gloves. Buy 1 and combine with Damned Gloves you drop.
+Spirit King Gloves<Item itemId="4199"/>. Upgrade to Damned Gloves. Buy 1 and combine with Damned Gloves you drop.
 
 ---
 
 4. Shoes
 
-Sacred Boots<div class = "item-popup"><Item itemId="415"/></div>. Gives resistances to all elements and is dropped while farming. Combine the first 3 you drop to sum 2, then do sum 5 attempts each time you drop 6.
+Sacred Boots<Item itemId="415"/>. Gives resistances to all elements and is dropped while farming. Combine the first 3 you drop to sum 2, then do sum 5 attempts each time you drop 6.
 
-Spirit King Shoes<div class = "item-popup"><Item itemId="4201"/></div>. Cheap alternative to Fernon Shoes. Buy 1 and combine with Sacred Boots you drop.
+Spirit King Shoes<Item itemId="4201"/>. Cheap alternative to Fernon Shoes. Buy 1 and combine with Sacred Boots you drop.
 
-Fernon Shoes<div class = "item-popup"><Item itemId="2826"/></div>. +2 movement speed. Highest movement speed of all boots, expensive. Buy 1 or do Fernon raids until you drop 1, then combine with Sacred Boots to sum 2.
+Fernon Shoes<Item itemId="2826"/>. +2 movement speed. Highest movement speed of all boots, expensive. Buy 1 or do Fernon raids until you drop 1, then combine with Sacred Boots to sum 2.
 
 ---
 
 5. Accessories
 
-Orc Hero Ring<div class="item-popup"><Item itemId="4207"/></div>, Spirit King's Bracelet<div class="item-popup"><Item itemId="4203"/></div>, Beastheart Necklace<div class="item-popup"><Item itemId="4211"/></div>. +10% damage dealt in total, -5% damage received in total. Options do not matter, buy the cheapest.
+Orc Hero Ring<Item itemId="4207"/>, Spirit King's Bracelet<Item itemId="4203"/>, Beastheart Necklace<Item itemId="4211"/>. +10% damage dealt in total, -5% damage received in total. Options do not matter, buy the cheapest.
 
 ---
 
 6. Trophies
 
-Twilight Gem<div class="item-popup"><Item itemId="25521"/></div><div class="item-popup"><Item itemId="25522"/></div><div class="item-popup"><Item itemId="25523"/></div>. Huge damage boost once upgraded. Craft it as soon as possible, then spend money whenever you can to upgrade it.
+Twilight Gem<Item itemId="25521"/><Item itemId="25522"/><Item itemId="25523"/>. Huge damage boost once upgraded. Craft it as soon as possible, then spend money whenever you can to upgrade it.
 
 ### Fairies
 
 Here we will go over the best fairy to use.
 
-1. Turik<div class="item-popup"><Item itemId="277"/></div>Starts at 40% and levels up to 70%. Cheap and only 10% lower than Varik. Recommended for beginners.
+1. Turik<Item itemId="277"/>Starts at 40% and levels up to 70%. Cheap and only 10% lower than Varik. Recommended for beginners.
 
-2. Varik<div class="item-popup"><Item itemId="993"/></div>Starts at 50% and levels up to 80%. A better Turik but much more expensive.
+2. Varik<Item itemId="993"/>Starts at 50% and levels up to 80%. A better Turik but much more expensive.
 
-3. Zenas (Shadow)<div class="item-popup"><Item itemId="4805"/></div>, Erenia (Shadow)<div class="item-popup"><Item itemId="4800"/></div>-3 to enemy shadow resistance, fixed at 80%. Extremely expensive. Not recommended if you're not trying to push your monster kills per hour.
+3. Zenas (Shadow)<Item itemId="4805"/>, Erenia (Shadow)<Item itemId="4800"/>-3 to enemy shadow resistance, fixed at 80%. Extremely expensive. Not recommended if you're not trying to push your monster kills per hour.
 
-4. Fernon (Shadow)<div class="item-popup"><Item itemId="4809"/></div>-5 to enemy shadow resistance, fixed at 90%. Obscenely expensive. Consider this as the last possible upgrade.
+4. Fernon (Shadow)<Item itemId="4809"/>-5 to enemy shadow resistance, fixed at 90%. Obscenely expensive. Consider this as the last possible upgrade.
 
 ### Costumes
 
@@ -388,9 +388,9 @@ Here we will go over the best costume hats, costumes, costume wings and costume 
 
 1. Costume Hats
 
-Viking Helmet<div class="item-popup"><Item itemId="2900"/></div>. +4% damage dealt, +4% damage dealt in PvE. Highest damage increase of all costume hats, very expensive.
+Death Lancer Skullcap<Item itemId="4434"/>. When combined with the Death Lancer pet<Item itemId="31341"/>, the effect stacks to 30% chance and 35% damage. This is very strong, as the proc chance is rolled for each individual enemy you hit; meaning every time you attack a pack of mobs the effect will proc on multiple mobs. If you use it it's recommended to also use the pet, however even the hat by itself is very good.
 
-Death Lancer Skullcap<div class="item-popup"><Item itemId="4434"/></div>. 20% chance to increase damage by 25% when using a shadow fairy. Competes with Viking Helmet when combined with the Death Lancer pet, stacking to 30% chance and 35% damage. Rare and very expensive.
+Viking Helmet<Item itemId="2900"/>. Highest static damage increase of all costume hats. However it is very expensive and difficult to find.
 
 Any costume hat with a +5% damage increase.
 
@@ -398,7 +398,7 @@ Any costume hat with a +5% damage increase.
 
 2. Costumes
 
-Wonderland<div class="item-popup"><Item itemId="4477"/></div>, Puppet Master<div class="item-popup"><Item itemId="4047"/></div><div class="item-popup"><Item itemId="4045"/></div>, Detective <div class="item-popup"><Item itemId="2635"/></div><div class="item-popup"><Item itemId="2641"/></div>. +2 movement speed. Buy whichever is cheapest.
+Wonderland<Item itemId="4477"/>, Puppet Master<Item itemId="4047"/><Item itemId="4045"/>, Detective <Item itemId="2635"/><Item itemId="2641"/>. +2 movement speed. Buy whichever is cheapest.
 
 ---
 
@@ -410,9 +410,9 @@ All costume wings (except rainbow battle wings) give +1 movement speed. It's the
 
 4. Costume Weapons
 
-Steampunk<div class="item-popup"><Item itemId="2918"/></div><div class="item-popup"><Item itemId="2919"/></div><div class="item-popup"><Item itemId="2920"/></div>. Expensive, but much cheaper than Geisha.
+Steampunk<Item itemId="2918"/><Item itemId="2919"/><Item itemId="2920"/>. Expensive, but much cheaper than Geisha.
 
-Geisha<div class="item-popup"><Item itemId="2892"/></div><div class="item-popup"><Item itemId="2893"/></div><div class="item-popup"><Item itemId="2894"/></div>. Best costume weapon for PvE, but extremely expensive and can be hard to find.
+Geisha<Item itemId="2892"/><Item itemId="2893"/><Item itemId="2894"/>. Best costume weapon for PvE, but extremely expensive and can be hard to find.
 
 ### Specialist
 
@@ -422,9 +422,9 @@ Here we will go over specialist wings, points and perfection.
 
 There are only two wings worth considering when farming :
 
-- Archdaemon Wings<div class="item-popup"><Item itemId="31526"/></div>. Large damage increase, the default wings for all PvE activities.
+- Archdaemon Wings<Item itemId="31526"/>. Large damage increase, the default wings for all PvE activities.
 
-- Gilded Wings <div class="item-popup"><Item itemId="26517"/></div>: +15% gold gain, +2 movement speed. Good choice when stacking gold gain effects. The damage loss is significant however, although the additional movement speed slightly makes up for it. Only use these wings if you have a tier 3 Twilight Gem and a Geisha weapon skin.
+- Gilded Wings <Item itemId="26517"/>: +15% gold gain, +2 movement speed. Good choice when stacking gold gain effects. The damage loss is significant however, although the additional movement speed slightly makes up for it. Only use these wings if you have a tier 3 Twilight Gem and a Geisha weapon skin.
 
 ---
 
@@ -452,25 +452,25 @@ When looking for a specialist, only two stats matter :
 
 Here we will go over the best partners to use, more specifically partner specialists, as the actual partner wearing the specialist does not matter when farming.
 
-- Amon <div class="item-popup"><Icon iconId="4060" width="25px"/></div> : Provocation<div class="item-popup"><Item itemId="6209"/></div>can pull enemies from 6 cells, with a short cooldown of 25 seconds. Does not require any S rank and usually costs below 300kk. The best partner for party rift.
+- Amon <Icon iconId="4060" width="25px"/> : Provocation<Item itemId="6209"/>can pull enemies from 6 cells, with a short cooldown of 25 seconds. Does not require any S rank and usually costs below 300kk. The best partner for party rift.
 
-- Foxy/Fiona (Mage)(S) <div class="item-popup"><Icon iconId="2672" width="25px"/></div><div class="item-popup"><Icon iconId="2729" width="25px"/></div>: Piercing Howl<div class="item-popup"><Item itemId="6137"/></div>increases your attack by 140 and gives 25% skill cooldown reduction. Must have partner for all mages. As long as you pay attention you can maintain this buff permanently, since the buff has the same duration as the skill's cooldown.
+- Foxy/Fiona (Mage)(S) <Icon iconId="2672" width="25px"/><Icon iconId="2729" width="25px"/>: Piercing Howl<Item itemId="6137"/>increases your attack by 140 and gives 25% skill cooldown reduction. Must have partner for all mages. As long as you pay attention you can maintain this buff permanently, since the buff has the same duration as the skill's cooldown.
 
-- Venus (SSS) <div class="item-popup"><Icon iconId="2810" width="25px"/></div>: Passively grants +200 attack<div class="item-popup"><Item itemId="2810"/></div>. Requires triple S rank for the full buff however.
+- Venus (SSS) <Icon iconId="2810" width="25px"/>: Passively grants +200 attack<Item itemId="2810"/>. Requires triple S rank for the full buff however.
 
-- Yuna (SSS) <div class="item-popup"><Icon iconId="4078" width="25px"/></div>: Passively grants +20% champion experience<div class="item-popup"><Item itemId="4078"/></div>. Loving Heart<div class="item-popup"><Item itemId="4083"/></div>increases all elements by 396 and restores a large amount of health. Requires triple S rank for the full passive buff however. Recommended partner for leveling.
+- Yuna (SSS) <Icon iconId="4078" width="25px"/>: Passively grants +20% champion experience<Item itemId="4078"/>. Loving Heart<Item itemId="4083"/>increases all elements by 396 and restores a large amount of health. Requires triple S rank for the full passive buff however. Recommended partner for leveling.
 
 ### Pet
 
 Here we will go over the best pets to use, based on their buff and skill, ranked from best to worst.
 
-1. Pix<div class="item-popup"><Item itemId="17002"/></div>. Best PvE pet by far. Hard to find and very expensive.
+1. Pix<Item itemId="17002"/>. Best PvE pet by far. Hard to find and very expensive.
 
-2. Pirate Bushi (Shadow)<div class="item-popup"><Item itemId="26511"/></div>. Much cheaper alternative to Pix, but locked to a single element.
+2. Pirate Bushi (Shadow)<Item itemId="26511"/>. Much cheaper alternative to Pix, but locked to a single element.
 
-3. Otter<div class="item-popup"><Item itemId="10518"/></div>. Its skill Sushi Party<div class="item-popup"><Item itemId="6425"/></div>pulls and stuns enemies in 6 cells, with a 70 seconds cooldown. Great for party rift when used with Amon <div class="item-popup"><Icon iconId="4060" width="25px"/></div> , as it provides a backup pull if you mess up Amon's Provocation<div class="item-popup"><Item itemId="6209"/></div>. Not a replacement to Amon due to the long cooldown however.
+3. Death Lancer<Item itemId="31341"/>. Great pet when combined with the Death Lancer Skullcap<Item itemId="4434"/> costume hat, stacking to 30% chance and 35% damage.
 
-4. Death Lancer<div class="item-popup"><Item itemId="31341"/></div>. Great pet when combined with the Death Lancer Skullcap<div class="item-popup"><Item itemId="4434"/></div> costume hat, stacking to 30% chance and 35% damage. Not recommended otherwise.
+4. Otter<Item itemId="10518"/>. Its skill Sushi Party<Item itemId="6425"/>pulls and stuns enemies in 6 cells, with a 70 seconds cooldown. Great for party rift when used with Amon <Icon iconId="4060" width="25px"/> , as it provides a backup pull if you mess up Amon's Provocation<Item itemId="6209"/>. Not a replacement to Amon due to the long cooldown however.
 
 5. Any pet with a +10% damage dealt buff.
 
@@ -482,7 +482,7 @@ Here we will go over the best tattoos to use while farming.
 
 - First slot
 
-    - Swift as the Wind (Eagle) <div class="item-popup"><Icon iconId="6453" width="25px"/></div>
+    - Swift as the Wind (Eagle) <Icon iconId="6453" width="25px"/>
         - +1 movement speed (+0)
         - +2 movement speed (+5)
         - +3 movement speed (+9)
@@ -491,21 +491,21 @@ Here we will go over the best tattoos to use while farming.
 
 - Second slot
 
-    - Recuperative Healing (Lion) <div class="item-popup"><Icon iconId="6450" width="25px"/></div>
+    - Recuperative Healing (Lion) <Icon iconId="6450" width="25px"/>
         - 2% chance to reset the cooldown of the skill used (+0).
         - 8% chance to reset the cooldown of the skill used (+5).
         - 20% chance to reset the cooldown of the skill used (+9).
         
         Recommended tattoo for Berserker and Seer. Unfortunately only starts to shine at high upgrades.
 
-    - Blessed Pelt (Bear) <div class="item-popup"><Icon iconId="6442" width="25px"/></div>
+    - Blessed Pelt (Bear) <Icon iconId="6442" width="25px"/>
         - +5% chance to not receive a debuff up to level 2 (+0)
         - +12% chance to not receive a debuff up to level 3 (+5)
         - +15% chance to not receive a debuff up to level 5 (+9)
         
         Recommended tattoo for Demon Hunter. Better to keep at +5 as the chance increase at higher ranks is not worth the cost, and already works against Glue (lvl 1) and Short Blackout (lvl 3).
 
-    - Attack Stance (Lion) <div class="item-popup"><Icon iconId="6446" width="25px"/></div>
+    - Attack Stance (Lion) <Icon iconId="6446" width="25px"/>
         - +2% damage received and +2% attack (+0)
         - +8% damage received and +8% attack (+5)
         - +20% damage received and +20% attack (+9)
@@ -560,26 +560,26 @@ Here we will go over the consumables and special items used when farming.
 
 1. Consumables
 
-NosMate Guardian Angel<div class="item-popup"><Item itemId="2089"/></div>and Partner's Guardian Angel<div class="item-popup"><Item itemId="1453"/></div>. Lets your pets respawn instantly, make sure you always have a few hundreds in your inventory.
+NosMate Guardian Angel<Item itemId="2089"/>and Partner's Guardian Angel<Item itemId="1453"/>. Lets your pets respawn instantly, make sure you always have a few hundreds in your inventory.
 
-Fairy Booster<div class="item-popup"><Item itemId="1296"/></div>. Significant damage boost for one hour at a cheap cost.
+Fairy Booster<Item itemId="1296"/>. Significant damage boost for one hour at a cheap cost.
 
-Divine Recovery Potion<div class="item-popup"><Item itemId="1244"/></div>. Instantly refills all your HP and MP. Becomes basically free after some time spent farming. Crafted with Fresh Moss at the Supermarket in Olorun.
+Divine Recovery Potion<Item itemId="1244"/>. Instantly refills all your HP and MP. Becomes basically free after some time spent farming. Crafted with Fresh Moss at the Supermarket in Olorun.
 
-Alchemist's Beverage<div class="item-popup"><Item itemId="25084"/></div>. 10 Minutes Attack Potion, Defence Potion and Energy Potion in one. Becomes basically free after some time spent farming. Crafted with Juice Meat at the Supermarket in Olorun.
+Alchemist's Beverage<Item itemId="25084"/>. 10 Minutes Attack Potion, Defence Potion and Energy Potion in one. Becomes basically free after some time spent farming. Crafted with Juice Meat at the Supermarket in Olorun.
 
-Fafnir's Fried Dinner<div class="item-popup"><Item itemId="2906"/></div>. Cleanses level 3 and below debuffs. Most expensive potion in the game, should only be used when trying to get a new record.
+Fafnir's Fried Dinner<Item itemId="2906"/>. Cleanses level 3 and below debuffs. Most expensive potion in the game, should only be used when trying to get a new record.
 
 ---
 
 2. Tarot Cards
 
-Sun<div class="item-popup"><Item itemId="588"/></div>or Devil<div class="item-popup"><Item itemId="661"/></div>. +250 attack, +1 movement speed. Best tarots for damage.
+Sun<Item itemId="588"/>or Devil<Item itemId="661"/>. +250 attack, +1 movement speed. Best tarots for damage.
 
-Fool <div class="item-popup"><Item itemId="656"/></div>. +10% gold gained, +1 movement speed. Good tarot for gold.
+Fool <Item itemId="656"/>. +10% gold gained, +1 movement speed. Good tarot for gold.
 
 ---
 
 3. Special items
 
-Infinite versions of Wing of Return<div class="item-popup"><Item itemId="2070"/></div>, Amulet of Return<div class="item-popup"><Item itemId="2071"/></div>and Bell of Sweet Home<div class="item-popup"><Item itemId="2072"/></div>. Very useful since you won't ever need to buy them again. You can trade them for 999 of the regular version at Malcolm Mix. Infinite Wing of Return is not technically needed as you will rarely use it.
+Infinite versions of Wing of Return<Item itemId="2070"/>, Amulet of Return<Item itemId="2071"/>and Bell of Sweet Home<Item itemId="2072"/>. Very useful since you won't ever need to buy them again. You can trade them for 999 of the regular version at Malcolm Mix. Infinite Wing of Return is not technically needed as you will rarely use it.
