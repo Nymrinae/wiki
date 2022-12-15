@@ -579,7 +579,7 @@
                 "subtitle": "Buff\n(Level 3)\n",
                 "duration": "Duration: 300.0 seconds",
                 "desc": "The mascot of shadow element\nboosts your attack power.",
-                "bcard1": "With a 10% probability, damage\ndealt is increased by 10% when\nequipped with shadow fairy."
+                "bcard1": "With a 10% probability, damage\ndealt is increased by 10% when\nequipped with shadow fairy.\nDamage dealt is increased by 10%."
             }
         ]
     },
@@ -1599,6 +1599,19 @@
                 "subtitle": "Buff\n(Level 3)\n",
                 "duration": "Duration: 300.0 seconds",
                 "bcard1": "Damage dealt in PvP is increased\nby 7%.\nDamage received in PvP is reduced\nby 7%.\nIn PvP all elemental resistances are\nincreased by 10."
+            }
+        ]
+    },
+    {
+        "item": [
+            {
+                "id": "31440",
+                "type": "buff",
+                "title": "Blue's Blessing",
+                "subtitle": "Buff\n(Level 3)\n",
+                "duration": "Duration: 300.0 seconds",
+                "desc": "Effect granted by the Baby Raptor\nBlue.",
+                "bcard1": "Reduces cooldown of skills by 10%.\nExperience gain is increased by\n15%."
             }
         ]
     }

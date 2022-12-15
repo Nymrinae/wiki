@@ -21,9 +21,9 @@ From Olorun Village, go to Woodland Path > Spirit Forest Edge > Spirit Forest.
 
 ### Which specialist is the best?
 
-- For archers, the best specialist is Demon Hunter <Icon iconId="2655" width="25px"/>
-- For swordsmen, the best specialist is Berserker <Icon iconId="910" width="25px"/>
-- For mages, the best specialist is Seer <Icon iconId="2656" width="25px"/>
+- For archers, the best specialist is Demon Hunter <div class="item-popup"><Icon iconId="2655" width="25px"/></div>
+- For swordsmen, the best specialist is Berserker <div class="item-popup"><Icon iconId="910" width="25px"/></div>
+- For mages, the best specialist is Seer <div class="item-popup"><Icon iconId="2656" width="25px"/></div>
 
 ### Which class is the best?
 
@@ -47,7 +47,7 @@ If you do not meet these requirements you should farm in act 5.2 or do other act
 - Hat : Use Cowboy Hat<Item itemId="339"/>for archers and swordsmen, Monkey Hat<Item itemId="340" height= "25" width="25"/>for mages.
 - Fairy : While expensive at this stage, a Grown Turik<Item itemId="277"/>is worth the cost as it is already at 40% and can level up to 70%. A regular Shadow Fairy, most likely at 0% is a severe loss of damage.
 - Main and secondary weapons : Fernon weapons are cheaper and stronger than Heavenly/Hellord weapons which makes them the best choice. Buy whatever is cheapest, investing in a strong shell is not worth the cost. Upgrade your main weapon to rarity 5+7 at a minimum. Archers will also need to upgrade their dagger.
-- Specialist : Demon Hunter <Icon iconId="2655" width="25px"/> and Seer <Icon iconId="2656" width="25px"/> can be traded for 50 Mystic Gemstones<Item itemId="2699"/>at NPC Lilith in Port Alveus Square, which you can buy in the NosBazaar. Berserker <Icon iconId="910" width="25px"/> is obtained by completing the SP4 quest line. You should upgrade your specialist to +10 or higher.
+- Specialist : Demon Hunter <div class="item-popup"><Icon iconId="2655" width="25px"/></div> and Seer <div class="item-popup"><Icon iconId="2656" width="25px"/></div> can be traded for 50 Mystic Gemstones<Item itemId="2699"/>at NPC Lilith in Port Alveus Square, which you can buy in the NosBazaar. Berserker <div class="item-popup"><Icon iconId="910" width="25px"/></div> is obtained by completing the SP4 quest line. You should upgrade your specialist to +10 or higher.
 - Resistances : Buy Shining Battle Gauntlets<Item itemId="705"/> and Shining Wind Boots<Item itemId="714"/> at Teoman Topp then make a Sum 5 of each at Malcolm Mix.
 - Armor : Keep the level 90 armor you gained while leveling.
 - Accessories : Keep the Rudiselrun accessories you gained while leveling. If you forgot, give them options at Soraya Style.
@@ -62,11 +62,12 @@ If you do not meet these requirements you should farm in act 5.2 or do other act
 
 At this stage there are 3 titles to choose from, which you have unlocked while leveling. Use the one you prefer.
 
-- Indefatigable. +1 movement speed. As you are missing many movement speed equipment, using this title will help a bit to move faster.
-
-- Idealist. +5% experience gain. While a small increase, it is permanent and free.
-
-- Templar, Robin Hood, Arch Mage. +5% attack.
+- <div style={{ color: '#91cdff' }}>Indefatigable</div>
++1 movement speed. As you are missing many movement speed equipment, using this title will help a bit to move faster.
+- Idealist<br/>
++5% experience gain. While a small increase, it is permanent and free.
+- <div style={{ color: '#91cdff' }}>Templar, Robin Hood, Arch Mage</div>
++5% attack.
 
 ### Important items
 
@@ -188,7 +189,7 @@ Orc Loa armors. What really matters here is the shell rather than the armor itse
 
 - Level 60
 
-Loa Tomes <Icon iconId="2799" width="25px"/> . Bear +7000 HP, Eagle +120 agility, Snake +120 intelligence, Lion physical strength +120. Very cheap items that give important stats.
+Loa Tomes <div class="item-popup"><Icon iconId="2799" width="25px"/></div> . Bear +7000 HP, Eagle +120 agility, Snake +120 intelligence, Lion physical strength +120. Very cheap items that give important stats.
 
 Belial weapons and armor. You can craft them using Orc Loa production scrolls and your Orc Loa weapons and armor, or buy them from players. When crafting be sure to select Keep Options and not Keep Upgrades. Read gear guide before buying.
 
@@ -388,7 +389,7 @@ Here we will go over the best costume hats, costumes, costume wings and costume 
 
 1. Costume Hats
 
-Death Lancer Skullcap<Item itemId="4434"/>. When combined with the Death Lancer pet<Item itemId="31341"/>, the effect stacks to 30% chance and 35% damage. This is very strong, as the proc chance is rolled for each individual enemy you hit; meaning every time you attack a pack of mobs the effect will proc on multiple mobs. If you use it it's recommended to also use the pet, however even the hat by itself is very good.
+Death Lancer Skullcap<Item itemId="4434"/>. When combined with the Death Lancer pet<Item itemId="31341"/>, the effect stacks to 30% chance and 35% damage. This is very strong, as the proc chance is rolled for each target you hit; meaning every time you attack a pack of mobs the effect will proc multiple times. If you use it it's recommended to also use the pet, however even the hat by itself is very good.
 
 Viking Helmet<Item itemId="2900"/>. Highest static damage increase of all costume hats. However it is very expensive and difficult to find.
 
@@ -452,13 +453,13 @@ When looking for a specialist, only two stats matter :
 
 Here we will go over the best partners to use, more specifically partner specialists, as the actual partner wearing the specialist does not matter when farming.
 
-- Amon <Icon iconId="4060" width="25px"/> : Provocation<Item itemId="6209"/>can pull enemies from 6 cells, with a short cooldown of 25 seconds. Does not require any S rank and usually costs below 300kk. The best partner for party rift.
+- Amon <div class="item-popup"><Icon iconId="4060" width="25px"/></div> : Provocation<Item itemId="6209"/>can pull enemies from 6 cells, with a short cooldown of 25 seconds. Does not require any S rank and usually costs below 300kk. The best partner for party rift.
 
-- Foxy/Fiona (Mage)(S) <Icon iconId="2672" width="25px"/><Icon iconId="2729" width="25px"/>: Piercing Howl<Item itemId="6137"/>increases your attack by 140 and gives 25% skill cooldown reduction. Must have partner for all mages. As long as you pay attention you can maintain this buff permanently, since the buff has the same duration as the skill's cooldown.
+- Foxy/Fiona (Mage)(S) <div class="item-popup"><Icon iconId="2672" width="25px"/><Icon iconId="2729" width="25px"/></div>: Piercing Howl<Item itemId="6137"/>increases your attack by 140 and gives 25% skill cooldown reduction. Must have partner for all mages. As long as you pay attention you can maintain this buff permanently, since the buff has the same duration as the skill's cooldown.
 
-- Venus (SSS) <Icon iconId="2810" width="25px"/>: Passively grants +200 attack<Item itemId="2810"/>. Requires triple S rank for the full buff however.
+- Venus (SSS) <div class="item-popup"><Icon iconId="2810" width="25px"/></div>: Passively grants +200 attack<Item itemId="2810"/>. Requires triple S rank for the full buff however.
 
-- Yuna (SSS) <Icon iconId="4078" width="25px"/>: Passively grants +20% champion experience<Item itemId="4078"/>. Loving Heart<Item itemId="4083"/>increases all elements by 396 and restores a large amount of health. Requires triple S rank for the full passive buff however. Recommended partner for leveling.
+- Yuna (SSS) <div class="item-popup"><Icon iconId="4078" width="25px"/></div>: Passively grants +20% champion experience<Item itemId="4078"/>. Loving Heart<Item itemId="4083"/>increases all elements by 396 and restores a large amount of health. Requires triple S rank for the full passive buff however. Recommended partner for leveling.
 
 ### Pet
 
@@ -466,15 +467,17 @@ Here we will go over the best pets to use, based on their buff and skill, ranked
 
 1. Pix<Item itemId="17002"/>. Best PvE pet by far. Hard to find and very expensive.
 
-2. Pirate Bushi (Shadow)<Item itemId="26511"/>. Much cheaper alternative to Pix, but locked to a single element.
+1. Pirate Bushi (Shadow)<Item itemId="26511"/>. Much cheaper alternative to Pix, but locked to a single element.
 
-3. Death Lancer<Item itemId="31341"/>. Great pet when combined with the Death Lancer Skullcap<Item itemId="4434"/> costume hat, stacking to 30% chance and 35% damage.
+1. Death Lancer<Item itemId="31341"/>. Great pet when combined with the Death Lancer Skullcap<Item itemId="4434"/>. Much weaker when not using the hat.
 
-4. Otter<Item itemId="10518"/>. Its skill Sushi Party<Item itemId="6425"/>pulls and stuns enemies in 6 cells, with a 70 seconds cooldown. Great for party rift when used with Amon <Icon iconId="4060" width="25px"/> , as it provides a backup pull if you mess up Amon's Provocation<Item itemId="6209"/>. Not a replacement to Amon due to the long cooldown however.
+1. Otter<Item itemId="10518"/>. Its skill Sushi Party<Item itemId="6425"/>pulls and stuns enemies in 6 cells, with a 70 seconds cooldown. Great for party rift when used with Amon <div class="item-popup"><Icon iconId="4060" width="25px"/></div> , as it provides a backup pull if you mess up Amon's Provocation<Item itemId="6209"/>. Not a replacement to Amon due to the long cooldown however.
 
-5. Any pet with a +10% damage dealt buff.
+1. Baby Raptor Blue<Item itemId="31440"/>. If you are leveling you naturally want this pet. However, even after you are done leveling it is a useful pet to have because of the 10% cooldown reduction it gives. If you already have sufficient damage you could consider using it, as it will shave 1 or 2 seconds off your damage skills. For mages it is even more interesting as you can stack it with the cooldown reduction from Foxy's<div class="item-popup"><Icon iconId="2672" width="25px"/></div> Piercing Howl<Item itemId="6137"/>.
 
-6. Any pet with a +5% damage dealt buff.
+1. Any pet with a +10% damage dealt buff.
+
+1. Any pet with a +5% damage dealt buff.
 
 ### Tattoos
 
@@ -482,7 +485,7 @@ Here we will go over the best tattoos to use while farming.
 
 - First slot
 
-    - Swift as the Wind (Eagle) <Icon iconId="6453" width="25px"/>
+    - Swift as the Wind (Eagle) <div class="item-popup"><Icon iconId="6453" width="25px"/></div>
         - +1 movement speed (+0)
         - +2 movement speed (+5)
         - +3 movement speed (+9)
@@ -491,21 +494,21 @@ Here we will go over the best tattoos to use while farming.
 
 - Second slot
 
-    - Recuperative Healing (Lion) <Icon iconId="6450" width="25px"/>
+    - Recuperative Healing (Lion) <div class="item-popup"><Icon iconId="6450" width="25px"/></div>
         - 2% chance to reset the cooldown of the skill used (+0).
         - 8% chance to reset the cooldown of the skill used (+5).
         - 20% chance to reset the cooldown of the skill used (+9).
         
         Recommended tattoo for Berserker and Seer. Unfortunately only starts to shine at high upgrades.
 
-    - Blessed Pelt (Bear) <Icon iconId="6442" width="25px"/>
+    - Blessed Pelt (Bear) <div class="item-popup"><Icon iconId="6442" width="25px"/></div>
         - +5% chance to not receive a debuff up to level 2 (+0)
         - +12% chance to not receive a debuff up to level 3 (+5)
         - +15% chance to not receive a debuff up to level 5 (+9)
         
         Recommended tattoo for Demon Hunter. Better to keep at +5 as the chance increase at higher ranks is not worth the cost, and already works against Glue (lvl 1) and Short Blackout (lvl 3).
 
-    - Attack Stance (Lion) <Icon iconId="6446" width="25px"/>
+    - Attack Stance (Lion) <div class="item-popup"><Icon iconId="6446" width="25px"/></div>
         - +2% damage received and +2% attack (+0)
         - +8% damage received and +8% attack (+5)
         - +20% damage received and +20% attack (+9)
@@ -548,11 +551,14 @@ Dropped by mobs in the Celestial Spire, very cheap.
 
 Here we will go over the best titles to use.
 
-Indefatigable. +1 movement speed. Best title for speed farming. Obtained while leveling.
+- <div style={{ color: '#91cdff' }}>Indefatigable</div>
++1 movement speed. Best title for speed farming. Obtained while leveling.
 
-Ancelloan's Herald. +2% lifesteal, +1% manasteal. Best title for chill farming, you will never need to use potions with this title. Obtained by completing 100 Fernon raids.
+- <div style={{ color: '#f8e2b3' }}>Ancelloan's Herald</div>
++2% lifesteal, +1% manasteal. Best title for chill farming, you will never need to use potions with this title. Obtained by completing 100 Fernon raids.
 
-Midas' Touch. +5% gold gained. Use this title if you are stacking gold gain effects. Bought for 100kk at Eva Energy.
+- <div style={{ color: '#fed302' }}>Midas' Touch</div>
++5% gold gained. Use this title if you are stacking gold gain effects. Bought for 100kk at Eva Energy.
 
 ### Consumables and Special items
 
