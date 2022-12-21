@@ -130,6 +130,17 @@ You can view raid box contents ingame with the NPC "Mysterious Monk" in NosVille
 ### Nine-tailed Foxy
 ![](https://i.imgur.com/MXZ0CGc.png)
 
+## ** Winter Event Boxes**
+
+### Huge Snowman
+![](https://imgur.com/nHKjXc6.png)
+
+### Christmas Stocking
+![](https://imgur.com/uZL9yeL.png)
+
+### Maru the Millenial Tiger
+![](https://imgur.com/OR1F7Df.png)
+
 ## **Other Boxes**
 
 ### Glacernon Mount Box

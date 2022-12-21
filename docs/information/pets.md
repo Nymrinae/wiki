@@ -116,6 +116,18 @@ hide_title: true
 | -------- | -------- | -------- | -------- |
 |![](https://cdn.olympusgg.com/images/monsters/1383.png)|![](https://i.imgur.com/I1tATuh.png) |![](https://i.imgur.com/nFqJq7A.png) |![](https://i.imgur.com/aDjF1h7.png)
 
+## **Winter Event**
+
+### ``Playful Santa Bushi``
+| Pet | Stats |
+| -------- | -------- |
+|![](https://cdn.olympusgg.com/images/monsters/176.png)|![](https://imgur.com/2RS5qKA.png)|
+
+### ``Super Santa Bushi``
+| Pet | Stats | Debuff |
+| -------- | -------- | -------- |
+|![](https://cdn.olympusgg.com/images/monsters/176.png)|![](https://imgur.com/fvfY0kj.png) |![](https://i.imgur.com/y4h86nm.png) |
+
 
 ## **Common Bushtails**
 

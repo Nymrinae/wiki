@@ -109,7 +109,9 @@ You can choose to display a different title name, while having the effect of ano
 |Mad March Hare Raid <br/> (**Easter** event)|<font color="#9ab973"> Mad Hatter </font>|<BCard> Maximum MP is increased by 1000. </BCard>|
 |Pete O'Peng Raid <br/> (**Summer** event)|<font color="#00ff00"> Arrrrr! </font>|<BCard> On attack, there is a 3% chance of inflicting Heavy Bleeding on your opponent. </BCard>|
 |Nine-Tailed Foxy Raid <br/> (**Halloween** event)|<font color="#A828A8"> Monstrous </font>|<BCard> Dodge is increased by 3%. </BCard>|
-|Jack O'Lantern Raid <br/> (**Halloween** event)|<font color="#A828A8"> Horror </font>|<BCard> On attack, there is 2% change of inflicting Horror on your opponent. </BCard>|
+|Jack O'Lantern Raid <br/> (**Halloween** event)|<font color="#A828A8"> Horror </font>|<BCard> On attack, there is a 1% chance of inflicting Slight Horror on your opponent. </BCard>|
+|Giant Snowman Raid <br/> (**Winter** event)|<font color="#a0f8fe"> Sleepy Head </font>|<BCard> On attack, there is a 2% chance of inflicting Sleep on your opponent. </BCard>|
+|Maru the Millenial Tiger Raid <br/> (**Winter** event)|<font color="#78ff78"> Doppelgänger </font>|<BCard> Maximum HP is increased by 1000. </BCard>|
 
 <br/>
 
