@@ -2398,7 +2398,7 @@
                                 "subtitle": "Magic Buff\n(Level 5)\n",
                                 "duration": "Duration: 60.0 seconds",
                                 "desc": "Enables the swift escape from\ndanger.",
-                                "bcard1": "Movement speed is increased by 3.\nNon-elemental damage received is\ndecreased by 25%.\nHeal 30% of inflicted damage by\nreducing MP."
+                                "bcard1": "Movement speed is increased by 3.\nNon-elemental damage received is\ndecreased by 20%.\nHeal 30% of inflicted damage by\nreducing MP."
                             }
                         ],
                         "bcard9": "There is a 60% chance of causing\n",
@@ -3176,7 +3176,7 @@
                         "mp" : "Consumption MP : 400",
                         "price" : "Price : 0 Gold",
                         "desc": "Only the holy cross shows the way\nthrough the thick mist.",
-                        "bcard3": "There is a 100% chance of causing\n",
+                        "bcard3": "There is a 80% chance of causing\n",
                         "bcard4": " Horror.",
                         "buff": [
                             {
@@ -3192,26 +3192,26 @@
                 "skill9": [
                     {
                         "image": "https://cdn.olympusgg.com/images/6188.png",
-                        "title": "Mass Teleport",
+                        "title": "Holy Jump",
                         "job" : "Job level: 0Lv",
                         "cp" : "Necessary CP : 0",
                         "fairy": "With the equipment of Light Fairy,\nattribute spirit will be added.\n\n",
-                        "range": "Attack Range : Itself",
+                        "range": "Attack Range : 10 cell",
                         "target": "Target : Select One",
                         "cast" : "Casting time : 0.4 sec.",
-                        "cool" : "Cool time : 1.0 seconds",
+                        "cool" : "Cool time : 30.0 seconds",
                         "mp" : "Consumption MP : 350",
                         "price" : "Price : 0 Gold",
                         "desc": "Teleports members to the stored\nlocation.",
                         "bcard3": "There is a 100% chance of causing\n",
-                        "bcard4": " Memorial.\nTeleports you and 0 group\nmembers to the saved location.",
+                        "bcard4": " Memorial.\nTeleports you to a selected\nlocation.",
                         "buff": [
                             {
                                 "img": "https://cdn.olympusgg.com/images/6188.png",
                                 "title": "Memorial",
                                 "subtitle": "Magic Buff\n(Level 3)\n",
                                 "duration": "Duration: 60.0 seconds",
-                                "desc": "Stores the location for teleporting.",
+                                "desc": "Increases movement speed\nimmensely at the expense of your\nmagic reservoir.",
                                 "bcard1": "Movement speed is increased by 4.\nEvery 2 seconds:MP is reduced by\n(Player Level*2).\nIncreases magic MP usage by 30%."
                             }
                         ]

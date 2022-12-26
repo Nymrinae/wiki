@@ -682,7 +682,7 @@
                         "price" : "Price : 0 Gold",
                         "desc": "You slash with your sword this way and\nthat, inflicting heavy damage on\nyour enemy.",
                         "bcard1": "Melee attack is increased by 300.\n",
-                        "bcard2": "Water element is increased by 100.\nChance of inflicting critical hits is\nincreased by 30%.\nThere is a 15% chance that 10%\nof the remaining MP is lost.",
+                        "bcard2": "Water element is increased by 100.\nChance of inflicting critical hits is\nincreased by 30%.\nThere is a 10% chance that 10%\nof the remaining MP is lost.",
                         "bcard3": [],
                         "bcard4": [],
                         "buff": [],
@@ -709,7 +709,7 @@
                         "price" : "Price : 0 Gold",
                         "desc": "Wielding your sword is enough to\nrend the earth asunder and\nobliterate even distant enemies.",
                         "bcard1": "Melee attack is increased by 150.\n",
-                        "bcard2": "Water element is increased by 650.\nThere is a 25% chance that 20%\nof the remaining MP is lost.",
+                        "bcard2": "Water element is increased by 650.\nThere is a 15% chance that 20%\nof the remaining MP is lost.",
                         "bcard3": [],
                         "bcard4": [],
                         "buff": [],
@@ -738,7 +738,7 @@
                         "bcard1": "Melee attack is increased by 600.\n",
                         "bcard2": "Water element is increased by 400.\n",
                         "bcard3": "There is a 40% chance of causing\n",
-                        "bcard4": " Blackout.\nThere is a 60% chance that 30%\nof the remaining MP is lost.",
+                        "bcard4": " Blackout.\nThere is a 50% chance that 30%\nof the remaining MP is lost.",
                         "buff": [
                             {
                                 "img": "https://cdn.olympusgg.com/images/10147.png",
@@ -3068,7 +3068,7 @@
                                                 "desc": "The spirit is freed by meditation.",
                                                 "bcard1": "All defence powers are increased\nby (Player Level*1).\nAll elemental resistances are\nincreased by 15.\nIncreases maximum HP by 15%.\n\n",
                                                 "sideEff": "Side effect: after 0.1 seconds\n",
-                                                "sideEffbcard1": "Critical damage received is\ndecreased by 60%.\nDamage received in PvP is reduced\nby (Player Level/8)%."
+                                                "sideEffbcard1": "Critical damage received is\ndecreased by 40%.\nDamage received in PvP is reduced\nby (Player Level/8)%."
                                             }
                                         ]
                                     }
@@ -3401,7 +3401,7 @@
                         "range": "Attack Range : Itself",
                         "target": "Target : Select One",
                         "cast" : "Casting time : 0.0 sec.",
-                        "cool" : "Cool time : 90.0 seconds",
+                        "cool" : "Cool time : 60.0 seconds",
                         "mp" : "Consumption MP : 200",
                         "price" : "Price : 0 Gold",
                         "desc": "Infinite Armour increases defence\nand the chance to resist forced\nmovement. This effect disappears\nafter you receive a certain amount\nof damage.",
@@ -3414,7 +3414,7 @@
                                 "subtitle": "Buff\n(Level 3)\n",
                                 "duration": "Duration: 60.0 seconds",
                                 "desc": "Infinite Armour increases defence\nand the chance to resist forced\nmovement.",
-                                "bcard1": "Resists force movement with a\nprobability of 100%.\nThe effect ends if you take\ndamage from enemies.\nNon-elemental damage received is\ndecreased by 15%.\n",
+                                "bcard1": "Resists force movement with a\nprobability of 100%.\nThe effect ends if you take\ndamage from enemies.\nNon-elemental damage received is\ndecreased by 10%.\n",
                                 "release": " Infinite Armour occurs, in\nreleasing at the probability of 100%",
                                 "releaseBuff": [
                                     {
@@ -3423,7 +3423,7 @@
                                         "subtitle": "Buff\n(Level 3)\n",
                                         "duration": "Duration: 60.0 seconds",
                                         "desc": "Infinite Armour increases defence\nand the chance to resist forced\nmovement.",
-                                        "bcard1": "Resists force movement with a\nprobability of 100%.\nThe effect ends if you take\ndamage from enemies.\nNon-elemental damage received is\ndecreased by 15%.\n",
+                                        "bcard1": "Resists force movement with a\nprobability of 100%.\nThe effect ends if you take\ndamage from enemies.\nNon-elemental damage received is\ndecreased by 10%.\n",
                                         "release": " Infinite Armour occurs, in\nreleasing at the probability of 100%",
                                         "releaseBuff": [
                                             {
@@ -3432,7 +3432,7 @@
                                                 "subtitle": "Buff\n(Level 3)\n",
                                                 "duration": "Duration: 60.0 seconds",
                                                 "desc": "Infinite Armour increases defence\nand the chance to resist forced\nmovement.",
-                                                "bcard1": "Resists force movement with a\nprobability of 100%.\nThe effect ends if you take\ndamage from enemies.\nNon-elemental damage received is\ndecreased by 15%.\n",
+                                                "bcard1": "Resists force movement with a\nprobability of 100%.\nThe effect ends if you take\ndamage from enemies.\nNon-elemental damage received is\ndecreased by 10%.\n",
                                                 "release": " Infinite Armour occurs, in\nreleasing at the probability of 100%",
                                                 "releaseBuff": [
                                                     {
@@ -3441,7 +3441,7 @@
                                                         "subtitle": "Buff\n(Level 3)\n",
                                                         "duration": "Duration: 60.0 seconds",
                                                         "desc": "Infinite Armour increases defence\nand the chance to resist forced\nmovement.",
-                                                        "bcard1": "Resists force movement with a\nprobability of 100%.\nThe effect ends if you take\ndamage from enemies.\nNon-elemental damage received is\ndecreased by 15%.\n",
+                                                        "bcard1": "Resists force movement with a\nprobability of 100%.\nThe effect ends if you take\ndamage from enemies.\nNon-elemental damage received is\ndecreased by 10%.\n",
                                                         "release": " Infinite Armour occurs, in\nreleasing at the probability of 100%"
                                                     }
                                                 ]

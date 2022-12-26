@@ -419,7 +419,7 @@
                         "range": "Attack Range : 4 cell",
                         "target": "Target : Select One",
                         "cast" : "Casting time : 0.0 sec.",
-                        "cool" : "Cool time : 4.0 seconds",
+                        "cool" : "Cool time : 5.0 seconds",
                         "mp" : "Consumption MP : 15",
                         "price" : "Price : 0 Gold",
                         "desc": "Execute a rough and mean attack\non your enemy.\nCan be used efficiently with the\nshadow element.",
@@ -514,7 +514,7 @@
                         "range": "Attack Range : Itself",
                         "target": "Target : Select One",
                         "cast" : "Casting time : 0.0 sec.",
-                        "cool" : "Cool time : 7.0 seconds",
+                        "cool" : "Cool time : 8.0 seconds",
                         "mp" : "Consumption MP : 120",
                         "price" : "Price : 0 Gold",
                         "desc": "Dodge\nIf you successfully dodge an\nattack, some of your energy will\nbe restored.",
@@ -571,7 +571,7 @@
                         "range": "Attack Range : Itself",
                         "target": "Target : Select One",
                         "cast" : "Casting time : 0.0 sec.",
-                        "cool" : "Cool time : 35.0 seconds",
+                        "cool" : "Cool time : 40.0 seconds",
                         "mp" : "Consumption MP : 400",
                         "price" : "Price : 0 Gold",
                         "desc": "Use Hide whilst moving. If you're\nhit by an attack, you'll become\nvisible again.",
@@ -909,7 +909,7 @@
                                 "subtitle": "Buff\n(Level 4)\n",
                                 "duration": "Duration: 180.0 seconds",
                                 "desc": "Toughens the body.",
-                                "bcard1": "Damage dealt is increased by 10%.\nAttack level is increased by 2."
+                                "bcard1": "Damage dealt is increased by 15%.\nAttack level is increased by 2."
                             }
                         ]
                     }
@@ -924,7 +924,7 @@
                         "range": "Attack Range : 8 cell",
                         "target": "Target : Around Enemy in 3 cell",
                         "cast" : "Casting time : 0.4 sec.",
-                        "cool" : "Cool time : 35.0 seconds",
+                        "cool" : "Cool time : 25.0 seconds",
                         "mp" : "Consumption MP : 150",
                         "price" : "Price : 0 Gold",
                         "desc": "Attacks enemies by throwing a\nbomb.",
