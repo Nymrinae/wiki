@@ -84,7 +84,7 @@ hide_title: true
 
 **Follow the raid map:**
 <p align="center">
-<img src="https://imagizer.imageshack.com/img923/8403/pMCDa9.png"border="0"/></p>
+<img src="https://imagizer.imageshack.com/img923/8403/pMCDa9.png" border="0"/></p>
 
 
 ## Bonus
