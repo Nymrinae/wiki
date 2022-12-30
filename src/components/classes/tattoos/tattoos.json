@@ -785,7 +785,7 @@
                         "image": "/img/tattos/6454.png",
                         "desc": "Identifies the enemy's weak points.",
                         "bcard1": "Chance of inflicting critical hits is\nincreased by",
-                        "bcard2": "The damage from critical hits is\nincreased by",
+                        "bcard2": "The final damage from critical hits\nis increased by",
                         "bcard3": [],
                         "bcard4": [],
                         "minibuff": [],
