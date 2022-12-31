@@ -314,8 +314,8 @@ Go to Mortaz Desert Port (Follow the arrow)
 
 #### <font color="#3399ff"> To the clue </font>
 
-Go to Mortaz Desert Port (Follow the arrow)
-<img src="https://i.imgur.com/9wj5f3n.png" height="200"/>
+Go to Port Surroundings (Follow the arrow)
+<img src="https://i.imgur.com/TvI0PGk.png" height="200"/>
 
 <font color="#88B4D3"><br/> Quest Reward: </font>  EXP <img src="https://cdn.olympusgg.com/images/1089.png"/>
 
