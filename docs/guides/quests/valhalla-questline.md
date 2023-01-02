@@ -405,7 +405,7 @@ Have a conversation with [<b>President Noah</b>]
 
 #### <font color="#3399ff"> Clues (4) </font>
 
-Hunt 10x [<b>Desert Sand Predator</b>]
+Hunt 20x [<b>Desert Sand Predator</b>]
 <img src="https://i.imgur.com/R5Aa5tb.png" height="200"/> <img src="https://i.imgur.com/YGAdtcA.png" height="200"/> <img src="https://cdn.olympusgg.com/images/monsters/1003.png" height="75"/>
 
 Hunt 20x [<b>Desert Sand Blade Horn</b>]
