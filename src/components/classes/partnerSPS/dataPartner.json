@@ -18838,7 +18838,7 @@
                         "title": "Anchored",
                         "img": "https://cdn.olympusgg.com/images/6240.png",
                         "desc": "Unable to move.",
-                        "type": "Buff",
+                        "type": "Debuff",
                         "duration": 5,
                         "bcard": [{
                                 "desc": "Movement impossible",
@@ -18879,7 +18879,7 @@
                         "title": "Anchored",
                         "img": "https://cdn.olympusgg.com/images/6240.png",
                         "desc": "Unable to move.",
-                        "type": "Buff",
+                        "type": "Debuff",
                         "duration": 3,
                         "bcard": [{
                                 "desc": "Movement impossible",
@@ -18916,7 +18916,7 @@
                         "title": "Anchored",
                         "img": "https://cdn.olympusgg.com/images/6240.png",
                         "desc": "Unable to move.",
-                        "type": "Buff",
+                        "type": "Debuff",
                         "duration": 3,
                         "bcard": [{
                                 "desc": "Movement impossible",
@@ -18953,7 +18953,7 @@
                         "title": "Anchored",
                         "img": "https://cdn.olympusgg.com/images/6240.png",
                         "desc": "Unable to move.",
-                        "type": "Buff",
+                        "type": "Debuff",
                         "duration": 2,
                         "bcard": [{
                                 "desc": "Movement impossible",
@@ -18990,7 +18990,7 @@
                         "title": "Anchored",
                         "img": "https://cdn.olympusgg.com/images/6240.png",
                         "desc": "Unable to move.",
-                        "type": "Buff",
+                        "type": "Debuff",
                         "duration": 2,
                         "bcard": [{
                                 "desc": "Movement impossible",
@@ -19027,7 +19027,7 @@
                         "title": "Anchored",
                         "img": "https://cdn.olympusgg.com/images/6240.png",
                         "desc": "Unable to move.",
-                        "type": "Buff",
+                        "type": "Debuff",
                         "duration": 1,
                         "bcard": [{
                                 "desc": "Movement impossible",
@@ -19064,7 +19064,7 @@
                         "title": "Anchored",
                         "img": "https://cdn.olympusgg.com/images/6240.png",
                         "desc": "Unable to move.",
-                        "type": "Buff",
+                        "type": "Debuff",
                         "duration": 1,
                         "bcard": [{
                                 "desc": "Movement impossible",
