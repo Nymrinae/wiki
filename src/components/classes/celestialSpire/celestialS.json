@@ -1,0 +1,652 @@
+[
+    {
+        "floor": "1",
+        "information": [
+            {
+                "number":"1",
+                "gold":"1k",
+                "reputation":"5.2k",
+                "bonusCoin":"1",
+                "bonusBox":"0",
+                "bonusFrag":"0"
+            }
+        ]
+    },
+    {
+        "floor": "2",
+        "information": [
+            {
+                "number":"2",
+                "gold":"1.1k",
+                "reputation":"5.4k",
+                "bonusCoin":"1",
+                "bonusBox":"0",
+                "bonusFrag":"0"
+            }
+        ]
+    },
+    {
+        "floor": "3",
+        "information": [
+            {
+                "number":"3",
+                "gold":"1.1k",
+                "reputation":"5.6k",
+                "bonusCoin":"1",
+                "bonusBox":"0",
+                "bonusFrag":"0"
+            }
+        ]
+    },
+    {
+        "floor": "4",
+        "information": [
+            {
+                "number":"4",
+                "gold":"1.2k",
+                "reputation":"5.8k",
+                "bonusCoin":"1",
+                "bonusBox":"0",
+                "bonusFrag":"0"
+            }
+        ]
+    },
+    {
+        "floor": "5",
+        "information": [
+            {
+                "number":"5",
+                "gold":"1.2k",
+                "reputation":"6k",
+                "bonusCoin":"1",
+                "bonusBox":"1",
+                "bonusFrag":"0"
+            }
+        ]
+    },
+    {
+        "floor": "6",
+        "information": [
+            {
+                "number":"6",
+                "gold":"1.2k",
+                "reputation":"6.2k",
+                "bonusCoin":"1",
+                "bonusBox":"0",
+                "bonusFrag":"0"
+            }
+        ]
+    },
+    {
+        "floor": "7",
+        "information": [
+            {
+                "number":"7",
+                "gold":"1.2k",
+                "reputation":"6.4k",
+                "bonusCoin":"1",
+                "bonusBox":"0",
+                "bonusFrag":"0"
+            }
+        ]
+    },
+    {
+        "floor": "8",
+        "information": [
+            {
+                "number":"8",
+                "gold":"1.2k",
+                "reputation":"6.6",
+                "bonusCoin":"1",
+                "bonusBox":"0",
+                "bonusFrag":"0"
+            }
+        ]
+    },
+    {
+        "floor": "9",
+        "information": [
+            {
+                "number":"9",
+                "gold":"1.3k",
+                "reputation":"6.8k",
+                "bonusCoin":"1",
+                "bonusBox":"0",
+                "bonusFrag":"0"
+            }
+        ]
+    },
+    {
+        "floor": "10",
+        "information": [
+            {
+                "number":"10",
+                "gold":"1.3k",
+                "reputation":"7k",
+                "bonusCoin":"1",
+                "bonusBox":"0",
+                "bonusFrag":"1"
+            }
+        ]
+    },
+    {
+        "floor": "11",
+        "information": [
+            {
+                "number":"11",
+                "gold":"1.3k",
+                "reputation":"7.2k",
+                "bonusCoin":"1",
+                "bonusBox":"0",
+                "bonusFrag":"0"
+            }
+        ]
+    },
+    {
+        "floor": "12",
+        "information": [
+            {
+                "number":"12",
+                "gold":"1.4k",
+                "reputation":"7.4k",
+                "bonusCoin":"1",
+                "bonusBox":"0",
+                "bonusFrag":"0"
+            }
+        ]
+    },
+    {
+        "floor": "13",
+        "information": [
+            {
+                "number":"13",
+                "gold":"1.4k",
+                "reputation":"7.6k",
+                "bonusCoin":"1",
+                "bonusBox":"0",
+                "bonusFrag":"0"
+            }
+        ]
+    },
+    {
+        "floor": "14",
+        "information": [
+            {
+                "number":"14",
+                "gold":"1.4k",
+                "reputation":"7.8k",
+                "bonusCoin":"1",
+                "bonusBox":"0",
+                "bonusFrag":"0"
+            }
+        ]
+    },
+    {
+        "floor": "15",
+        "information": [
+            {
+                "number":"15",
+                "gold":"1.4k",
+                "reputation":"8k",
+                "bonusCoin":"1",
+                "bonusBox":"1",
+                "bonusFrag":"0"
+            }
+        ]
+    },
+    {
+        "floor": "16",
+        "information": [
+            {
+                "number":"16",
+                "gold":"1.4k",
+                "reputation":"8.2k",
+                "bonusCoin":"1",
+                "bonusBox":"0",
+                "bonusFrag":"0"
+            }
+        ]
+    },
+    {
+        "floor": "17",
+        "information": [
+            {
+                "number":"17",
+                "gold":"1.5k",
+                "reputation":"8.4k",
+                "bonusCoin":"1",
+                "bonusBox":"0",
+                "bonusFrag":"0"
+            }
+        ]
+    },
+    {
+        "floor": "18",
+        "information": [
+            {
+                "number":"18",
+                "gold":"1.5k",
+                "reputation":"8.6k",
+                "bonusCoin":"1",
+                "bonusBox":"0",
+                "bonusFrag":"0"
+            }
+        ]
+    },
+    {
+        "floor": "19",
+        "information": [
+            {
+                "number":"19",
+                "gold":"1.5k",
+                "reputation":"8.8k",
+                "bonusCoin":"1",
+                "bonusBox":"0",
+                "bonusFrag":"0"
+            }
+        ]
+    },
+    {
+        "floor": "20",
+        "information": [
+            {
+                "number":"20",
+                "gold":"1.5k",
+                "reputation":"9k",
+                "bonusCoin":"1",
+                "bonusBox":"0",
+                "bonusFrag":"1"
+            }
+        ]
+    },
+    {
+        "floor": "21",
+        "information": [
+            {
+                "number":"21",
+                "gold":"2.2k",
+                "reputation":"9.2k",
+                "bonusCoin":"2",
+                "bonusBox":"0",
+                "bonusFrag":"0"
+            }
+        ]
+    },
+    {
+        "floor": "22",
+        "information": [
+            {
+                "number":"22",
+                "gold":"2.2k",
+                "reputation":"9.4k",
+                "bonusCoin":"2",
+                "bonusBox":"0",
+                "bonusFrag":"0"
+            }
+        ]
+    },
+    {
+        "floor": "23",
+        "information": [
+            {
+                "number":"23",
+                "gold":"2.3k",
+                "reputation":"9.6k",
+                "bonusCoin":"2",
+                "bonusBox":"0",
+                "bonusFrag":"0"
+            }
+        ]
+    },
+    {
+        "floor": "24",
+        "information": [
+            {
+                "number":"24",
+                "gold":"2.4k",
+                "reputation":"9.8k",
+                "bonusCoin":"2",
+                "bonusBox":"0",
+                "bonusFrag":"0"
+            }
+        ]
+    },
+    {
+        "floor": "25",
+        "information": [
+            {
+                "number":"25",
+                "gold":"2.4k",
+                "reputation":"10k",
+                "bonusCoin":"2",
+                "bonusBox":"1",
+                "bonusFrag":"0"
+            }
+        ]
+    },
+    {
+        "floor": "26",
+        "information": [
+            {
+                "number":"26",
+                "gold":"2.5k",
+                "reputation":"10.2k",
+                "bonusCoin":"2",
+                "bonusBox":"0",
+                "bonusFrag":"0"
+            }
+        ]
+    },
+    {
+        "floor": "27",
+        "information": [
+            {
+                "number":"27",
+                "gold":"2.7k",
+                "reputation":"10.4k",
+                "bonusCoin":"2",
+                "bonusBox":"0",
+                "bonusFrag":"0"
+            }
+        ]
+    },
+    {
+        "floor": "28",
+        "information": [
+            {
+                "number":"28",
+                "gold":"2.8k",
+                "reputation":"10.6k",
+                "bonusCoin":"2",
+                "bonusBox":"0",
+                "bonusFrag":"0"
+            }
+        ]
+    },
+    {
+        "floor": "29",
+        "information": [
+            {
+                "number":"29",
+                "gold":"2.9k",
+                "reputation":"10.8k",
+                "bonusCoin":"2",
+                "bonusBox":"0",
+                "bonusFrag":"0"
+            }
+        ]
+    },
+    {
+        "floor": "30",
+        "information": [
+            {
+                "number":"30",
+                "gold":"3k",
+                "reputation":"11k",
+                "bonusCoin":"2",
+                "bonusBox":"0",
+                "bonusFrag":"1"
+            }
+        ]
+    },
+    {
+        "floor": "31",
+        "information": [
+            {
+                "number":"31",
+                "gold":"3.6k",
+                "reputation":"11.2k",
+                "bonusCoin":"3",
+                "bonusBox":"0",
+                "bonusFrag":"0"
+            }
+        ]
+    },
+    {
+        "floor": "32",
+        "information": [
+            {
+                "number":"32",
+                "gold":"3.8k",
+                "reputation":"11.4k",
+                "bonusCoin":"3",
+                "bonusBox":"0",
+                "bonusFrag":"0"
+            }
+        ]
+    },
+    {
+        "floor": "33",
+        "information": [
+            {
+                "number":"33",
+                "gold":"4k",
+                "reputation":"11.6k",
+                "bonusCoin":"3",
+                "bonusBox":"0",
+                "bonusFrag":"0"
+            }
+        ]
+    },
+    {
+        "floor": "34",
+        "information": [
+            {
+                "number":"34",
+                "gold":"4.1k",
+                "reputation":"11.8k",
+                "bonusCoin":"3",
+                "bonusBox":"0",
+                "bonusFrag":"0"
+            }
+        ]
+    },
+    {
+        "floor": "35",
+        "information": [
+            {
+                "number":"35",
+                "gold":"4.3k",
+                "reputation":"12k",
+                "bonusCoin":"3",
+                "bonusBox":"1",
+                "bonusFrag":"0"
+            }
+        ]
+    },
+    {
+        "floor": "36",
+        "information": [
+            {
+                "number":"36",
+                "gold":"4.5k",
+                "reputation":"12.2k",
+                "bonusCoin":"4",
+                "bonusBox":"0",
+                "bonusFrag":"0"
+            }
+        ]
+    },
+    {
+        "floor": "37",
+        "information": [
+            {
+                "number":"37",
+                "gold":"4.7k",
+                "reputation":"12.4k",
+                "bonusCoin":"4",
+                "bonusBox":"0",
+                "bonusFrag":"0"
+            }
+        ]
+    },
+    {
+        "floor": "38",
+        "information": [
+            {
+                "number":"38",
+                "gold":"4.9k",
+                "reputation":"12.6k",
+                "bonusCoin":"4",
+                "bonusBox":"0",
+                "bonusFrag":"0"
+            }
+        ]
+    },
+    {
+        "floor": "39",
+        "information": [
+            {
+                "number":"39",
+                "gold":"5.1k",
+                "reputation":"12.8k",
+                "bonusCoin":"4",
+                "bonusBox":"0",
+                "bonusFrag":"0"
+            }
+        ]
+    },
+    {
+        "floor": "40",
+        "information": [
+            {
+                "number":"40",
+                "gold":"5.3k",
+                "reputation":"13k",
+                "bonusCoin":"4",
+                "bonusBox":"0",
+                "bonusFrag":"1"
+            }
+        ]
+    },
+    {
+        "floor": "41",
+        "information": [
+            {
+                "number":"41",
+                "gold":"5.3k",
+                "reputation":"13.2k",
+                "bonusCoin":"5",
+                "bonusBox":"0",
+                "bonusFrag":"0"
+            }
+        ]
+    },
+    {
+        "floor": "42",
+        "information": [
+            {
+                "number":"42",
+                "gold":"5.8k",
+                "reputation":"13.4k",
+                "bonusCoin":"5",
+                "bonusBox":"0",
+                "bonusFrag":"0"
+            }
+        ]
+    },
+    {
+        "floor": "43",
+        "information": [
+            {
+                "number":"43",
+                "gold":"6k",
+                "reputation":"13.6k",
+                "bonusCoin":"5",
+                "bonusBox":"0",
+                "bonusFrag":"0"
+            }
+        ]
+    },
+    {
+        "floor": "44",
+        "information": [
+            {
+                "number":"44",
+                "gold":"6.2k",
+                "reputation":"13.8k",
+                "bonusCoin":"5",
+                "bonusBox":"0",
+                "bonusFrag":"0"
+            }
+        ]
+    },
+    {
+        "floor": "45",
+        "information": [
+            {
+                "number":"45",
+                "gold":"6.4k",
+                "reputation":"14k",
+                "bonusCoin":"5",
+                "bonusBox":"1",
+                "bonusFrag":"0"
+            }
+        ]
+    },
+    {
+        "floor": "46",
+        "information": [
+            {
+                "number":"46",
+                "gold":"6.7k",
+                "reputation":"14.2k",
+                "bonusCoin":"6",
+                "bonusBox":"0",
+                "bonusFrag":"0"
+            }
+        ]
+    },
+    {
+        "floor": "47",
+        "information": [
+            {
+                "number":"47",
+                "gold":"6.9k",
+                "reputation":"14.4k",
+                "bonusCoin":"6",
+                "bonusBox":"0",
+                "bonusFrag":"0"
+            }
+        ]
+    },
+    {
+        "floor": "48",
+        "information": [
+            {
+                "number":"48",
+                "gold":"7.1k",
+                "reputation":"14.6k",
+                "bonusCoin":"6",
+                "bonusBox":"0",
+                "bonusFrag":"0"
+            }
+        ]
+    },
+    {
+        "floor": "49",
+        "information": [
+            {
+                "number":"49",
+                "gold":"7.3k",
+                "reputation":"14.8k",
+                "bonusCoin":"6",
+                "bonusBox":"0",
+                "bonusFrag":"1"
+            }
+        ]
+    },
+    {
+        "floor": "50",
+        "information": [
+            {
+                "number":"50",
+                "gold":"7.5k",
+                "reputation":"15k",
+                "bonusCoin":"6",
+                "bonusBox":"0",
+                "bonusFrag":"0"
+            }
+        ]
+    }
+]
