@@ -12,6 +12,7 @@
 @import 'runes.css';
 @import 'specialists.css';
 @import 'items.css';
+@import 'celestialS.css';
 
 
 :root {
@@ -135,6 +136,16 @@ html[data-theme='dark'] .docusaurus-highlight-code-line {
   width: 100%;
   padding-left: 24px;
   background: url("partner.png") no-repeat;
+  background-position: 5% 50%;
+  background-size: 18px;
+}
+
+.partner-sp-perfection-icon {
+  margin-left: 5px;
+  height: 30px;
+  width: 100%;
+  padding-left: 24px;
+  background: url("olympus-emerald.png") no-repeat;
   background-position: 5% 50%;
   background-size: 18px;
 }
@@ -957,4 +968,24 @@ html[data-theme='dark'] .docusaurus-highlight-code-line {
 
 .hide-img:hover + .hide {
     display: inline-block;
+}
+
+.paimon-icon {
+  margin-left: 5px;
+  height: 30px;
+  width: 100%;
+  padding-left: 24px;
+  background: url("4304.png") no-repeat;
+  background-position: 5% 50%;
+  background-size: 18px;
+}
+
+.celestial-spire-icon {
+  margin-left: 5px;
+  height: 30px;
+  width: 100%;
+  padding-left: 24px;
+  background: url("4301.png") no-repeat;
+  background-position: 5% 50%;
+  background-size: 18px;
 }

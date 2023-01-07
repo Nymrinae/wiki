@@ -388,3 +388,12 @@ hide_title: true
 | Effect  |    
 |:-:|
 | ![](https://imgur.com/0PwmA0Z.png) |
+
+### ``Paimon's Costume Wings``
+| Wings  |    
+|:-:|
+| ![](https://i.imgur.com/ZPY0vqp.png) |
+
+| Effect  |    
+|:-:|
+| ![](https://i.imgur.com/DXrf5SH.png) |

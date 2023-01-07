@@ -85,6 +85,9 @@ You can view raid box contents ingame with the NPC "Mysterious Monk" in NosVille
 ### Belial
 ![](https://i.imgur.com/e41pRTZ.gif)
 
+### Paimon
+![](https://i.imgur.com/aBKGnWN.png) ![](https://i.imgur.com/m1lgv33.png)
+
 ### Greedy Fafnir
 ![](https://i.imgur.com/bIClKOk.png)
 
@@ -166,6 +169,12 @@ You can view raid box contents ingame with the NPC "Mysterious Monk" in NosVille
 
 ### Mystic Heaven Military Supplies
 ![](https://i.imgur.com/d5b9LO7.png)
+
+### Celetial Spire Random Box
+![](https://i.imgur.com/sxH2VeS.png)
+
+### Celestial Spire Random Pet Box
+![](https://i.imgur.com/zfi3xC9.png)
 
 ### Rune Chest
 ![](https://i.imgur.com/uYVvlRJ.png)
