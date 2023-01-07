@@ -86,7 +86,7 @@ You can view raid box contents ingame with the NPC "Mysterious Monk" in NosVille
 ![](https://i.imgur.com/e41pRTZ.gif)
 
 ### Paimon
-<img src="https://i.imgur.com/fNs1GQe.gif" height="400"/>
+![](https://i.imgur.com/aBKGnWN.png) ![](https://i.imgur.com/m1lgv33.png)
 
 ### Greedy Fafnir
 ![](https://i.imgur.com/bIClKOk.png)

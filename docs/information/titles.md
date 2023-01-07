@@ -120,6 +120,7 @@ You can choose to display a different title name, while having the effect of ano
 | Where to get it from | Title | Effect |
 | --- | --------- | --- |
 |Eva Energy [Shop]|<font color="#fee01b"> Midas' Touch </font>|<BCard> Increases Gold earned by 5%. </BCard>|
+|Eva Energy [Shop]|<font color="#fee01b"> Celebrity </font>|<BCard> Increases fame received by 5%. </BCard>|
 |Land of Death <br/> (Can be looted from **Fire Devil**)|<font color="#7fc8ff"> Fire Devil </font>|<BCard> Damage to monsters in the Land of Death is increased by 20%. </BCard>|
 |A7 Main Quest|<font color="#29fd1e"> Saviour of the Orcs </font>|<BCard>Increases the damage against Orc by 10%. </BCard>|
 ||||
