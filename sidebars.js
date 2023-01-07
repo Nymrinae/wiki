@@ -122,6 +122,7 @@ module.exports = {
         { type: 'doc', id: 'guides/features/act-6-passives', label: 'Passives', className:'pasiv-icon' },
         { type: 'doc', id: 'information/mounts', label: 'Mounts', className:'vehi-icon' },
         { type: 'doc', id: 'information/psp', label: 'Partner Specialist', className:'partner-icon' },
+        { type: 'doc', id: 'information/partner-sp-perfection', label: 'Partner Specialist Perfection', className:'partner-sp-perfection-icon' },
         { type: 'doc', id: 'information/pets' , label: 'Pets', className:'pets-icon' },
         { type: 'doc', id: 'information/costumes', label: 'Costumes', className:'costume-icon' },
         { type: 'doc', id: 'information/reputation', label: 'Reputation', className: 'reputation-icon' },

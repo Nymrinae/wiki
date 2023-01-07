@@ -139,6 +139,16 @@ html[data-theme='dark'] .docusaurus-highlight-code-line {
   background-size: 18px;
 }
 
+.partner-sp-perfection-icon {
+  margin-left: 5px;
+  height: 30px;
+  width: 100%;
+  padding-left: 24px;
+  background: url("olympus-emerald.png") no-repeat;
+  background-position: 5% 50%;
+  background-size: 18px;
+}
+
 .vehi-icon {
   margin-left: 5px;
   height: 30px;
