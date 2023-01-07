@@ -81,6 +81,11 @@ You can choose to display a different title name, while having the effect of ano
 | Erenia |<font color="#f6d99b">  Little Devil  </font>|<BCard>  Increases damage against players of the Angel faction by 5%. <br/> Increases the damage against Angel by 10%.  </BCard>| 
 | Fernon |<font color="#f6d99b">  Ancelloan's Herald  </font>|<BCard>  HP is increased by 2% of damage dealt. <br/> Mp is increased by 1% of damage dealt.  </BCard>| 
 
+### Act 7 Raids
+| Raid | Title | Effect |
+| --- | --- | --- |
+| Paimon |<font color="#7C057C">  Paimon's Slayer  </font>| <BCard> Up to level 5 there is a 10% chance of never getting a bad effect. </BCard>| 
+
 <br/>
 
 ## **Level Titles**
@@ -127,6 +132,8 @@ You can choose to display a different title name, while having the effect of ano
 |Arena Shop|<font color="#f6d99b"> Duellist </font>|<BCard> Attack power is increased by 10% during an attack in the team arena.</BCard> <br/> <BCard> Damage taken in the team arena is reduced by 10%. </BCard>|
 |Rainbow Shop|<font color="#7fc8ff"> Unicorn </font>|<BCard> PvP attack power is increased by 5% during the Rainbow Battle. </BCard> <br/> <BCard> Movement speed is increased by 2 during the Rainbow Battle. </BCard>|
 |Celestial Spire Shop|<font color="#FED302"> Celestial Spire Hero </font>|<BCard> Damage dealt in Celestial Spire is increased by 20%. </BCard> <br/> <BCard> Movement speed is increased by 2 in Celestial Spire. </BCard>|
+|Celestial Tower Achievements|<font color="#0EF902"> Celestial Spire Conqueror </font>|<BCard> Damage dealt in Celestial Spire is increased by 20%. </BCard> <br/> <BCard> Movement speed is increased by 2 in Celestial Spire. </BCard>|
+
 
 <br/>
 
