@@ -170,14 +170,37 @@ You can view raid box contents ingame with the NPC "Mysterious Monk" in NosVille
 ### Mystic Heaven Military Supplies
 ![](https://i.imgur.com/d5b9LO7.png)
 
+### Rune Chest
+![](https://i.imgur.com/uYVvlRJ.png)
+
+### Mysterious Box of Completion
+![](https://i.imgur.com/dCAXDZb.png)
+
 ### Celetial Spire Random Box
 ![](https://i.imgur.com/sxH2VeS.png)
 
 ### Celestial Spire Random Pet Box
 ![](https://i.imgur.com/zfi3xC9.png)
 
-### Rune Chest
-![](https://i.imgur.com/uYVvlRJ.png)
+## Celestial Spire Leaderboard Boxes
 
-### Mysterious Box of Completion
-![](https://i.imgur.com/dCAXDZb.png)
+### Common Celestial Spire Chest
+
+![](https://i.imgur.com/ksYPdOZ.png)
+
+### Celestial Spire Chest
+
+![](https://i.imgur.com/qsOEcPi.png)
+
+### Rare Celestial Spire Chest
+
+![](https://i.imgur.com/JpEU0HH.png)
+
+### Legendary Celestial Spire Chest
+
+![](https://i.imgur.com/NCukA25.png)
+
+### Mhytic Celestial Spire Chest
+
+![](https://i.imgur.com/jXJbFhr.png)
+
