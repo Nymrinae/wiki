@@ -160,6 +160,77 @@ Climb all the way up until **Celestial Spire 5** to see the Raid Portal Entrance
 
 ---
 
+### **Evil Overlord Paimon**
+
+You can only enter the Top Level with the fitting progress in **A7.2 Main quest** line.<br />
+Enter the Top Level after talking to the **Orc Guardswoman** in **Olorun Village**
+
+<img src="https://i.imgur.com/H7QglbE.png"  width="500"/>
+
+<img src="https://i.imgur.com/c8LcnOk.png"  width="500"/>
+
+
+<img src="https://i.imgur.com/UNACYw4g.png"  width="500"/>
+
+<img src="https://i.imgur.com/kDmsBYZ.png"  width="500"/>
+
+<img src="https://i.imgur.com/p1zfSyl.png"  width="500"/>
+
+<img src="https://i.imgur.com/iVMiB2k.png"  width="500"/>
+
+<img src="https://i.imgur.com/VzKCkBs.png"  width="500"/>
+
+<img src="https://i.imgur.com/0jCwpg6.png"  width="500"/>
+
+<img src="https://i.imgur.com/Fh3YTf5.png"  width="500"/>
+
+<img src="https://i.imgur.com/r0BhE6u.png"  width="500"/>
+
+---
+
+## Celestial Tower
+
+You can only enter Celestial Tower after finishing the **A7.2 Main quest** line.<br />
+
+<img src="https://i.imgur.com/H7QglbE.png"  width="500"/>
+
+<img src="https://i.imgur.com/c8LcnOk.png"  width="500"/>
+
+
+
+<img src="https://i.imgur.com/BI7T1NM.png"  width="500"/>
+
+<img src="https://i.imgur.com/vWwTCoC.png"  width="500"/>
+
+<img src="https://i.imgur.com/Rx1vix6.png"  width="500"/>
+
+<img src="https://i.imgur.com/WNnC0DE.png"  width="500"/>
+
+<img src="https://i.imgur.com/EHMl3kE.png"  width="500"/>
+
+<img src="https://i.imgur.com/NbdSQA0.png"  width="500"/>
+
+<img src="https://i.imgur.com/3JWrjPx.png"  width="500"/>
+
+<img src="https://i.imgur.com/ekkiwM5.png"  width="500"/>
+
+<img src="https://i.imgur.com/FN0POgj.png"  width="500"/>
+
+<img src="https://i.imgur.com/N3dJVdl.png"  width="500"/>
+
+<img src="https://i.imgur.com/Fc4iJAG.png"  width="500"/>
+
+<img src="https://i.imgur.com/c6pi2wC.png"  width="500"/>
+
+<img src="https://i.imgur.com/zCSbpLW.png"  width="500"/>
+
+<img src="https://i.imgur.com/ARgKkuE.png"  width="500"/>
+
+<img src="https://i.imgur.com/PSFGqQm.png"  width="500"/>
+
+<img src="https://i.imgur.com/PwZWpTG.png"  width="500"/>
+
+
 ## Daily
 
 <img src="https://i.imgur.com/0T51CLT.png"  width="500"/>
@@ -170,6 +241,8 @@ Climb all the way up until **Celestial Spire 5** to see the Raid Portal Entrance
 
 <img src="https://i.imgur.com/hBbOBE6.png"  width="500"/>
 
+<img src="https://i.imgur.com/PPYB7At.png"  width="500"/>
+
 ---
 
 ## Weekly
@@ -179,3 +252,11 @@ Climb all the way up until **Celestial Spire 5** to see the Raid Portal Entrance
 <img src="https://i.imgur.com/edySh2e.png"  width="500"/>
 
 <img src="https://i.imgur.com/EW08BE2.png"  width="500"/>
+
+<img src="https://i.imgur.com/JGISHwm.png"  width="500"/>
+
+---
+
+## Monthly
+
+<img src="https://i.imgur.com/yuvOTFM.png"  width="500"/>
