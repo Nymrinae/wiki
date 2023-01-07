@@ -1,0 +1,110 @@
+[
+    {
+        "teamInfo": [
+            {
+                "buff": "Bushtail Blessing",
+                "companion": [
+                    {
+                        "compa1":"https://cdn.olympusgg.com/images/monsters/156.png",
+                        "compa1Name":"Marron",
+                        "compa2":"https://cdn.olympusgg.com/images/monsters/769.png",
+                        "compa2Name":"Boxeadora",
+                        "compa3":"https://cdn.olympusgg.com/images/monsters/1383.png",
+                        "compa3Name":"aa",
+                        "compa4":"https://cdn.olympusgg.com/images/monsters/844.png",
+                        "compa4Name":""
+                    }            
+                ],
+                "image": "https://cdn.olympusgg.com/images/31304.png",
+                "duration": "",
+                "BCard1.1": "",
+                "firstEffect": [
+                    {
+                        "Title": "",
+                        "BuffType": "",
+                        "LevelBuff": "",
+                        "Duration": "",
+                        "BuffDescr": "",
+                        "Bcard": ""
+                    }
+                ],
+                "BCard1.2": "",
+                "BCard2.1": "",
+                "secondEffect": [
+                    {
+                        "Title": "",
+                        "BuffType": "",
+                        "LevelBuff": "",
+                        "Duration": "",
+                        "BuffDescr": "",
+                        "Bcard": ""
+                    }
+                ],
+                "BCard2.2": "",
+                "sideEffect": [
+                    {
+                        "Title": "",
+                        "BuffType": "",
+                        "LevelBuff": "",
+                        "Duration": "",
+                        "BuffDescr": "",
+                        "Bcard": ""
+                    }
+                ],
+                "sideBCard": ""
+            }
+        ]
+    },
+    {
+        "teamInfo": [
+            {
+                "buff": "Bushtail Blessing",
+                "companion": [
+                    {
+                        "compa1":"https://cdn.olympusgg.com/images/monsters/3047.png",
+                        "compa2":"",
+                        "compa3":"",
+                        "compa4":""
+                    }            
+                ],
+                "image": "https://cdn.olympusgg.com/images/31305.png",
+                "duration": "",
+                "BCard1.1": "",
+                "firstEffect": [
+                    {
+                        "Title": "",
+                        "BuffType": "",
+                        "LevelBuff": "",
+                        "Duration": "",
+                        "BuffDescr": "",
+                        "Bcard": ""
+                    }
+                ],
+                "BCard1.2": "",
+                "BCard2.1": "",
+                "secondEffect": [
+                    {
+                        "Title": "",
+                        "BuffType": "",
+                        "LevelBuff": "",
+                        "Duration": "",
+                        "BuffDescr": "",
+                        "Bcard": ""
+                    }
+                ],
+                "BCard2.2": "",
+                "sideEffect": [
+                    {
+                        "Title": "",
+                        "BuffType": "",
+                        "LevelBuff": "",
+                        "Duration": "",
+                        "BuffDescr": "",
+                        "Bcard": ""
+                    }
+                ],
+                "sideBCard": ""
+            }
+        ]
+    }
+]
