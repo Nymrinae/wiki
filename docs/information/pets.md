@@ -54,7 +54,7 @@ hide_title: true
 ### ``Baby Panda``
 | Pet | Stats | Pet Skill | Player buff |
 | -------- | -------- | -------- | -------- |
-|![](https://cdn.olympusgg.com/images/monsters/2776.png)|![](https://i.imgur.com/nazkD45.png)|![](https://i.imgur.com/bAv1FuB.png)|![](https://i.imgur.com/AKpDpFl.png)|
+|![](https://cdn.olympusgg.com/images/monsters/2776.png)|![](https://i.imgur.com/nazkD45.png)|![](https://i.imgur.com/N1Hz67L.png)|![](https://i.imgur.com/AKpDpFl.png)|
 
 ## **Easter Event**
 
