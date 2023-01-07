@@ -1,13 +1,13 @@
 ---
-id: celestialS
-slug: celestialS
+id: celestial-tower
+slug: celestial-tower
 title: Celestial Spire
 hide_title: true
 ---
-import Celestialspire from '../../../src/components/classes/celestialSpire/celestialS'
-import Teams from '../../../src/components/classes/celestialSpire/teamCS'
+import Celestialspire from '../../../src/components/classes/celestial-tower/celestial-tower'
+import Teams from '../../../src/components/classes/celestial-tower/celestial-tower-team'
 
-# Celestial Spire - Guide
+# Celestial Tower - Guide
 
 <p align="center">
 <img src="https://i.imgur.com/EJCb5qT.png" width='250'/></p>
@@ -18,7 +18,7 @@ The Infinite Celestial Spire is a challenge in which the best PvE players will d
 Any type of healing (titles or potions) will be forbidden inside the tower increasing even more the difficulty of this one.
 To help us stop the hordes we have the help of Teams, which be made up of Pets and Partners that are under our acquisition.
 
-# How to access The Celestial Spire?
+# How to access The Celestial Tower?
 
 To access the Celestial Infinite Tower you need to have finished all the QuestLine of act 7.2, once you have finished you have to talk to **Celestial Tower Guard**, he give you access to the tower.
 
@@ -40,7 +40,7 @@ On the first day of each month, monthly rewards will be given to players who hav
 <p align="center">
 <img src="https://i.imgur.com/C0aZl1S.png" width= '300'/></p>
 
-# Floors of the Infinite Celestial Spire
+# Floors of the Infinite Celestial Tower
 
 As we mentioned before, the celestial tower is composed of some floors, exactly 50, when we finish a floor we receive certain rewards which be shown below:
 
