@@ -212,13 +212,13 @@ Hunt 10 [Strange Stone Statue].<br/>
 ---
 ### <font color="#3399ff"> Energy Transfer </font> 
 <font color="Grey"> Collect materials for the totem at Spirit Forest Edge. </font><br/> 
-Hunt Sylvan Spirit and collect 20 Spirit Forest Branch. <img src="https://cdn.olympusgg.com/images/4251.png" width="25"/><br/>
-Hunt Guardian Spirit and collect 5 Loa Runic Powder. <img src="https://cdn.olympusgg.com/images/4243.png" width="25"/><br/>
+Hunt Moss Fairy and collect 50 Spirit Essence. <img src="https://cdn.olympusgg.com/images/1221.png" width="25"/><br/>
+Hunt Guardian Spirit and collect 50 Spirit Essence. <img src="https://cdn.olympusgg.com/images/1221.png" width="25"/><br/>
 
 ---
 ### <font color="#3399ff"> The Place for the Ritual </font> 
 <font color="Grey">  Collect more materials for the totem. </font><br/> 
-Deliver 20 Sekraz Ore to Datitus.<img src="https://cdn.olympusgg.com/images/4221.png" width="25"/><br/>
+Deliver 10 Loa Runic Powder to Datitus.<img src="https://cdn.olympusgg.com/images/4243.png" width="25"/><br/>
 Deliver 10 Jade to Datitus.<img src="https://cdn.olympusgg.com/images/4242.png" width="25"/><br/>
 
 ---
