@@ -22,7 +22,7 @@ Wings without Additional Effect <ItemIcon iconId="10352"/>| Effect |
  <ItemIcon iconId="2882"/> Fairy Wings |<BCard>- Movement speed is increased by 1.</BCard><br/><BCard>- The equipped fairy's element increases by 15.</BCard><br/><BCard>- Provides a 5% chance to reset the cooldown of the attack skill used.</BCard>| | 
  <ItemIcon iconId="4431"/> Crystal Wings |<BCard>- Movement speed is increased by 1.</BCard><br/><BCard>- Up to level 4 there is a 15% chance of never getting a bad effect.</BCard><br/><BCard>- Every 4 seconds: Restores (Player Level*3) HP.</BCard>| 
  <img src="https://i.imgur.com/F0RHf0O.png" width="36"/> Gilded Wings |<BCard>- Movement speed is increased by 2.</BCard><br/><BCard>- Increases Gold earned by 15%.</BCard>|
- <ItemIcon iconId="4780"/> Retro Wings |<BCard>- Damage Dealt in PvP increased by 7%.</BCard><br/><BCard>- Damage received in PvP decreased by 7%.</BCard><br/><BCard>- In PvP all elemental resistances are increased by 10</BCard>|  
+ <ItemIcon iconId="4780"/> Retro Wings |<BCard>- Damage Dealt in PvP increased by 7%.</BCard><br/><BCard>- Damage received in PvP decreased by 7%.</BCard><br/><BCard>- PvP attack power is increased by 3% during the Rainbow Battle.</BCard><br/><BCard>- Movement speed is increased by 1 during the Rainbow Battle.</BCard><br/><BCard>- In PvP all elemental resistances are increased by 10.</BCard>|  
 
 ## Wings with Additional Effect
 
