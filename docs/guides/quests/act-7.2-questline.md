@@ -6,7 +6,7 @@ hide_title: true
 ---
 # Act 7.2 Questline guide
 
-To start the Quest of act 7.2 you have to finish first the Quests of act 7.1, once we finish with these you have to go to Olorum Village and talk to Litatiz:
+To start the Quest of act 7.2 you have to finish first the Quests of act 7.1 aswell as "Commotion in the Celestial Spire" side quest. Once we finish with these you have to go to Olorum Village and talk to Litatiz:
 
 ---
 ### <font color="#3399ff"> The Convention </font> 
@@ -19,7 +19,7 @@ To start the Quest of act 7.2 you have to finish first the Quests of act 7.1, on
 ---
 ### <font color="#3399ff"> Descendant of the Fire Druid </font> 
 <font color="Grey"> Visit Taitur near Forest Cliff. </font><br/> 
-<img src="https://i.imgur.com/zauQc5f.png"/> <img src="https://cdn.olympusgg.com/images/monsters/3071.png"/><br/> 
+<img src="https://i.imgur.com/KtG4myy.png"/> <img src="https://cdn.olympusgg.com/images/monsters/3071.png"/><br/> 
 
 ---
 ### <font color="#3399ff"> So Many Demons! </font> 
@@ -68,7 +68,7 @@ Hunt 10 [Strange Stone Statue].<br/>
 ---
 ### <font color="#3399ff"> Raging Spirits </font> 
 <font color="Grey"> Defeat the raging spirits. </font><br/> 
-Hunt 30 [Sylvan Spirit].<br/> 
+Hunt 30 [Rock Golem].<br/> 
 Hunt 20 [Guardian Spirit].<br/> 
 Hunt 1 [Spirit King's Messenger].<br/> 
 <img src="https://cdn.olympusgg.com/images/monsters/3012.png"/> <img src="https://cdn.olympusgg.com/images/monsters/3011.png" width="150"/> <img src="https://cdn.olympusgg.com/images/monsters/3011.png"/><br/>
@@ -81,7 +81,7 @@ Hunt 1 [Spirit King's Messenger].<br/>
 
 ---
 ### <font color="#3399ff"> The Offering </font> 
-<font color="Grey"> Collect materials for the Spirit King. His altar is near the entrance to the Spirit King raid. </font><br/> 
+<font color="Grey"> Collect materials for the Spirit King. His altar is near the entrance to the Spirit King Kirollas raid. </font><br/> 
 Talk to Altar of the Spirit King when you have 20 Spirit Forest Branch.<img src="https://cdn.olympusgg.com/images/4251.png" width="25"/><br/> 
 Talk to Altar of the Spirit King when you have 20 Golem Core.<img src="https://cdn.olympusgg.com/images/4230.png" width="25"/><br/>
 Talk to Altar of the Spirit King when you have 20 Jade.<img src="https://cdn.olympusgg.com/images/4242.png" width="25"/><br/>
