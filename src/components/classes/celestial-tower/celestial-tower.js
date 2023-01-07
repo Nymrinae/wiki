@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import cs from './celestialS.json';
+import cs from './celestial-tower.json';
 
 function App() {
     {/*Floor Information*/ }

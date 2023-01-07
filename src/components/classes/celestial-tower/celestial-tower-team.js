@@ -1,6 +1,6 @@
 import React, { useState, useRef } from 'react';
 import draggable from '../../draggable';
-import team from './teamCS.json';
+import team from './celestial-tower-team.json';
 
 const DraggableCard = ({ children }) => {
     const cardRef = useRef(null);
