@@ -66,3 +66,6 @@ You can get emotes from the God's Altar and NPCs. And there are few emotes exclu
 |:------------------------------------:|:-----------:|
 | ![](https://i.imgur.com/HdOKAEj.png) | Peepo Fight |
 | ![](https://i.imgur.com/1cNAS4p.png) |  KeK Loser  |
+| ![](https://cdn.olympusgg.com/images/19760.png) |  Pepe Archer OP  |
+| ![](https://cdn.olympusgg.com/images/19761.png) |  Pepe Mage OP |
+| ![](https://cdn.olympusgg.com/images/19763.png) |  Pepe Sword OP  |

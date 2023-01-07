@@ -198,3 +198,30 @@ hide_title: true
 |![](https://i.imgur.com/qiQknIZ.png)|![](https://i.imgur.com/f8xniYW.png)|![](https://i.imgur.com/ZBmTl12.png)|
 
 
+## **Celestial Tower**
+
+
+### ``Spirit King's Avatar``
+| Pet | Stats | Player buff |
+| -------- | -------- | -------- |
+|![](https://cdn.olympusgg.com/images/monsters/3040.png)|![](https://i.imgur.com/IXx68s7.png)|![](https://i.imgur.com/hQLFrRX.png)
+### ``Beast King's Avatar``
+| Pet | Stats | Player buff |
+| -------- | -------- | -------- |
+|![](https://cdn.olympusgg.com/images/monsters/3039.png)|![](https://i.imgur.com/BPGN0ws.png)|![](https://i.imgur.com/pov77ym.png)
+### ``Celestial Spire Sylvain Spirit``
+| Pet | Stats |
+| -------- | -------- |
+|![](https://cdn.olympusgg.com/images/monsters/3012.png)|![](https://i.imgur.com/oYiHDx6.png)
+### ``Celestial Spire Owlbear``
+| Pet | Stats |
+| -------- | -------- |
+|![](https://cdn.olympusgg.com/images/monsters/3002.png)|![](https://i.imgur.com/3hzGlK0.png)
+### ``Celestial Spire Moss Gloop``
+| Pet | Stats |
+| -------- | -------- |
+|![](https://cdn.olympusgg.com/images/monsters/3013.png)|![](https://i.imgur.com/XsTW3BT.png)
+### ``Celestial Spire Dark Elf``
+| Pet | Stats |
+| -------- | -------- |
+|![](https://cdn.olympusgg.com/images/monsters/3010.png)|![](https://i.imgur.com/cpzmHms.png)
