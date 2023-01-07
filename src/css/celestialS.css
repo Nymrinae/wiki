@@ -1,0 +1,327 @@
+/*Celestial Spire Stiles */
+.titleDivCS {
+    background: linear-gradient(rgb(70, 70, 70), rgb(45, 45, 45) 15%, rgb(45, 45, 45) 50%, rgb(0, 0, 0) 50%, rgb(0, 0, 0));
+    border-radius: 2px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: clip;
+    box-shadow: inset 0 0 0 1px #000, 0 0 1px 1px #000;
+    border: 1px solid rgb(140, 140, 140);
+    width: 310px;
+    position: left;
+    color: #FFF;
+    text-align: center;
+    text-shadow: var(--nt-txt-shadow);
+    font-family: Tahoma;
+    font-size: 14px;
+    padding: 4px 0px;
+    height: 35px;
+}
+
+.greyTableCS {
+    margin: 0px 1px 1px 1px;
+    border: 1px solid rgb(80, 80, 80);
+    background-color: rgb(80, 80, 80);
+    border-bottom-left-radius: 2px;
+    border-bottom-right-radius: 2px;
+    padding: 4px;
+    text-align: center;
+    height: 160px;
+    width: 310px;
+    position: left;
+    z-index: 1;
+}
+
+.blackTableCS {
+    border-radius: 5px;
+    height: 155px;
+    width: 305px;
+    border-collapse: separate;
+    border: 1px solid #666;
+    border-color: grey;
+    background-color: rgba(20, 20, 20, 1);
+    border-radius: 5px;
+    margin-left: -3px;
+    margin-top: -2px;
+
+}
+
+.floorCS {
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 0 3px #000;
+    border: 1px solid #999;
+    background-color: rgb(80, 80, 80);
+    color: #FFF;
+    margin: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+    height: 20px;
+    width: 20px;
+    transition: ease-out 0.3s;
+    z-index: 1;
+}
+
+.floorCS:hover {
+    background: rgb(1, 125, 202);
+    color: white;
+}
+
+.titleDivCSInfo {
+    background: linear-gradient(rgb(70, 70, 70), rgb(45, 45, 45) 15%, rgb(45, 45, 45) 50%, rgb(0, 0, 0) 50%, rgb(0, 0, 0));
+    border-radius: 2px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: clip;
+    box-shadow: inset 0 0 0 1px #000, 0 0 1px 1px #000;
+    border: 1px solid rgb(140, 140, 140);
+    width: 600px;
+    color: #FFF;
+    text-align: center;
+    text-shadow: var(--nt-txt-shadow);
+    font-family: Tahoma;
+    font-size: 14px;
+    padding: 4px 0px;
+    height: 35px;
+    margin-top: 20px;
+}
+
+.bodyInfoCS {
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 0 3px #000;
+    border: 1px solid #999;
+    background-color: rgb(80, 80, 80);
+    color: #FFF;
+    margin: 3px;
+    border-radius: 5px;
+    height: 360px;
+    width: 600px;
+}
+
+.divRequCS {
+    box-shadow: 1px 1px 0px #000, -1px -1px 0px #000, 1px -1px 0px #000,
+        -1px 1px 0px #000;
+    border: 1px solid #999;
+    background: #232a2faa;
+    position: relative;
+    bottom: 0px;
+    height: 353px;
+    width: 300px;
+    margin: 5px;
+    border-radius: 4px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    z-index: 1;
+}
+
+.divRewardCS {
+    box-shadow: 1px 1px 0px #000, -1px -1px 0px #000, 1px -1px 0px #000,
+        -1px 1px 0px #000;
+    border: 1px solid #999;
+    background: #232a2faa;
+    position: relative;
+    bottom: 0px;
+    height: 353px;
+    width: 300px;
+    margin: 5px;
+    border-radius: 4px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    z-index: 1;
+}
+
+.minititleCS {
+    box-shadow: 1px 1px 0px #001818, -1px -1px 0px #001818, 1px -1px 0px #001818,
+        -1px 1px 0px #001818;
+    border-top: 1px solid #97a3b5;
+    border-left: 1px solid #727e90;
+    border-right: 1px solid #727e90;
+    border-bottom: 1px solid #5b6779;
+    background: #525e70;
+    border-radius: 4px;
+    width: 100%;
+    padding: 3px 1px 2px 1px;
+    position: absolute;
+    top: -1px;
+    display: block;
+    margin-block-start: 2px;
+}
+
+.levelCS {
+    background: #0005;
+    text-align: center;
+    color: #ffa;
+    text-shadow: var(--nt-txt-shadow);
+    padding: 3px;
+    display: inline-block;
+    width: 100%;
+    margin-top: 36px;
+}
+
+.levelCS2 {
+    margin-top: -21px;
+}
+
+.timeCS {
+    background: #0005;
+    text-align: center;
+    color: #ffa;
+    text-shadow: var(--nt-txt-shadow);
+    display: inline-block;
+    width: 100%;
+    margin: 9px;
+    padding: 3px;
+    margin-top: -21px;
+}
+
+.reputationCS {
+    background: #0005;
+    text-align: center;
+    color: #ffa;
+    text-shadow: var(--nt-txt-shadow);
+    display: inline-block;
+    width: 100%;
+    margin: 9px;
+    padding: 3px;
+    margin-top: 2px;
+    margin-bottom: 19px;
+}
+
+.timeCS2 {
+    margin-top: -10px;
+}
+
+.blackminiBackground {
+    position: relative;
+    display: inline-block;
+    background-image: url(item-slot.png);
+    width: 42px;
+    height: 42px;
+    color: #FFF;
+    margin: 1px;
+}
+
+.blackminiBackgroundRight {
+    position: relative;
+    display: inline-block;
+    background-image: url(item-slot.png);
+    width: 42px;
+    height: 42px;
+    color: #FFF;
+    margin-top: -17px;
+}
+
+.imageinsideBackground {
+    max-width: 38px;
+    max-height: 38px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    user-select: none;
+}
+
+.miniAmountCS {
+    position: absolute;
+    width: auto;
+    height: 9px;
+    bottom: 2px;
+    right: 3px;
+    font-size: 10px;
+    color: #fff;
+    border-top: 1px #656564 solid;
+    text-shadow: #000 1px 1px 0px;
+    border-top-left-radius: 2px;
+    border-left: 1px #656564 solid;
+    font-weight: normal;
+    background: rgba(0, 0, 0, 0.7);
+    text-align: right;
+    pointer-events: none;
+    margin: 0px;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.randomContainerCS {
+    margin-bottom: -6px;
+}
+
+/*Team Stiles */
+
+.titleDivTeams {
+    background: linear-gradient(rgb(70, 70, 70), rgb(45, 45, 45) 15%, rgb(45, 45, 45) 50%, rgb(0, 0, 0) 50%, rgb(0, 0, 0));
+    border-radius: 2px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: clip;
+    box-shadow: inset 0 0 0 1px #000, 0 0 1px 1px #000;
+    border: 1px solid rgb(140, 140, 140);
+    width: 215px;
+    position: left;
+    color: #FFF;
+    text-align: center;
+    text-shadow: var(--nt-txt-shadow);
+    font-family: Tahoma;
+    font-size: 14px;
+    padding: 4px 0px;
+    height: 35px;
+}
+
+.greyTableTeams {
+    margin: 0px 1px 1px 1px;
+    border: 1px solid rgb(80, 80, 80);
+    background-color: rgb(80, 80, 80);
+    border-bottom-left-radius: 2px;
+    border-bottom-right-radius: 2px;
+    padding: 4px;
+    text-align: center;
+    height: 160px;
+    width: 215px;
+    position: left;
+    z-index: 1;
+}
+
+.blackTableTeams {
+    border-radius: 5px;
+    height: 155px;
+    width: 215px;
+    border-collapse: separate;
+    border: 1px solid #666;
+    border-color: grey;
+    background-color: rgba(20, 20, 20, 1);
+    border-radius: 5px;
+    margin-left: -3px;
+    margin-top: -2px;
+
+}
+
+.compaContainerBlack {
+    height: 100%;
+    width: 100%;
+    border: 5px solid #666;
+    border-color: grey;
+    background-color: rgba(20, 20, 20, 1);
+    border-radius: 5px;
+}
+
+.compaContainerGrey {
+    margin: 0px 1px 1px 1px;
+    border: 1px solid rgb(80, 80, 80);
+    background-color: rgb(80, 80, 80);
+    border-radius: 3px;
+    text-align: center;
+    height: 100%;
+    margin-top: 20px;
+}
+
+.marginCompaTeam{
+    padding-top: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
