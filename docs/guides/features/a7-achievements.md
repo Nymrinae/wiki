@@ -182,7 +182,7 @@ Enter the Top Level after talking to the **Orc Guardswoman** in **Olorun Village
 
 <img src="https://i.imgur.com/0jCwpg6.png"  width="500"/>
 
-<img src="https://i.imgur.com/Fh3YTf5.png"  width="500"/>
+<img src="https://i.imgur.com/ZszQfta.png"  width="500"/>
 
 <img src="https://i.imgur.com/r0BhE6u.png"  width="500"/>
 
