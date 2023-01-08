@@ -39,7 +39,7 @@ function App() {
                                                     <p className='levelCS'>Level</p>
                                                     <p className='levelCS2'> 99 - 99</p>
                                                     <p className='timeCS'>Minimun Time</p>
-                                                    <p className='timeCS2'>210s</p>
+                                                    <p className='timeCS2'>{information.time}s</p>
                                                     <p className='timeCS'>Items to enter</p>
                                                     <a className='blackminiBackground'>
                                                         <img className='imageinsideBackground' src='https://cdn.olympusgg.com/images/4301.png' />
