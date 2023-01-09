@@ -206,7 +206,7 @@ module.exports = {
         { type: 'doc', id: 'guides/features/act7-achievements', label: 'Act7 Achievements', className: 'a7achievements-icon' },
         { type: 'doc', id: 'information/runes', label: 'Runes ', className: 'runes-icon' },
         { type: 'doc', id: 'information/tattoos', label: 'Tattoos', className: 'tattoos-icon' },
-        { type: 'doc', id: 'guides/features/celestial-tower', label: 'Celestial Spire', className: 'celestial-spire-icon' },
+        { type: 'doc', id: 'guides/features/celestial-tower', label: 'Celestial Tower', className: 'celestial-spire-icon' },
       ]
     }
   ]

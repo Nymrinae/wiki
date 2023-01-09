@@ -352,7 +352,7 @@
                         "minibuff":[],
                         "time":"Duration: 5.0 seconds",
                         "desc":"Strengthens your attacks with\nKickback Power.",
-                        "bcard":"Movement impossible\nNo attack possible\nNo defence possible"
+                        "bcard":"Movement impossible\nNo attack possible\nDodge impossible"
                     }
                 ],
                 "lvl6": [
@@ -363,7 +363,7 @@
                         "minibuff":[],
                         "time":"Duration: 6.0 seconds",
                         "desc":"Strengthens your attacks with\nKickback Power.",
-                        "bcard":"Movement impossible\nNo attack possible\nNo defence possible"
+                        "bcard":"Movement impossible\nNo attack possible\nDodge impossible"
                     }
                 ]
             }

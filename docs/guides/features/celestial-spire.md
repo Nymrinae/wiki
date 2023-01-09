@@ -38,7 +38,7 @@ Once we reach the 50th floor we will get a <img src="https://cdn.olympusgg.com/i
 On the first day of each month, monthly rewards will be given to players who have actively participated in the tower. The very best of each class will get "Hero of the Celestial Tower" title, but all top 30 will get a special Spire Chest and some random boxes too. Spire Chests contain different amounts of Corrupted Fragments, Legendary Medal of Honour, and Infinity Coins.
 
 <p align="center">
-<img src="https://i.imgur.com/C0aZl1S.png" width= '300'/></p>
+<img src="https://i.imgur.com/hqWW2gY.png" width= '300'/></p>
 
 # Floors of the Infinite Celestial Tower
 
