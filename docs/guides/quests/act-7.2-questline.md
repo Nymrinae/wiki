@@ -82,9 +82,9 @@ Hunt 1 [Spirit King's Messenger].<br/>
 ---
 ### <font color="#3399ff"> The Offering </font> 
 <font color="Grey"> Collect materials for the Spirit King. His altar is near the entrance to the Spirit King Kirollas raid. </font><br/> 
-Talk to Altar of the Spirit King when you have 20 Spirit Forest Branch.<img src="https://cdn.olympusgg.com/images/4251.png" width="25"/><br/> 
-Talk to Altar of the Spirit King when you have 20 Golem Core.<img src="https://cdn.olympusgg.com/images/4230.png" width="25"/><br/>
-Talk to Altar of the Spirit King when you have 20 Jade.<img src="https://cdn.olympusgg.com/images/4242.png" width="25"/><br/>
+Talk to Altar of the Spirit King when you have 5 Spirit Forest Branch.<img src="https://cdn.olympusgg.com/images/4251.png" width="25"/><br/> 
+Talk to Altar of the Spirit King when you have 5 Golem Core.<img src="https://cdn.olympusgg.com/images/4230.png" width="25"/><br/>
+Talk to Altar of the Spirit King when you have 5 Jade.<img src="https://cdn.olympusgg.com/images/4242.png" width="25"/><br/>
 
 ---
 ### <font color="#3399ff"> A Worthy Hero </font> 
