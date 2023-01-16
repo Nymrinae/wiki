@@ -130,8 +130,8 @@ You can choose to display a different title name, while having the effect of ano
 |A7 Main Quest|<font color="#29fd1e"> Saviour of the Orcs </font>|<BCard>Increases the damage against Orc by 10%. </BCard>|
 |Arena Shop|<font color="#f6d99b"> Duellist </font>|<BCard> Attack power is increased by 10% during an attack in the team arena.</BCard> <br/> <BCard> Damage taken in the team arena is reduced by 10%. </BCard>|
 |Rainbow Shop|<font color="#7fc8ff"> Unicorn </font>|<BCard> PvP attack power is increased by 5% during the Rainbow Battle. </BCard> <br/> <BCard> Movement speed is increased by 2 during the Rainbow Battle. </BCard>|
-|Celestial Spire Shop|<font color="#FED302"> Celestial Spire Hero </font>|<BCard> Damage dealt in Celestial Spire is increased by 20%. </BCard> <br/> <BCard> Movement speed is increased by 2 in Celestial Spire. </BCard>|
-|Celestial Tower Achievements|<font color="#0EF902"> Celestial Spire Conqueror </font>|<BCard> Damage dealt in Celestial Spire is increased by 20%. </BCard> <br/> <BCard> Movement speed is increased by 2 in Celestial Spire. </BCard>|
+|Celestial Spire Achievements|<font color="#0EF902"> Celestial Spire Conqueror </font>| <BCard> Movement speed is increased by 2 in Celestial Spire. </BCard>|
+|Celestial Tower Shop|<font color="#FED302"> Celestial Spire Hero </font>|<BCard> Damage dealt in Celestial Spire is increased by 20%. </BCard> <br/> <BCard> Movement speed is increased by 2 in Celestial Spire. </BCard>|
 |Celestial Tower Ranking|<font color="#DC143C"> Hero of Celestial Tower </font>|/
 
 <br/>
