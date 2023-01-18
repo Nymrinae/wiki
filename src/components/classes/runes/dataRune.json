@@ -160,7 +160,7 @@
                         "minibuff":[],
                         "time":"Duration: 10.0 seconds",
                         "desc":"The elements are weakened by\nWolf Power.",
-                        "bcard":"Non-elemental damage is reduced\nby 4%.\nDefence power is reduced by 4%."
+                        "bcard":"All attacks are reduced by 4%.\nDefence power is reduced by 4%."
                     }
                 ],
                 "lvl2": [
@@ -171,7 +171,7 @@
                         "minibuff":[],
                         "time":"Duration: 10.0 seconds",
                         "desc":"The elements are weakened by\nWolf Power.",
-                        "bcard":"Non-elemental damage is reduced\nby 7%.\nDefence power is reduced by 7%."
+                        "bcard":"All attacks are reduced by 7%.\nDefence power is reduced by 7%."
                     }
                 ],
                 "lvl3": [
@@ -182,7 +182,7 @@
                         "minibuff":[],
                         "time":"Duration: 10.0 seconds",
                         "desc":"The elements are weakened by\nWolf Power.",
-                        "bcard":"Non-elemental damage is reduced\nby 10%.\nDefence power is reduced by 10%."
+                        "bcard":"All attacks are reduced by 10%.\nDefence power is reduced by 10%."
                     }
                 ],
                 "lvl4": [
@@ -193,7 +193,7 @@
                         "minibuff":[],
                         "time":"Duration: 10.0 seconds",
                         "desc":"The elements are weakened by\nWolf Power.",
-                        "bcard":"Non-elemental damage is reduced\nby 13%.\nDefence power is reduced by 13%."
+                        "bcard":"All attacks are reduced by 13%.\nDefence power is reduced by 13%."
                     }
                 ],
                 "lvl5": [
@@ -204,7 +204,7 @@
                         "minibuff":[],
                         "time":"Duration: 15.0 seconds",
                         "desc":"The elements are weakened by\nWolf Power.",
-                        "bcard":"Non-elemental damage is reduced\nby 20%.\nDefence power is reduced by 20%."
+                        "bcard":"All attacks are reduced by 20%.\nDefence power is reduced by 20%."
                     }
                 ],
                 "lvl6": [
@@ -215,7 +215,7 @@
                         "minibuff":[],
                         "time":"Duration: 15.0 seconds",
                         "desc":"The elements are weakened by\nWolf Power.",
-                        "bcard":"Non-elemental damage is reduced\nby 30%.\nDefence power is reduced by 30%."
+                        "bcard":"All attacks are reduced by 30%.\nDefence power is reduced by 30%."
                     }
                 ]
             }

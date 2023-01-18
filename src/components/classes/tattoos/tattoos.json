@@ -179,7 +179,7 @@
                         "duration": "Duration: 120",
                         "image": "/img/tattos/6447.png",
                         "desc": "Descripcion de Attack",
-                        "bcard1": "Non-elemental damage is increased\nby",
+                        "bcard1": "All attacks are increased by",
                         "bcard2": "On attack, there is a",
                         "bcard3": "chance\nof inflicting",
                         "bcard4": "Fatal Bleeding on\nyour opponent.",
@@ -190,7 +190,7 @@
                                 "buff": "Disease Debuff\n(Level 4)",
                                 "duration": "Duration: 7.0 seconds",
                                 "desc": "Decreases HP and prevents critical\nhits.",
-                                "bcard": "Never inflicts critical hits.\nEvery 2 seconds:HP is reduced by\n495(Player Level*5)."
+                                "bcard": "Never inflicts critical hits.\nEvery 2 seconds:HP is reduced by\n495(Player Level*5).\nMagic attacks are reduced by 20%."
                             }
                         ],
                         "cero": [
@@ -1464,7 +1464,7 @@
                         "duration": "Duration: 120",
                         "image": "/img/tattos/6438.png",
                         "desc": "Increases defence power at the\nexpense of attack power.",
-                        "bcard1": "Non-elemental damage is reduced\nby",
+                        "bcard1": "All attacks are reduced by",
                         "bcard2": "Non-elemental damage received is\ndecreased",
                         "bcard3": [],
                         "bcard4": [],
@@ -2082,7 +2082,7 @@
                                 "buff": "Debuff\n",
                                 "duration": "Duration: 12.0 seconds",
                                 "desc": "The venom of the snake loa is\nparticularly potent.",
-                                "bcard": "Hit rate of all attacks is decreased\nby 200.\nAll dodges are decreased by 200.\nNon-elemental damage is reduced\nby 20%."
+                                "bcard": "Hit rate of all attacks is decreased\nby 200.\nAll dodges are decreased by 200.\nAll attacks are reduced by 20%."
                             }
                         ],
                         "cero": [
