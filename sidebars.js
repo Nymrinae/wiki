@@ -14,10 +14,13 @@ module.exports = {
       className: 'bug-icon'
     },
     {
-      type: 'doc', 
-      id: 'community-guides',
+      type: 'category', 
       label:'Community Guides',
       className: 'guide-icon',
+      items: [
+        { type: 'doc', id: 'community-guides/chinese-guide', label: 'Chinese guide', className:'guide-icon' },
+        { type: 'doc', id: 'community-guides/community-pony-forest-guide', label: 'Pony\'s Spirit Forest guide', className:'guide-icon' }
+      ]
     },
     {
       type: 'category',
@@ -95,6 +98,8 @@ module.exports = {
         { type: 'doc', id: 'custom-features/trophy-system', label: 'Trophy System', className:'trophy-icon' },
         { type: 'doc', id: 'custom-features/warp-system', label: 'Warp System', className:'warp-icon' },
         { type: 'doc', id: 'custom-features/wings-swapper', label: 'Wings Swapper', className:'wingsswapper-icon'},
+        { type: 'doc', id: 'custom-features/rainbow-battle', label: 'Rainbow Battle', className:'rbb-icon'},
+        { type: 'doc', id: 'custom-features/option-window', label: 'Custom Options Window', className:'custom-icon'},
       ]
     },
     {
@@ -117,6 +122,7 @@ module.exports = {
         { type: 'doc', id: 'guides/features/act-6-passives', label: 'Passives', className:'pasiv-icon' },
         { type: 'doc', id: 'information/mounts', label: 'Mounts', className:'vehi-icon' },
         { type: 'doc', id: 'information/psp', label: 'Partner Specialist', className:'partner-icon' },
+        { type: 'doc', id: 'information/partner-sp-perfection', label: 'PSP Perfection', className:'partner-sp-perfection-icon' },
         { type: 'doc', id: 'information/pets' , label: 'Pets', className:'pets-icon' },
         { type: 'doc', id: 'information/costumes', label: 'Costumes', className:'costume-icon' },
         { type: 'doc', id: 'information/reputation', label: 'Reputation', className: 'reputation-icon' },
@@ -132,7 +138,7 @@ module.exports = {
       label: 'Information',
       items: [
         { type: 'doc', id: 'qol/upgrades' , label: 'Equipment Upgrade', className: 'equpgrade-icon' },
-        { type: 'doc', id: 'guides/crafting/sp-upgrade' , label: 'SP Upgrade', className: 'spupgrade-icon' },
+        { type: 'doc', id: 'guides/crafting/sp-upgrade' , label: 'SP Upgrade & Perfection', className: 'spupgrade-icon' },
         { type: 'doc', id: 'information/shells', label: 'Shell Options', className: 'shell-icon' },
         { type: 'doc', id: 'qol/mass-crafting', label: 'Mass Crafting', className:'cella-icon' },
         { type: 'doc', id: 'information/items-sale-price', label: 'Item Sale Prices', className:'gold-icon' },
@@ -181,6 +187,7 @@ module.exports = {
             { type: 'doc', id: 'guides/raids/carno-raids', label: 'Beast King Carno', className: 'carno-icon' },
             { type: 'doc', id: 'guides/raids/kirollas-raids', label: 'Spirit King Kirollas', className: 'kirollas-icon' },
             { type: 'doc', id: 'guides/raids/belial-raids', label: 'Demon God Belial', className: 'belial-icon' },
+            { type: 'doc', id: 'guides/raids/paimon', label: 'Evil Overlord Paimon', className: 'paimon-icon' }
           ]
         },
         {
@@ -188,7 +195,8 @@ module.exports = {
           label: 'Quests',
           className: 'questl-icon',
           items: [
-            { type: 'doc', id: 'guides/quests/act-7.1-questline', label: 'Act7 Questline', className:'mainquest-icon' },
+            { type: 'doc', id: 'guides/quests/act-7.1-questline', label: 'Act 7.1 Questline', className:'mainquest-icon' },
+            { type: 'doc', id: 'guides/quests/act-7.2-questline', label: 'Act 7.2 Questline', className:'mainquest-icon' },
             { type: 'doc', id: 'guides/quests/act-7.1-daily-quests', label: 'Act7 Daily Quests', className:'dailyquest-icon' },
           ]
         },
@@ -196,9 +204,9 @@ module.exports = {
         { type: 'doc', id: 'guides/act7-equipment', label: 'Act7 Equipment Crafting', className: 'a7craft-icon' },
         { type: 'doc', id: 'release-reworks/equipment-act71-rework', label: 'Act7 Equipment Rework', className: 'equi-icon' },
         { type: 'doc', id: 'guides/features/act7-achievements', label: 'Act7 Achievements', className: 'a7achievements-icon' },
-        { type: 'doc', id: 'release-reworks/act7-sp-changelog', label: 'Act7 SP Balance', className: 'act7sps-icon' },
         { type: 'doc', id: 'information/runes', label: 'Runes ', className: 'runes-icon' },
         { type: 'doc', id: 'information/tattoos', label: 'Tattoos', className: 'tattoos-icon' },
+        { type: 'doc', id: 'guides/features/celestial-tower', label: 'Celestial Tower', className: 'celestial-spire-icon' },
       ]
     }
   ]

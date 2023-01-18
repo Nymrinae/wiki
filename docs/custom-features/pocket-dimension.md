@@ -14,7 +14,7 @@ They can be found on different maps, and you can choose entering to them alone o
 ## Restrictions
 
 - As a team, all the group members need to be on the same map.
-- Once you created a Pocket Dimension, there is a **15 minutes cooldown** to create a new one.
+- Once you created a Pocket Dimension, there is a **5 minutes cooldown** to create a new one.
 - Pocket Dimensions are destroyed when no one is on the map for 5 seconds.
 
 These restrictions are subject to change.

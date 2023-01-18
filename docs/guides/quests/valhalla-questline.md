@@ -314,8 +314,8 @@ Go to Mortaz Desert Port (Follow the arrow)
 
 #### <font color="#3399ff"> To the clue </font>
 
-Go to Mortaz Desert Port (Follow the arrow)
-<img src="https://i.imgur.com/9wj5f3n.png" height="200"/>
+Go to Port Surroundings (Follow the arrow)
+<img src="https://i.imgur.com/TvI0PGk.png" height="200"/>
 
 <font color="#88B4D3"><br/> Quest Reward: </font>  EXP <img src="https://cdn.olympusgg.com/images/1089.png"/>
 
@@ -405,7 +405,7 @@ Have a conversation with [<b>President Noah</b>]
 
 #### <font color="#3399ff"> Clues (4) </font>
 
-Hunt 10x [<b>Desert Sand Predator</b>]
+Hunt 20x [<b>Desert Sand Predator</b>]
 <img src="https://i.imgur.com/R5Aa5tb.png" height="200"/> <img src="https://i.imgur.com/YGAdtcA.png" height="200"/> <img src="https://cdn.olympusgg.com/images/monsters/1003.png" height="75"/>
 
 Hunt 20x [<b>Desert Sand Blade Horn</b>]

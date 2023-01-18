@@ -293,6 +293,24 @@ hide_title: true
 |:-:|:-:|
 | ![](https://i.imgur.com/mCEdPdc.png) | ![](https://i.imgur.com/GWqMq2n.png) |
 
+### ``Cuddly Tiger Costume``
+| Costume Male | Costume Female | 
+|:-:|:-:|
+| ![](https://imgur.com/btYqmam.png) | ![](https://imgur.com/Gmvu0i1.png)|
+
+| Costume  | Costume Hat |    
+|:-:|:-:|
+| ![](https://imgur.com/Ku4DfXp.png) | ![](https://imgur.com/IgKCh9X.png) |
+
+### ``Snow Tiger Costume``
+| Costume Male | Costume Female | 
+|:-:|:-:|
+| ![](https://imgur.com/g4GLWMD.png) | ![](https://imgur.com/7azPV8a.png)|
+
+| Costume  | Costume Hat |    
+|:-:|:-:|
+| ![](https://imgur.com/PJeuneF.png) | ![](https://imgur.com/FtXYivc.png) |
+
 
 ## **Costumes Wings **
 
@@ -343,3 +361,39 @@ hide_title: true
 | Wings  |    
 |:-:|
 | ![](https://i.imgur.com/XY4pbx5.png) |
+
+### ``Rainbow Costume Wings``
+| Wings  |    
+|:-:|
+| ![](https://imgur.com/G0RfB4x.png) |
+
+| Effect  |    
+|:-:|
+| ![](https://imgur.com/1SqNLUa.png) |
+
+### ``Dark Rainbow Costume Wings``
+| Wings  |    
+|:-:|
+| ![](https://imgur.com/hIp0Mtx.png) |
+
+| Effect  |    
+|:-:|
+| ![](https://imgur.com/pI9kdpa.png) |
+
+### ``Gingerbread Costume Wings``
+| Wings  |    
+|:-:|
+| ![](https://imgur.com/2P221Tn.png) |
+
+| Effect  |    
+|:-:|
+| ![](https://imgur.com/0PwmA0Z.png) |
+
+### ``Paimon's Costume Wings``
+| Wings  |    
+|:-:|
+| ![](https://i.imgur.com/ZPY0vqp.png) |
+
+| Effect  |    
+|:-:|
+| ![](https://i.imgur.com/DXrf5SH.png) |

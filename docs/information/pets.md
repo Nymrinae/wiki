@@ -51,6 +51,10 @@ hide_title: true
 | Pet | Stats | Pet Skill | Player buff |
 | -------- | -------- | -------- | -------- |
 |![](https://i.imgur.com/4hIWHeH.png)|![](https://i.imgur.com/feQiyjO.png)|![](https://i.imgur.com/Z10umyq.png)|![](https://i.imgur.com/O95uY6I.png)|
+### ``Baby Panda``
+| Pet | Stats | Pet Skill | Player buff |
+| -------- | -------- | -------- | -------- |
+|![](https://cdn.olympusgg.com/images/monsters/2776.png)|![](https://i.imgur.com/nazkD45.png)|![](https://i.imgur.com/N1Hz67L.png)|![](https://i.imgur.com/AKpDpFl.png)|
 
 ## **Easter Event**
 
@@ -115,6 +119,18 @@ hide_title: true
 | Pet | Stats | Debuff |Player buff
 | -------- | -------- | -------- | -------- |
 |![](https://cdn.olympusgg.com/images/monsters/1383.png)|![](https://i.imgur.com/I1tATuh.png) |![](https://i.imgur.com/nFqJq7A.png) |![](https://i.imgur.com/aDjF1h7.png)
+
+## **Winter Event**
+
+### ``Playful Santa Bushi``
+| Pet | Stats |
+| -------- | -------- |
+|![](https://cdn.olympusgg.com/images/monsters/176.png)|![](https://imgur.com/2RS5qKA.png)|
+
+### ``Super Santa Bushi``
+| Pet | Stats | Debuff |
+| -------- | -------- | -------- |
+|![](https://cdn.olympusgg.com/images/monsters/176.png)|![](https://imgur.com/fvfY0kj.png) |![](https://i.imgur.com/y4h86nm.png) |
 
 
 ## **Common Bushtails**
@@ -186,3 +202,30 @@ hide_title: true
 |![](https://i.imgur.com/qiQknIZ.png)|![](https://i.imgur.com/f8xniYW.png)|![](https://i.imgur.com/ZBmTl12.png)|
 
 
+## **Celestial Tower**
+
+
+### ``Spirit King's Avatar``
+| Pet | Stats | Player buff |
+| -------- | -------- | -------- |
+|![](https://cdn.olympusgg.com/images/monsters/3040.png)|![](https://i.imgur.com/IXx68s7.png)|![](https://i.imgur.com/hQLFrRX.png)
+### ``Beast King's Avatar``
+| Pet | Stats | Player buff |
+| -------- | -------- | -------- |
+|![](https://cdn.olympusgg.com/images/monsters/3039.png)|![](https://i.imgur.com/BPGN0ws.png)|![](https://i.imgur.com/pov77ym.png)
+### ``Celestial Spire Sylvain Spirit``
+| Pet | Stats |
+| -------- | -------- |
+|![](https://cdn.olympusgg.com/images/monsters/3012.png)|![](https://i.imgur.com/oYiHDx6.png)
+### ``Celestial Spire Owlbear``
+| Pet | Stats |
+| -------- | -------- |
+|![](https://cdn.olympusgg.com/images/monsters/3002.png)|![](https://i.imgur.com/3hzGlK0.png)
+### ``Celestial Spire Moss Gloop``
+| Pet | Stats |
+| -------- | -------- |
+|![](https://cdn.olympusgg.com/images/monsters/3013.png)|![](https://i.imgur.com/XsTW3BT.png)
+### ``Celestial Spire Dark Elf``
+| Pet | Stats |
+| -------- | -------- |
+|![](https://cdn.olympusgg.com/images/monsters/3010.png)|![](https://i.imgur.com/cpzmHms.png)

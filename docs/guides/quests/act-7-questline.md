@@ -6,7 +6,7 @@ hide_title: true
 ---
 
 
-# Act 7 Questline guide
+# Act 7.1 Questline guide
 
 Guide for the Act 7.1 Main Questline with Mobs, NPC Spots and Quest items. <br/> 
 To start the Act 7.1 Main Questline you have to be lv. 99+30. <br/> 

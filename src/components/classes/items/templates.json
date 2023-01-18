@@ -1,0 +1,195 @@
+[
+    {
+        "item": [
+            {
+                "id": "0000",
+                "type": "consumable",
+                "title": "",
+                "category": "",
+                "restrictions": [],
+                "price": "0Gold",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "item": [
+            {
+                "id": "0000",
+                "type": "equipment",
+                "title": "",
+                "requirements": "Swordsman, Archer, Mage only\nRequiredLevel: 20Lv\n",
+                "restrictions": [],
+                "stats": "MeleeDefence: 0\nRangedDefence: 0\nMagicDefence: 0\nDodge: 0\n\n",
+                "price": "Price: 0",
+                "bcard": "",
+                "buffBcard1": [],
+                "buffBcard2": [],
+                "buff": [
+                    {
+                        "img": "https://cdn.olympusgg.com/images/5949.png",
+                        "title": "",
+                        "subtitle": "",
+                        "duration": "Duration: .0 seconds",
+                        "desc": ".",
+                        "bcard1": [],
+                        "subBcard1": [],
+                        "subBcard2": [],
+                        "subBuff": [],
+                        "subBonusSkillBcard1": [],
+                        "subBonusSkillBcard2": [],
+                        "subBonusSkill": [],
+                        "bonusSkillBcard1": [],
+                        "bonusSkillBcard2": [],
+                        "bonusSkill": [],
+                        "sideEff": [],
+                        "sideEffbcard1": [],
+                        "sideEffbcard2": [],
+                        "sideEffbuff" : [],
+                        "release": [],
+                        "releaseBuff": []
+                    }
+                ],
+                "description": []
+            }
+        ]
+    },
+    {
+        "item": [
+            {
+                "id": "0000",
+                "type": "fairy",
+                "title": "",
+                "attribute": "Attribute: ",
+                "element": "Strengthens the element by 0%.",
+                "restrictions": [],
+                "bcard": [],
+                "description": ""
+            }
+        ]
+    },
+    {
+        "item": [
+            {
+                "id": "0000",
+                "type": "resistance",
+                "title": "",
+                "restrictions": "RequiredLevel: 20Lv\n",
+                "combination": "CombinationTimes: 0",
+                "stats": "MeleeDefence: 0\nRangedDefence: 0\nMagicDefence: 0\nDodge: 0",
+                "resistances": "FireElement Resistance: 0%\nWaterElement Resistance: 0%\nLightElement Resistance: 0%\nDarkElement Resistance: 0%",
+                "price": "Price: 0",
+                "bcard": "",
+                "description": []
+            }
+        ]
+    },
+    {
+        "item": [
+            {
+                "id": "0000",
+                "type": "accessory",
+                "title": "",
+                "level": "RequiredChampionLevel: 0Lv",
+                "optionLevel": "MaximumOptionLevel: 0",
+                "optionCount": "MaximumOptionPieceNumber: 0/0",
+                "price": "Price: 0",
+                "bcard": [],
+                "description": ""
+            }
+        ]
+    },
+    {
+        "item": [
+            {
+                "id": "0000",
+                "type": "buff",
+                "title": "",
+                "subtitle": "",
+                "duration": "Duration: .0 seconds",
+                "desc": ".",
+                "bcard1": [],
+                "subBcard1": [],
+                "subBcard2": [],
+                "subBuff": [],
+                "subBonusSkillBcard1": [],
+                "subBonusSkillBcard2": [],
+                "subBonusSkill": [],
+                "bonusSkillBcard1": [],
+                "bonusSkillBcard2": [],
+                "bonusSkill": [],
+                "sideEff": [],
+                "sideEffbcard1": [],
+                "sideEffbcard2": [],
+                "sideEffbuff" : [],
+                "release": [],
+                "releaseBuff": []
+            }
+        ]
+    },
+    {
+        "item": [
+            {
+                "id": "0000",
+                "type": "skill",
+                "title": "",
+                "job" : "Job level: 0Lv",
+                "cp" : "Necessary CP : 0",
+                "fairy": "",
+                "range": "Attack Range : ",
+                "target": "Target : ",
+                "cast" : "Casting time : 0.0 sec.",
+                "cool" : "Cool time : 0.0 seconds",
+                "mp" : "Consumption MP : 0",
+                "price" : "Price : 0 Gold",
+                "desc": ".",
+                "bcard1": [],
+                "bcard2": [],
+                "bcard3": [],
+                "bcard4": [],
+                "buff": [
+                    {
+                        "img": "https://cdn.olympusgg.com/images/5949.png",
+                        "title": "",
+                        "subtitle": "",
+                        "duration": "Duration: .0 seconds",
+                        "desc": ".",
+                        "bcard1": [],
+                        "subBcard1": [],
+                        "subBcard2": [],
+                        "subBuff": [],
+                        "subBonusSkillBcard1": [],
+                        "subBonusSkillBcard2": [],
+                        "subBonusSkill": [],
+                        "bonusSkillBcard1": [],
+                        "bonusSkillBcard2": [],
+                        "bonusSkill": [],
+                        "sideEff": [],
+                        "sideEffbcard1": [],
+                        "sideEffbcard2": [],
+                        "sideEffbuff" : [],
+                        "release": [],
+                        "releaseBuff": []
+                    }
+                ],
+                "bcard5": [],
+                "bcard6": [],
+                "buff2": [],
+                "bcard7": [],
+                "bcard8": [],
+                "buff3": [],
+                "bcard9": [],
+                "bcard10": [],
+                "comboskill": []
+            }
+        ]
+    },
+    {
+        "item": [
+            {
+                "id": "0000",
+                "type": "spSkill"
+            }
+        ]
+    }
+]

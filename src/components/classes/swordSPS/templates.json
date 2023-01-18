@@ -1,0 +1,65 @@
+[
+    {
+        "skill": [
+            {
+                "image": "/img/sps/swordsman/5819.png",
+                "title": "Fury",
+                "job" : "Job level: 0Lv",
+                "cp" : "Necessary CP : 0",
+                "fairy": "",
+                "range": "Attack Range : Itself",
+                "target": "Target : Select One",
+                "cast" : "Casting time : 0.4 sec.",
+                "cool" : "Cool time : 60.0 seconds",
+                "mp" : "Consumption MP : 220",
+                "price" : "Price : 0 Gold",
+                "desc": "Utter a terrifying roar to boost you\nand your group's fighting spirit.",
+                "bcard1": [],
+                "bcard2": [],
+                "bcard3": [],
+                "bcard4": [],
+                "buff": [
+                    {
+                        "img": "/img/sps/swordsman/5819.png",
+                        "title": "Commander's Aura",
+                        "subtitle": "Buff\n(Level 3)\n",
+                        "duration": "Duration: 900.0 seconds",
+                        "desc": "Your morale is increased and is\ntransmitted to your allies.",
+                        "bcard1": [],
+                        "subBcard1": [],
+                        "subBcard2": [],
+                        "subBuff": [],
+                        "subBonusSkillBcard1": [],
+                        "subBonusSkillBcard2": [],
+                        "subBonusSkill": [],
+                        "bonusSkillBcard1": [],
+                        "bonusSkillBcard2": [],
+                        "bonusSkill": [],
+                        "sideEff": [],
+                        "sideEffbcard1": [],
+                        "sideEffbcard2": [],
+                        "sideEffbuff" : [],
+                        "release": [],
+                        "releaseBuff": []
+                    }
+                ],
+                "bcard5": [],
+                "bcard6": [],
+                "buff2": [
+                    {
+                        "img": "/img/sps/swordsman/10195.png",
+                        "title": "Sprint",
+                        "subtitle": "Buff\n(Level 3)\n",
+                        "duration": "Duration: 10.0 seconds",
+                        "desc": "Immediately enables rapid\nmovements.",
+                        "bcard1": [],
+                        "buff" : []
+                    }
+                ],
+                "bcard7": [],
+                "bcard8": [],
+                "comboskill": []
+            }
+        ]
+    }
+]

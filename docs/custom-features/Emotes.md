@@ -30,6 +30,8 @@ You can get emotes from the God's Altar and NPCs. And there are few emotes exclu
 | ![](https://i.imgur.com/ydxGP5u.png) |   Player  |
 | ![](https://i.imgur.com/3OaQorK.png) |   Peepo Yay |
 | ![](https://i.imgur.com/KtbkTuB.png) |   Peepo Scam  |
+| ![](https://cdn.olympusgg.com/images/19719.png) |   Cat WTF  |
+| ![](https://cdn.olympusgg.com/images/19707.png) |   Kek  |
 
 
 ### **Emotes from NPCs**
@@ -53,6 +55,9 @@ You can get emotes from the God's Altar and NPCs. And there are few emotes exclu
 | ![](https://i.imgur.com/vuXhfoI.png) |  Worry Love  |
 | ![](https://i.imgur.com/HcZihRl.png) |  Wait a minute Emote Unlocker  |
 | ![](https://i.imgur.com/DoR36NC.png) |  Delete this Emote Unlocker  |
+| ![](https://cdn.olympusgg.com/images/19745.png) |   Skull  |
+| ![](https://cdn.olympusgg.com/images/19759.png) |   Olympus  |
+| ![](https://cdn.olympusgg.com/images/19758.png) |   Celebration  |
 
 
 ### **Emotes from PvP Events**
@@ -61,3 +66,6 @@ You can get emotes from the God's Altar and NPCs. And there are few emotes exclu
 |:------------------------------------:|:-----------:|
 | ![](https://i.imgur.com/HdOKAEj.png) | Peepo Fight |
 | ![](https://i.imgur.com/1cNAS4p.png) |  KeK Loser  |
+| ![](https://cdn.olympusgg.com/images/19760.png) |  Pepe Archer OP  |
+| ![](https://cdn.olympusgg.com/images/19761.png) |  Pepe Mage OP |
+| ![](https://cdn.olympusgg.com/images/19763.png) |  Pepe Sword OP  |

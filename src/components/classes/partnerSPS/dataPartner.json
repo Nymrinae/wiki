@@ -18838,7 +18838,7 @@
                         "title": "Anchored",
                         "img": "https://cdn.olympusgg.com/images/6240.png",
                         "desc": "Unable to move.",
-                        "type": "Buff",
+                        "type": "Debuff",
                         "duration": 5,
                         "bcard": [{
                                 "desc": "Movement impossible",
@@ -18879,7 +18879,7 @@
                         "title": "Anchored",
                         "img": "https://cdn.olympusgg.com/images/6240.png",
                         "desc": "Unable to move.",
-                        "type": "Buff",
+                        "type": "Debuff",
                         "duration": 3,
                         "bcard": [{
                                 "desc": "Movement impossible",
@@ -18916,7 +18916,7 @@
                         "title": "Anchored",
                         "img": "https://cdn.olympusgg.com/images/6240.png",
                         "desc": "Unable to move.",
-                        "type": "Buff",
+                        "type": "Debuff",
                         "duration": 3,
                         "bcard": [{
                                 "desc": "Movement impossible",
@@ -18953,7 +18953,7 @@
                         "title": "Anchored",
                         "img": "https://cdn.olympusgg.com/images/6240.png",
                         "desc": "Unable to move.",
-                        "type": "Buff",
+                        "type": "Debuff",
                         "duration": 2,
                         "bcard": [{
                                 "desc": "Movement impossible",
@@ -18990,7 +18990,7 @@
                         "title": "Anchored",
                         "img": "https://cdn.olympusgg.com/images/6240.png",
                         "desc": "Unable to move.",
-                        "type": "Buff",
+                        "type": "Debuff",
                         "duration": 2,
                         "bcard": [{
                                 "desc": "Movement impossible",
@@ -19027,7 +19027,7 @@
                         "title": "Anchored",
                         "img": "https://cdn.olympusgg.com/images/6240.png",
                         "desc": "Unable to move.",
-                        "type": "Buff",
+                        "type": "Debuff",
                         "duration": 1,
                         "bcard": [{
                                 "desc": "Movement impossible",
@@ -19064,7 +19064,7 @@
                         "title": "Anchored",
                         "img": "https://cdn.olympusgg.com/images/6240.png",
                         "desc": "Unable to move.",
-                        "type": "Buff",
+                        "type": "Debuff",
                         "duration": 1,
                         "bcard": [{
                                 "desc": "Movement impossible",
@@ -19081,6 +19081,1710 @@
                 }
             ]
         ]
+    },
+    {
+        "cardName": "Maru's Specialist Partner Card",
+        "buttonImg": "https://cdn.olympusgg.com/images/2681.png",
+        "iconImg": "https://cdn.olympusgg.com/images/27317.png",
+        "pspImg": "https://cdn.olympusgg.com/images/monsters/2321.png",
+        "partner1Img": "https://cdn.olympusgg.com/images/8311.png",
+        "partner2Img": "https://cdn.olympusgg.com/images/8120.png",
+        "partner3Img": "https://cdn.olympusgg.com/images/10522.png",
+        "partner4Img": "https://cdn.olympusgg.com/images/10523.png",
+        "playerBuff": {},
+        "resistances": {
+            "fire": 10,
+            "water": 20,
+            "light": 10,
+            "shadow": 20
+        },
+        "speed": 3,
+        "skills": [
+            [
+            {
+                "title": "Hi-yah! +7",
+                "times": "Casting time : 0.1 sec.\nCool time : 8 seconds\nConsumption MP: 65",
+                "range": "Attack Range: 7 cell\nTarget: Select One",
+                "fairyEffect": "",
+                "bcard": [{
+                    "desc": "Melee attack is increased by",
+                    "value": "287"
+                }, {
+                    "desc": "Water element is increased by",
+                    "value": "287"
+                }],
+                "rank": "(S).",
+                "img": "https://cdn.olympusgg.com/images/6141.png",
+                "effectImg": ["https://cdn.olympusgg.com/images/6144.png"],
+                "bcardEffects": ["There is a 4% chance of causing"],
+                "effects": [{
+                    "title": "Massive Blood Loss",
+                    "img": "https://cdn.olympusgg.com/images/6144.png",
+                    "desc": "Massive blood loss has set in.",
+                    "type": "Debuff",
+                    "duration": 8,
+                    "bcard": [{
+                        "desc": "Every 2 secondds: HP is reduced by\n",
+                        "value": "500."
+                    }, {
+                        "desc": "Every 2 secondds: MP is reduced by\n",
+                        "value": "250."
+                    }, {
+                        "desc": "Movement speed is decreased by",
+                        "value": "3."
+                    }],
+                    "rank": "(S).",
+                    "level": 5
+                }]
+            },
+            {
+                "title": "Hi-yah! +6",
+                "times": "Casting time : 0.1 sec.\nCool time : 8 seconds\nConsumption MP: 65",
+                "range": "Attack Range: 7 cell\nTarget: Select One",
+                "fairyEffect": "",
+                "bcard": [{
+                    "desc": "Melee attack is increased by",
+                    "value": "172"
+                }, {
+                    "desc": "Water element is increased by",
+                    "value": "172"
+                }],
+                "rank": "(A).",
+                "img": "https://cdn.olympusgg.com/images/6141.png",
+                "effectImg": ["https://cdn.olympusgg.com/images/6141.png"],
+                "bcardEffects": ["There is a 4% chance of causing"],
+                "effects": [{
+                    "title": "Massive Blood Loss",
+                    "img": "https://cdn.olympusgg.com/images/6141.png",
+                    "desc": "Massive blood loss has set in.",
+                    "type": "Debuff",
+                    "duration": 8,
+                    "bcard": [{
+                        "desc": "Every 2 secondds: HP is reduced by\n",
+                        "value": "300."
+                    }, {
+                        "desc": "Every 2 secondds: MP is reduced by\n",
+                        "value": "200."
+                    }],
+                    "rank": "(A).",
+                    "level": 3
+                }]
+            },
+            {
+                "title": "Hi-yah! +5",
+                "times": "Casting time : 0.1 sec.\nCool time : 8 seconds\nConsumption MP: 65",
+                "range": "Attack Range: 7 cell\nTarget: Select One",
+                "fairyEffect": "",
+                "bcard": [{
+                    "desc": "Melee attack is increased by",
+                    "value": "138"
+                }, {
+                    "desc": "Water element is increased by",
+                    "value": "138"
+                }],
+                "rank": "(B).",
+                "img": "https://cdn.olympusgg.com/images/6141.png",
+                "effectImg": ["https://cdn.olympusgg.com/images/6141.png"],
+                "bcardEffects": ["There is a 4% chance of causing"],
+                "effects": [{
+                    "title": "Massive Blood Loss",
+                    "img": "https://cdn.olympusgg.com/images/6141.png",
+                    "desc": "Massive blood loss has set in.",
+                    "type": "Debuff",
+                    "duration": 8,
+                    "bcard": [{
+                        "desc": "Every 4 secondds: HP is reduced by\n",
+                        "value": "220."
+                    }, {
+                        "desc": "Every 4 secondds: MP is reduced by\n",
+                        "value": "170."
+                    }],
+                    "rank": "(B).",
+                    "level": 3
+                }]
+            },
+            {
+                "title": "Hi-yah! +4",
+                "times": "Casting time : 0.1 sec.\nCool time : 8 seconds\nConsumption MP: 65",
+                "range": "Attack Range: 7 cell\nTarget: Select One",
+                "fairyEffect": "",
+                "bcard": [{
+                    "desc": "Melee attack is increased by",
+                    "value": "115"
+                }, {
+                    "desc": "Water element is increased by",
+                    "value": "115"
+                }],
+                "rank": "(C).",
+                "img": "https://cdn.olympusgg.com/images/6141.png",
+                "effectImg": ["https://cdn.olympusgg.com/images/6141.png"],
+                "bcardEffects": ["There is a 4% chance of causing"],
+                "effects": [{
+                    "title": "Massive Blood Loss",
+                    "img": "https://cdn.olympusgg.com/images/6141.png",
+                    "desc": "Massive blood loss has set in.",
+                    "type": "Debuff",
+                    "duration": 8,
+                    "bcard": [{
+                        "desc": "Every 4 secondds: HP is reduced by\n",
+                        "value": "180."
+                    }, {
+                        "desc": "Every 4 secondds: MP is reduced by\n",
+                        "value": "140."
+                    }],
+                    "rank": "(C).",
+                    "level": 2
+                }]
+            },
+            {
+                "title": "Hi-yah! +3",
+                "times": "Casting time : 0.1 sec.\nCool time : 8 seconds\nConsumption MP: 65",
+                "range": "Attack Range: 7 cell\nTarget: Select One",
+                "fairyEffect": "",
+                "bcard": [{
+                    "desc": "Melee attack is increased by",
+                    "value": "92"
+                }, {
+                    "desc": "Water element is increased by",
+                    "value": "92"
+                }],
+                "rank": "(D).",
+                "img": "https://cdn.olympusgg.com/images/6141.png",
+                "effectImg": ["https://cdn.olympusgg.com/images/6141.png"],
+                "bcardEffects": ["There is a 4% chance of causing"],
+                "effects": [{
+                    "title": "Massive Blood Loss",
+                    "img": "https://cdn.olympusgg.com/images/6141.png",
+                    "desc": "Massive blood loss has set in.",
+                    "type": "Debuff",
+                    "duration": 8,
+                    "bcard": [{
+                        "desc": "Every 4 secondds: HP is reduced by\n",
+                        "value": "140."
+                    }, {
+                        "desc": "Every 4 secondds: MP is reduced by\n",
+                        "value": "110."
+                    }],
+                    "rank": "(D).",
+                    "level": 2
+                }]
+            },
+            {
+                "title": "Hi-yah! +2",
+                "times": "Casting time : 0.1 sec.\nCool time : 8 seconds\nConsumption MP: 65",
+                "range": "Attack Range: 7 cell\nTarget: Select One",
+                "fairyEffect": "",
+                "bcard": [{
+                    "desc": "Melee attack is increased by",
+                    "value": "57"
+                }, {
+                    "desc": "Water element is increased by",
+                    "value": "57"
+                }],
+                "rank": "(E).",
+                "img": "https://cdn.olympusgg.com/images/6141.png",
+                "effectImg": ["https://cdn.olympusgg.com/images/6141.png"],
+                "bcardEffects": ["There is a 4% chance of causing"],
+                "effects": [{
+                    "title": "Massive Blood Loss",
+                    "img": "https://cdn.olympusgg.com/images/6141.png",
+                    "desc": "Massive blood loss has set in.",
+                    "type": "Debuff",
+                    "duration": 8,
+                    "bcard": [{
+                        "desc": "Every 4 secondds: HP is reduced by\n",
+                        "value": "100."
+                    }, {
+                        "desc": "Every 4 secondds: MP is reduced by\n",
+                        "value": "80."
+                    }],
+                    "rank": "(E).",
+                    "level": 2
+                }]
+            },
+            {
+                "title": "Hi-yah! +1",
+                "times": "Casting time : 0.1 sec.\nCool time : 8 seconds\nConsumption MP: 65",
+                "range": "Attack Range: 7 cell\nTarget: Select One",
+                "fairyEffect": "",
+                "bcard": [{
+                    "desc": "Melee attack is increased by",
+                    "value": "34"
+                }, {
+                    "desc": "Water element is increased by",
+                    "value": "34"
+                }],
+                "rank": "(F).",
+                "img": "https://cdn.olympusgg.com/images/6141.png",
+                "effectImg": ["https://cdn.olympusgg.com/images/6141.png"],
+                "bcardEffects": ["There is a 4% chance of causing"],
+                "effects": [{
+                    "title": "Massive Blood Loss",
+                    "img": "https://cdn.olympusgg.com/images/6141.png",
+                    "desc": "Massive blood loss has set in.",
+                    "type": "Debuff",
+                    "duration": 8,
+                    "bcard": [{
+                        "desc": "Every 4 secondds: HP is reduced by\n",
+                        "value": "60."
+                    }, {
+                        "desc": "Every 4 secondds: MP is reduced by\n",
+                        "value": "50."
+                    }],
+                    "rank": "(F).",
+                    "level": 2
+                }]
+            }],
+            [
+                {
+                "title": "Spin Up +7",
+                "times": "Casting time : 0.4 sec.\nCool time : 28 seconds\nConsumption MP: 80",
+                "range": "Attack Range: Itself\nTarget: Around Enemy in 12 cell",
+                "fairyEffect": "",
+                "bcard": [{
+                    "desc": "Melee attack is increased by",
+                    "value": "500"
+                }, {
+                    "desc": "Water element is increased by",
+                    "value": "500"
+                }],
+                "rank": "(S).",
+                "img": "https://cdn.olympusgg.com/images/6142.png",
+                "effectImg": ["https://cdn.olympusgg.com/images/6145.png", "https://cdn.olympusgg.com/images/10148.png", "https://cdn.olympusgg.com/images/10148.png"],
+                "bcardEffects": [
+                    "There is a 8% chance of causing",
+                    "There is a 8% chance of causing",
+                    "There is a 8% chance of causing"
+                ],
+                "effects": [{
+                    "title": "Colossal Gale",
+                    "img": "https://cdn.olympusgg.com/images/6145.png",
+                    "desc": "The tiger's tornado has no effect\non high-level monsters or\ncharacters.",
+                    "type": "Debuff",
+                    "duration": 15,
+                    "bcard": [{
+                        "desc": "HP is reduced by 2% of the\ndamage inflicted with a probability\n",
+                        "value": "of 60%."
+                    }],
+                    "rank": "(S).",
+                    "level": 5
+                }, {
+                    "title": "Short Blackout",
+                    "img": "https://cdn.olympusgg.com/images/10148.png",
+                    "desc": "Short Blackout",
+                    "type": "Debuff",
+                    "duration": 2,
+                    "bcard": [{
+                        "desc": "Movement impossible\nNo attack possible\nDodge impossible.",
+                        "value": []
+                    }],
+                    "rank": [],
+                    "level": 3
+                }, {
+                    "title": "Short Blackout",
+                    "img": "https://cdn.olympusgg.com/images/10148.png",
+                    "desc": "Short Blackout",
+                    "type": "Debuff",
+                    "duration": 2,
+                    "bcard": [{
+                        "desc": "Movement impossible\nNo attack possible\nDodge impossible.",
+                        "value": []
+                    }],
+                    "rank": [],
+                    "level": 3
+                }]
+            },
+            {
+                "title": "Spin Up +6",
+                "times": "Casting time : 0.4 sec.\nCool time : 28 seconds\nConsumption MP: 80",
+                "range": "Attack Range: Itself\nTarget: Around Enemy in 12 cell",
+                "fairyEffect": "",
+                "bcard": [{
+                    "desc": "Melee attack is increased by",
+                    "value": "300"
+                }, {
+                    "desc": "Water element is increased by",
+                    "value": "300"
+                }],
+                "rank": "(A).",
+                "img": "https://cdn.olympusgg.com/images/6142.png",
+                "effectImg": ["https://cdn.olympusgg.com/images/6142.png", "https://cdn.olympusgg.com/images/10148.png", "https://cdn.olympusgg.com/images/10148.png"],
+                "bcardEffects": [
+                    "There is a 8% chance of causing",
+                    "There is a 8% chance of causing",
+                    "There is a 8% chance of causing"
+                ],
+                "effects": [{
+                    "title": "Colossal Gale",
+                    "img": "https://cdn.olympusgg.com/images/6142.png",
+                    "desc": "The tiger's tornado has no effect\non high-level monsters or\ncharacters.",
+                    "type": "Debuff",
+                    "duration": 15,
+                    "bcard": [{
+                        "desc": "HP is reduced by 2% of the\ndamage inflicted with a probability\n",
+                        "value": "of 40%."
+                    }],
+                    "rank": "(A).",
+                    "level": 3
+                }, {
+                    "title": "Short Blackout",
+                    "img": "https://cdn.olympusgg.com/images/10148.png",
+                    "desc": "Short Blackout",
+                    "type": "Debuff",
+                    "duration": 2,
+                    "bcard": [{
+                        "desc": "Movement impossible\nNo attack possible\nDodge impossible.",
+                        "value": []
+                    }],
+                    "rank": [],
+                    "level": 3
+                }, {
+                    "title": "Short Blackout",
+                    "img": "https://cdn.olympusgg.com/images/10148.png",
+                    "desc": "Short Blackout",
+                    "type": "Debuff",
+                    "duration": 2,
+                    "bcard": [{
+                        "desc": "Movement impossible\nNo attack possible\nDodge impossible.",
+                        "value": []
+                    }],
+                    "rank": [],
+                    "level": 3
+                }]
+            },
+            {
+                "title": "Spin Up +5",
+                "times": "Casting time : 0.4 sec.\nCool time : 28 seconds\nConsumption MP: 80",
+                "range": "Attack Range: Itself\nTarget: Around Enemy in 12 cell",
+                "fairyEffect": "",
+                "bcard": [{
+                    "desc": "Melee attack is increased by",
+                    "value": "240"
+                }, {
+                    "desc": "Water element is increased by",
+                    "value": "240"
+                }],
+                "rank": "(B).",
+                "img": "https://cdn.olympusgg.com/images/6142.png",
+                "effectImg": ["https://cdn.olympusgg.com/images/6142.png", "https://cdn.olympusgg.com/images/10148.png", "https://cdn.olympusgg.com/images/10148.png"],
+                "bcardEffects": [
+                    "There is a 8% chance of causing",
+                    "There is a 8% chance of causing",
+                    "There is a 8% chance of causing"
+                ],
+                "effects": [{
+                    "title": "Colossal Gale",
+                    "img": "https://cdn.olympusgg.com/images/6142.png",
+                    "desc": "The tiger's tornado has no effect\non high-level monsters or\ncharacters.",
+                    "type": "Debuff",
+                    "duration": 14,
+                    "bcard": [{
+                        "desc": "HP is reduced by 2% of the\ndamage inflicted with a probability\n",
+                        "value": "of 30%."
+                    }],
+                    "rank": "(B).",
+                    "level": 2
+                }, {
+                    "title": "Short Blackout",
+                    "img": "https://cdn.olympusgg.com/images/10148.png",
+                    "desc": "Short Blackout",
+                    "type": "Debuff",
+                    "duration": 2,
+                    "bcard": [{
+                        "desc": "Movement impossible\nNo attack possible\nDodge impossible.",
+                        "value": []
+                    }],
+                    "rank": [],
+                    "level": 3
+                }, {
+                    "title": "Short Blackout",
+                    "img": "https://cdn.olympusgg.com/images/10148.png",
+                    "desc": "Short Blackout",
+                    "type": "Debuff",
+                    "duration": 2,
+                    "bcard": [{
+                        "desc": "Movement impossible\nNo attack possible\nDodge impossible.",
+                        "value": []
+                    }],
+                    "rank": [],
+                    "level": 3
+                }]
+            },
+            {
+                "title": "Spin Up +4",
+                "times": "Casting time : 0.4 sec.\nCool time : 28 seconds\nConsumption MP: 80",
+                "range": "Attack Range: Itself\nTarget: Around Enemy in 12 cell",
+                "fairyEffect": "",
+                "bcard": [{
+                    "desc": "Melee attack is increased by",
+                    "value": "200"
+                }, {
+                    "desc": "Water element is increased by",
+                    "value": "200"
+                }],
+                "rank": "(C).",
+                "img": "https://cdn.olympusgg.com/images/6142.png",
+                "effectImg": ["https://cdn.olympusgg.com/images/6142.png", "https://cdn.olympusgg.com/images/10148.png", "https://cdn.olympusgg.com/images/10148.png"],
+                "bcardEffects": [
+                    "There is a 8% chance of causing",
+                    "There is a 8% chance of causing",
+                    "There is a 8% chance of causing"
+                ],
+                "effects": [{
+                    "title": "Colossal Gale",
+                    "img": "https://cdn.olympusgg.com/images/6142.png",
+                    "desc": "The tiger's tornado has no effect\non high-level monsters or\ncharacters.",
+                    "type": "Debuff",
+                    "duration": 13,
+                    "bcard": [{
+                        "desc": "HP is reduced by 2% of the\ndamage inflicted with a probability\n",
+                        "value": "of 25%."
+                    }],
+                    "rank": "(C).",
+                    "level": 2
+                }, {
+                    "title": "Short Blackout",
+                    "img": "https://cdn.olympusgg.com/images/10148.png",
+                    "desc": "Short Blackout",
+                    "type": "Debuff",
+                    "duration": 2,
+                    "bcard": [{
+                        "desc": "Movement impossible\nNo attack possible\nDodge impossible.",
+                        "value": []
+                    }],
+                    "rank": [],
+                    "level": 3
+                }, {
+                    "title": "Short Blackout",
+                    "img": "https://cdn.olympusgg.com/images/10148.png",
+                    "desc": "Short Blackout",
+                    "type": "Debuff",
+                    "duration": 2,
+                    "bcard": [{
+                        "desc": "Movement impossible\nNo attack possible\nDodge impossible.",
+                        "value": []
+                    }],
+                    "rank": [],
+                    "level": 3
+                }]
+            },
+            {
+                "title": "Spin Up +3",
+                "times": "Casting time : 0.4 sec.\nCool time : 28 seconds\nConsumption MP: 80",
+                "range": "Attack Range: Itself\nTarget: Around Enemy in 12 cell",
+                "fairyEffect": "",
+                "bcard": [{
+                    "desc": "Melee attack is increased by",
+                    "value": "160"
+                }, {
+                    "desc": "Water element is increased by",
+                    "value": "160"
+                }],
+                "rank": "(D).",
+                "img": "https://cdn.olympusgg.com/images/6142.png",
+                "effectImg": ["https://cdn.olympusgg.com/images/6142.png", "https://cdn.olympusgg.com/images/10148.png", "https://cdn.olympusgg.com/images/10148.png"],
+                "bcardEffects": [
+                    "There is a 8% chance of causing",
+                    "There is a 8% chance of causing",
+                    "There is a 8% chance of causing"
+                ],
+                "effects": [{
+                    "title": "Colossal Gale",
+                    "img": "https://cdn.olympusgg.com/images/6142.png",
+                    "desc": "The tiger's tornado has no effect\non high-level monsters or\ncharacters.",
+                    "type": "Debuff",
+                    "duration": 12,
+                    "bcard": [{
+                        "desc": "HP is reduced by 2% of the\ndamage inflicted with a probability\n",
+                        "value": "of 20%."
+                    }],
+                    "rank": "(D).",
+                    "level": 2
+                }, {
+                    "title": "Short Blackout",
+                    "img": "https://cdn.olympusgg.com/images/10148.png",
+                    "desc": "Short Blackout",
+                    "type": "Debuff",
+                    "duration": 2,
+                    "bcard": [{
+                        "desc": "Movement impossible\nNo attack possible\nDodge impossible.",
+                        "value": []
+                    }],
+                    "rank": [],
+                    "level": 3
+                }, {
+                    "title": "Short Blackout",
+                    "img": "https://cdn.olympusgg.com/images/10148.png",
+                    "desc": "Short Blackout",
+                    "type": "Debuff",
+                    "duration": 2,
+                    "bcard": [{
+                        "desc": "Movement impossible\nNo attack possible\nDodge impossible.",
+                        "value": []
+                    }],
+                    "rank": [],
+                    "level": 3
+                }]
+            },
+            {
+                "title": "Spin Up +2",
+                "times": "Casting time : 0.4 sec.\nCool time : 28 seconds\nConsumption MP: 80",
+                "range": "Attack Range: Itself\nTarget: Around Enemy in 12 cell",
+                "fairyEffect": "",
+                "bcard": [{
+                    "desc": "Melee attack is increased by",
+                    "value": "100"
+                }, {
+                    "desc": "Water element is increased by",
+                    "value": "100"
+                }],
+                "rank": "(E).",
+                "img": "https://cdn.olympusgg.com/images/6142.png",
+                "effectImg": ["https://cdn.olympusgg.com/images/6142.png", "https://cdn.olympusgg.com/images/10148.png", "https://cdn.olympusgg.com/images/10148.png"],
+                "bcardEffects": [
+                    "There is a 8% chance of causing",
+                    "There is a 8% chance of causing",
+                    "There is a 8% chance of causing"
+                ],
+                "effects": [{
+                    "title": "Colossal Gale",
+                    "img": "https://cdn.olympusgg.com/images/6142.png",
+                    "desc": "The tiger's tornado has no effect\non high-level monsters or\ncharacters.",
+                    "type": "Debuff",
+                    "duration": 11,
+                    "bcard": [{
+                        "desc": "HP is reduced by 2% of the\ndamage inflicted with a probability\n",
+                        "value": "of 15%."
+                    }],
+                    "rank": "(E).",
+                    "level": 2
+                }, {
+                    "title": "Short Blackout",
+                    "img": "https://cdn.olympusgg.com/images/10148.png",
+                    "desc": "Short Blackout",
+                    "type": "Debuff",
+                    "duration": 2,
+                    "bcard": [{
+                        "desc": "Movement impossible\nNo attack possible\nDodge impossible.",
+                        "value": []
+                    }],
+                    "rank": [],
+                    "level": 3
+                }, {
+                    "title": "Short Blackout",
+                    "img": "https://cdn.olympusgg.com/images/10148.png",
+                    "desc": "Short Blackout",
+                    "type": "Debuff",
+                    "duration": 2,
+                    "bcard": [{
+                        "desc": "Movement impossible\nNo attack possible\nDodge impossible.",
+                        "value": []
+                    }],
+                    "rank": [],
+                    "level": 3
+                }]
+            },
+            {
+                "title": "Spin Up +1",
+                "times": "Casting time : 0.4 sec.\nCool time : 28 seconds\nConsumption MP: 80",
+                "range": "Attack Range: Itself\nTarget: Around Enemy in 12 cell",
+                "fairyEffect": "",
+                "bcard": [{
+                    "desc": "Melee attack is increased by",
+                    "value": "60"
+                }, {
+                    "desc": "Water element is increased by",
+                    "value": "60"
+                }],
+                "rank": "(F).",
+                "img": "https://cdn.olympusgg.com/images/6142.png",
+                "effectImg": ["https://cdn.olympusgg.com/images/6142.png", "https://cdn.olympusgg.com/images/10148.png", "https://cdn.olympusgg.com/images/10148.png"],
+                "bcardEffects": [
+                    "There is a 8% chance of causing",
+                    "There is a 8% chance of causing",
+                    "There is a 8% chance of causing"
+                ],
+                "effects": [{
+                    "title": "Colossal Gale",
+                    "img": "https://cdn.olympusgg.com/images/6142.png",
+                    "desc": "The tiger's tornado has no effect\non high-level monsters or\ncharacters.",
+                    "type": "Debuff",
+                    "duration": 10,
+                    "bcard": [{
+                        "desc": "HP is reduced by 2% of the\ndamage inflicted with a probability\n",
+                        "value": "of 10%."
+                    }],
+                    "rank": "(F).",
+                    "level": 2
+                }, {
+                    "title": "Short Blackout",
+                    "img": "https://cdn.olympusgg.com/images/10148.png",
+                    "desc": "Short Blackout",
+                    "type": "Debuff",
+                    "duration": 2,
+                    "bcard": [{
+                        "desc": "Movement impossible\nNo attack possible\nDodge impossible.",
+                        "value": []
+                    }],
+                    "rank": [],
+                    "level": 3
+                }, {
+                    "title": "Short Blackout",
+                    "img": "https://cdn.olympusgg.com/images/10148.png",
+                    "desc": "Short Blackout",
+                    "type": "Debuff",
+                    "duration": 2,
+                    "bcard": [{
+                        "desc": "Movement impossible\nNo attack possible\nDodge impossible.",
+                        "value": []
+                    }],
+                    "rank": [],
+                    "level": 3
+                }]
+            }],
+            [{
+                "title": "Tiger Power +7",
+                "times": "Casting time : 0.2 sec.\nCool time : 30 seconds\nConsumption MP: 180",
+                "range": "Attack Range: Itself\nTarget: NosMate",
+                "fairyEffect": "",
+                "bcard": [],
+                "rank": "(S).",
+                "img": "https://cdn.olympusgg.com/images/6146.png",
+                "effectImg": ["https://cdn.olympusgg.com/images/6143.png"],
+                "bcardEffects": ["There is a 100% chance of causing"],
+                "effects": [{
+                    "title": "Tiger Power",
+                    "img": "https://cdn.olympusgg.com/images/6143.png",
+                    "desc": "The tiger rises.",
+                    "type": "Buff",
+                    "duration": 20,
+                    "bcard": [{
+                        "desc": "Dodge the target with a\nprobability of",
+                        "value": "65%."
+                    }, {
+                        "desc": "Reduces cooldown of skills by",
+                        "value": "10%."
+                    }],
+                    "rank": "(S).",
+                    "level": 4
+                }]
+            },
+            {
+                "title": "Tiger Power +6",
+                "times": "Casting time : 0.2 sec.\nCool time : 30 seconds\nConsumption MP: 180",
+                "range": "Attack Range: Itself\nTarget: NosMate",
+                "fairyEffect": "",
+                "bcard": [],
+                "rank": "(A).",
+                "img": "https://cdn.olympusgg.com/images/6146.png",
+                "effectImg": ["https://cdn.olympusgg.com/images/6146.png"],
+                "bcardEffects": ["There is a 100% chance of causing"],
+                "effects": [{
+                    "title": "Tiger Power",
+                    "img": "https://cdn.olympusgg.com/images/6146.png",
+                    "desc": "The tiger rises.",
+                    "type": "Buff",
+                    "duration": 16,
+                    "bcard": [{
+                        "desc": "Dodge the target with a\nprobability of",
+                        "value": "60%."
+                    }, {
+                        "desc": "Reduces cooldown of skills by",
+                        "value": "5%."
+                    }],
+                    "rank": "(A).",
+                    "level": 3
+                }]
+            },
+            {
+                "title": "Tiger Power +5",
+                "times": "Casting time : 0.2 sec.\nCool time : 30 seconds\nConsumption MP: 180",
+                "range": "Attack Range: Itself\nTarget: NosMate",
+                "fairyEffect": "",
+                "bcard": [],
+                "rank": "(B).",
+                "img": "https://cdn.olympusgg.com/images/6146.png",
+                "effectImg": ["https://cdn.olympusgg.com/images/6146.png"],
+                "bcardEffects": ["There is a 100% chance of causing"],
+                "effects": [{
+                    "title": "Tiger Power",
+                    "img": "https://cdn.olympusgg.com/images/6146.png",
+                    "desc": "The tiger rises.",
+                    "type": "Buff",
+                    "duration": 14,
+                    "bcard": [{
+                        "desc": "Dodge the target with a\nprobability of",
+                        "value": "50%."
+                    }, {
+                        "desc": "Reduces cooldown of skills by",
+                        "value": "5%."
+                    }],
+                    "rank": "(B).",
+                    "level": 2
+                }]
+            },
+            {
+                "title": "Tiger Power +4",
+                "times": "Casting time : 0.2 sec.\nCool time : 30 seconds\nConsumption MP: 180",
+                "range": "Attack Range: Itself\nTarget: NosMate",
+                "fairyEffect": "",
+                "bcard": [],
+                "rank": "(C).",
+                "img": "https://cdn.olympusgg.com/images/6146.png",
+                "effectImg": ["https://cdn.olympusgg.com/images/6146.png"],
+                "bcardEffects": ["There is a 100% chance of causing"],
+                "effects": [{
+                    "title": "Tiger Power",
+                    "img": "https://cdn.olympusgg.com/images/6146.png",
+                    "desc": "The tiger rises.",
+                    "type": "Buff",
+                    "duration": 12,
+                    "bcard": [{
+                        "desc": "Dodge the target with a\nprobability of",
+                        "value": "50%."
+                    }, {
+                        "desc": "Reduces cooldown of skills by",
+                        "value": "5%."
+                    }],
+                    "rank": "(C).",
+                    "level": 2
+                }]
+            },
+            {
+                "title": "Tiger Power +3",
+                "times": "Casting time : 0.2 sec.\nCool time : 30 seconds\nConsumption MP: 180",
+                "range": "Attack Range: Itself\nTarget: NosMate",
+                "fairyEffect": "",
+                "bcard": [],
+                "rank": "(D).",
+                "img": "https://cdn.olympusgg.com/images/6146.png",
+                "effectImg": ["https://cdn.olympusgg.com/images/6146.png"],
+                "bcardEffects": ["There is a 100% chance of causing"],
+                "effects": [{
+                    "title": "Tiger Power",
+                    "img": "https://cdn.olympusgg.com/images/6146.png",
+                    "desc": "The tiger rises.",
+                    "type": "Buff",
+                    "duration": 12,
+                    "bcard": [{
+                        "desc": "Dodge the target with a\nprobability of",
+                        "value": "45%."
+                    }, {
+                        "desc": "Reduces cooldown of skills by",
+                        "value": "5%."
+                    }],
+                    "rank": "(D).",
+                    "level": 2
+                }]
+            },
+            {
+                "title": "Tiger Power +2",
+                "times": "Casting time : 0.2 sec.\nCool time : 30 seconds\nConsumption MP: 180",
+                "range": "Attack Range: Itself\nTarget: NosMate",
+                "fairyEffect": "",
+                "bcard": [],
+                "rank": "(E).",
+                "img": "https://cdn.olympusgg.com/images/6146.png",
+                "effectImg": ["https://cdn.olympusgg.com/images/6146.png"],
+                "bcardEffects": ["There is a 100% chance of causing"],
+                "effects": [{
+                    "title": "Tiger Power",
+                    "img": "https://cdn.olympusgg.com/images/6146.png",
+                    "desc": "The tiger rises.",
+                    "type": "Buff",
+                    "duration": 10,
+                    "bcard": [{
+                        "desc": "Dodge the target with a\nprobability of",
+                        "value": "45%."
+                    }, {
+                        "desc": "Reduces cooldown of skills by",
+                        "value": "5%."
+                    }],
+                    "rank": "(E).",
+                    "level": 2
+                }]
+            },
+            {
+                "title": "Tiger Power +1",
+                "times": "Casting time : 0.2 sec.\nCool time : 30 seconds\nConsumption MP: 180",
+                "range": "Attack Range: Itself\nTarget: NosMate",
+                "fairyEffect": "",
+                "bcard": [],
+                "rank": "(F).",
+                "img": "https://cdn.olympusgg.com/images/6146.png",
+                "effectImg": ["https://cdn.olympusgg.com/images/6146.png"],
+                "bcardEffects": ["There is a 100% chance of causing"],
+                "effects": [{
+                    "title": "Tiger Power",
+                    "img": "https://cdn.olympusgg.com/images/6146.png",
+                    "desc": "The tiger rises.",
+                    "type": "Buff",
+                    "duration": 10,
+                    "bcard": [{
+                        "desc": "Dodge the target with a\nprobability of",
+                        "value": "40%."
+                    }, {
+                        "desc": "Reduces cooldown of skills by",
+                        "value": "5%."
+                    }],
+                    "rank": "(F).",
+                    "level": 2
+                }]
+            }]
+        ]
+    
+    },
+    {
+        "cardName": "Maru in Mother's Fur",
+        "buttonImg": "https://cdn.olympusgg.com/images/2682.png",
+        "iconImg": "https://cdn.olympusgg.com/images/27323.png",
+        "pspImg": "https://cdn.olympusgg.com/images/monsters/2316.png",
+        "partner1Img": "https://cdn.olympusgg.com/images/8311.png",
+        "partner2Img": "https://cdn.olympusgg.com/images/8120.png",
+        "partner3Img": "https://cdn.olympusgg.com/images/10522.png",
+        "partner4Img": "https://cdn.olympusgg.com/images/10523.png",
+        "playerBuff": {},
+        "resistances": {
+            "fire": 4,
+            "water": 10,
+            "light": 4,
+            "shadow": 6
+        },
+        "speed": 1,
+        "skills": [
+            [
+            {
+                "title": "Hi-yah! +7",
+                "times": "Casting time : 0.1 sec.\nCool time : 8 seconds\nConsumption MP: 65",
+                "range": "Attack Range: 7 cell\nTarget: Select One",
+                "fairyEffect": "",
+                "bcard": [{
+                    "desc": "Melee attack is increased by",
+                    "value": "287"
+                }, {
+                    "desc": "Water element is increased by",
+                    "value": "287"
+                }],
+                "rank": "(S).",
+                "img": "https://cdn.olympusgg.com/images/6141.png",
+                "effectImg": ["https://cdn.olympusgg.com/images/6144.png"],
+                "bcardEffects": ["There is a 4% chance of causing"],
+                "effects": [{
+                    "title": "Massive Blood Loss",
+                    "img": "https://cdn.olympusgg.com/images/6144.png",
+                    "desc": "Massive blood loss has set in.",
+                    "type": "Debuff",
+                    "duration": 8,
+                    "bcard": [{
+                        "desc": "Every 2 secondds: HP is reduced by\n",
+                        "value": "500."
+                    }, {
+                        "desc": "Every 2 secondds: MP is reduced by\n",
+                        "value": "250."
+                    }, {
+                        "desc": "Movement speed is decreased by",
+                        "value": "3."
+                    }],
+                    "rank": "(S).",
+                    "level": 5
+                }]
+            },
+            {
+                "title": "Hi-yah! +6",
+                "times": "Casting time : 0.1 sec.\nCool time : 8 seconds\nConsumption MP: 65",
+                "range": "Attack Range: 7 cell\nTarget: Select One",
+                "fairyEffect": "",
+                "bcard": [{
+                    "desc": "Melee attack is increased by",
+                    "value": "172"
+                }, {
+                    "desc": "Water element is increased by",
+                    "value": "172"
+                }],
+                "rank": "(A).",
+                "img": "https://cdn.olympusgg.com/images/6141.png",
+                "effectImg": ["https://cdn.olympusgg.com/images/6141.png"],
+                "bcardEffects": ["There is a 4% chance of causing"],
+                "effects": [{
+                    "title": "Massive Blood Loss",
+                    "img": "https://cdn.olympusgg.com/images/6141.png",
+                    "desc": "Massive blood loss has set in.",
+                    "type": "Debuff",
+                    "duration": 8,
+                    "bcard": [{
+                        "desc": "Every 2 secondds: HP is reduced by\n",
+                        "value": "300."
+                    }, {
+                        "desc": "Every 2 secondds: MP is reduced by\n",
+                        "value": "200."
+                    }],
+                    "rank": "(A).",
+                    "level": 3
+                }]
+            },
+            {
+                "title": "Hi-yah! +5",
+                "times": "Casting time : 0.1 sec.\nCool time : 8 seconds\nConsumption MP: 65",
+                "range": "Attack Range: 7 cell\nTarget: Select One",
+                "fairyEffect": "",
+                "bcard": [{
+                    "desc": "Melee attack is increased by",
+                    "value": "138"
+                }, {
+                    "desc": "Water element is increased by",
+                    "value": "138"
+                }],
+                "rank": "(B).",
+                "img": "https://cdn.olympusgg.com/images/6141.png",
+                "effectImg": ["https://cdn.olympusgg.com/images/6141.png"],
+                "bcardEffects": ["There is a 4% chance of causing"],
+                "effects": [{
+                    "title": "Massive Blood Loss",
+                    "img": "https://cdn.olympusgg.com/images/6141.png",
+                    "desc": "Massive blood loss has set in.",
+                    "type": "Debuff",
+                    "duration": 8,
+                    "bcard": [{
+                        "desc": "Every 4 secondds: HP is reduced by\n",
+                        "value": "220."
+                    }, {
+                        "desc": "Every 4 secondds: MP is reduced by\n",
+                        "value": "170."
+                    }],
+                    "rank": "(B).",
+                    "level": 3
+                }]
+            },
+            {
+                "title": "Hi-yah! +4",
+                "times": "Casting time : 0.1 sec.\nCool time : 8 seconds\nConsumption MP: 65",
+                "range": "Attack Range: 7 cell\nTarget: Select One",
+                "fairyEffect": "",
+                "bcard": [{
+                    "desc": "Melee attack is increased by",
+                    "value": "115"
+                }, {
+                    "desc": "Water element is increased by",
+                    "value": "115"
+                }],
+                "rank": "(C).",
+                "img": "https://cdn.olympusgg.com/images/6141.png",
+                "effectImg": ["https://cdn.olympusgg.com/images/6141.png"],
+                "bcardEffects": ["There is a 4% chance of causing"],
+                "effects": [{
+                    "title": "Massive Blood Loss",
+                    "img": "https://cdn.olympusgg.com/images/6141.png",
+                    "desc": "Massive blood loss has set in.",
+                    "type": "Debuff",
+                    "duration": 8,
+                    "bcard": [{
+                        "desc": "Every 4 secondds: HP is reduced by\n",
+                        "value": "180."
+                    }, {
+                        "desc": "Every 4 secondds: MP is reduced by\n",
+                        "value": "140."
+                    }],
+                    "rank": "(C).",
+                    "level": 2
+                }]
+            },
+            {
+                "title": "Hi-yah! +3",
+                "times": "Casting time : 0.1 sec.\nCool time : 8 seconds\nConsumption MP: 65",
+                "range": "Attack Range: 7 cell\nTarget: Select One",
+                "fairyEffect": "",
+                "bcard": [{
+                    "desc": "Melee attack is increased by",
+                    "value": "92"
+                }, {
+                    "desc": "Water element is increased by",
+                    "value": "92"
+                }],
+                "rank": "(D).",
+                "img": "https://cdn.olympusgg.com/images/6141.png",
+                "effectImg": ["https://cdn.olympusgg.com/images/6141.png"],
+                "bcardEffects": ["There is a 4% chance of causing"],
+                "effects": [{
+                    "title": "Massive Blood Loss",
+                    "img": "https://cdn.olympusgg.com/images/6141.png",
+                    "desc": "Massive blood loss has set in.",
+                    "type": "Debuff",
+                    "duration": 8,
+                    "bcard": [{
+                        "desc": "Every 4 secondds: HP is reduced by\n",
+                        "value": "140."
+                    }, {
+                        "desc": "Every 4 secondds: MP is reduced by\n",
+                        "value": "110."
+                    }],
+                    "rank": "(D).",
+                    "level": 2
+                }]
+            },
+            {
+                "title": "Hi-yah! +2",
+                "times": "Casting time : 0.1 sec.\nCool time : 8 seconds\nConsumption MP: 65",
+                "range": "Attack Range: 7 cell\nTarget: Select One",
+                "fairyEffect": "",
+                "bcard": [{
+                    "desc": "Melee attack is increased by",
+                    "value": "57"
+                }, {
+                    "desc": "Water element is increased by",
+                    "value": "57"
+                }],
+                "rank": "(E).",
+                "img": "https://cdn.olympusgg.com/images/6141.png",
+                "effectImg": ["https://cdn.olympusgg.com/images/6141.png"],
+                "bcardEffects": ["There is a 4% chance of causing"],
+                "effects": [{
+                    "title": "Massive Blood Loss",
+                    "img": "https://cdn.olympusgg.com/images/6141.png",
+                    "desc": "Massive blood loss has set in.",
+                    "type": "Debuff",
+                    "duration": 8,
+                    "bcard": [{
+                        "desc": "Every 4 secondds: HP is reduced by\n",
+                        "value": "100."
+                    }, {
+                        "desc": "Every 4 secondds: MP is reduced by\n",
+                        "value": "80."
+                    }],
+                    "rank": "(E).",
+                    "level": 2
+                }]
+            },
+            {
+                "title": "Hi-yah! +1",
+                "times": "Casting time : 0.1 sec.\nCool time : 8 seconds\nConsumption MP: 65",
+                "range": "Attack Range: 7 cell\nTarget: Select One",
+                "fairyEffect": "",
+                "bcard": [{
+                    "desc": "Melee attack is increased by",
+                    "value": "34"
+                }, {
+                    "desc": "Water element is increased by",
+                    "value": "34"
+                }],
+                "rank": "(F).",
+                "img": "https://cdn.olympusgg.com/images/6141.png",
+                "effectImg": ["https://cdn.olympusgg.com/images/6141.png"],
+                "bcardEffects": ["There is a 4% chance of causing"],
+                "effects": [{
+                    "title": "Massive Blood Loss",
+                    "img": "https://cdn.olympusgg.com/images/6141.png",
+                    "desc": "Massive blood loss has set in.",
+                    "type": "Debuff",
+                    "duration": 8,
+                    "bcard": [{
+                        "desc": "Every 4 secondds: HP is reduced by\n",
+                        "value": "60."
+                    }, {
+                        "desc": "Every 4 secondds: MP is reduced by\n",
+                        "value": "50."
+                    }],
+                    "rank": "(F).",
+                    "level": 2
+                }]
+            }],
+            [
+                {
+                "title": "Spin Up +7",
+                "times": "Casting time : 0.4 sec.\nCool time : 28 seconds\nConsumption MP: 80",
+                "range": "Attack Range: Itself\nTarget: Around Enemy in 12 cell",
+                "fairyEffect": "",
+                "bcard": [{
+                    "desc": "Melee attack is increased by",
+                    "value": "500"
+                }, {
+                    "desc": "Water element is increased by",
+                    "value": "500"
+                }],
+                "rank": "(S).",
+                "img": "https://cdn.olympusgg.com/images/6142.png",
+                "effectImg": ["https://cdn.olympusgg.com/images/6145.png", "https://cdn.olympusgg.com/images/10148.png", "https://cdn.olympusgg.com/images/10148.png"],
+                "bcardEffects": [
+                    "There is a 8% chance of causing",
+                    "There is a 8% chance of causing",
+                    "There is a 8% chance of causing"
+                ],
+                "effects": [{
+                    "title": "Colossal Gale",
+                    "img": "https://cdn.olympusgg.com/images/6145.png",
+                    "desc": "The tiger's tornado has no effect\non high-level monsters or\ncharacters.",
+                    "type": "Debuff",
+                    "duration": 15,
+                    "bcard": [{
+                        "desc": "HP is reduced by 2% of the\ndamage inflicted with a probability\n",
+                        "value": "of 60%."
+                    }],
+                    "rank": "(S).",
+                    "level": 5
+                }, {
+                    "title": "Short Blackout",
+                    "img": "https://cdn.olympusgg.com/images/10148.png",
+                    "desc": "Short Blackout",
+                    "type": "Debuff",
+                    "duration": 2,
+                    "bcard": [{
+                        "desc": "Movement impossible\nNo attack possible\nDodge impossible.",
+                        "value": []
+                    }],
+                    "rank": [],
+                    "level": 3
+                }, {
+                    "title": "Short Blackout",
+                    "img": "https://cdn.olympusgg.com/images/10148.png",
+                    "desc": "Short Blackout",
+                    "type": "Debuff",
+                    "duration": 2,
+                    "bcard": [{
+                        "desc": "Movement impossible\nNo attack possible\nDodge impossible.",
+                        "value": []
+                    }],
+                    "rank": [],
+                    "level": 3
+                }]
+            },
+            {
+                "title": "Spin Up +6",
+                "times": "Casting time : 0.4 sec.\nCool time : 28 seconds\nConsumption MP: 80",
+                "range": "Attack Range: Itself\nTarget: Around Enemy in 12 cell",
+                "fairyEffect": "",
+                "bcard": [{
+                    "desc": "Melee attack is increased by",
+                    "value": "300"
+                }, {
+                    "desc": "Water element is increased by",
+                    "value": "300"
+                }],
+                "rank": "(A).",
+                "img": "https://cdn.olympusgg.com/images/6142.png",
+                "effectImg": ["https://cdn.olympusgg.com/images/6142.png", "https://cdn.olympusgg.com/images/10148.png", "https://cdn.olympusgg.com/images/10148.png"],
+                "bcardEffects": [
+                    "There is a 8% chance of causing",
+                    "There is a 8% chance of causing",
+                    "There is a 8% chance of causing"
+                ],
+                "effects": [{
+                    "title": "Colossal Gale",
+                    "img": "https://cdn.olympusgg.com/images/6142.png",
+                    "desc": "The tiger's tornado has no effect\non high-level monsters or\ncharacters.",
+                    "type": "Debuff",
+                    "duration": 15,
+                    "bcard": [{
+                        "desc": "HP is reduced by 2% of the\ndamage inflicted with a probability\n",
+                        "value": "of 40%."
+                    }],
+                    "rank": "(A).",
+                    "level": 3
+                }, {
+                    "title": "Short Blackout",
+                    "img": "https://cdn.olympusgg.com/images/10148.png",
+                    "desc": "Short Blackout",
+                    "type": "Debuff",
+                    "duration": 2,
+                    "bcard": [{
+                        "desc": "Movement impossible\nNo attack possible\nDodge impossible.",
+                        "value": []
+                    }],
+                    "rank": [],
+                    "level": 3
+                }, {
+                    "title": "Short Blackout",
+                    "img": "https://cdn.olympusgg.com/images/10148.png",
+                    "desc": "Short Blackout",
+                    "type": "Debuff",
+                    "duration": 2,
+                    "bcard": [{
+                        "desc": "Movement impossible\nNo attack possible\nDodge impossible.",
+                        "value": []
+                    }],
+                    "rank": [],
+                    "level": 3
+                }]
+            },
+            {
+                "title": "Spin Up +5",
+                "times": "Casting time : 0.4 sec.\nCool time : 28 seconds\nConsumption MP: 80",
+                "range": "Attack Range: Itself\nTarget: Around Enemy in 12 cell",
+                "fairyEffect": "",
+                "bcard": [{
+                    "desc": "Melee attack is increased by",
+                    "value": "240"
+                }, {
+                    "desc": "Water element is increased by",
+                    "value": "240"
+                }],
+                "rank": "(B).",
+                "img": "https://cdn.olympusgg.com/images/6142.png",
+                "effectImg": ["https://cdn.olympusgg.com/images/6142.png", "https://cdn.olympusgg.com/images/10148.png", "https://cdn.olympusgg.com/images/10148.png"],
+                "bcardEffects": [
+                    "There is a 8% chance of causing",
+                    "There is a 8% chance of causing",
+                    "There is a 8% chance of causing"
+                ],
+                "effects": [{
+                    "title": "Colossal Gale",
+                    "img": "https://cdn.olympusgg.com/images/6142.png",
+                    "desc": "The tiger's tornado has no effect\non high-level monsters or\ncharacters.",
+                    "type": "Debuff",
+                    "duration": 14,
+                    "bcard": [{
+                        "desc": "HP is reduced by 2% of the\ndamage inflicted with a probability\n",
+                        "value": "of 30%."
+                    }],
+                    "rank": "(B).",
+                    "level": 2
+                }, {
+                    "title": "Short Blackout",
+                    "img": "https://cdn.olympusgg.com/images/10148.png",
+                    "desc": "Short Blackout",
+                    "type": "Debuff",
+                    "duration": 2,
+                    "bcard": [{
+                        "desc": "Movement impossible\nNo attack possible\nDodge impossible.",
+                        "value": []
+                    }],
+                    "rank": [],
+                    "level": 3
+                }, {
+                    "title": "Short Blackout",
+                    "img": "https://cdn.olympusgg.com/images/10148.png",
+                    "desc": "Short Blackout",
+                    "type": "Debuff",
+                    "duration": 2,
+                    "bcard": [{
+                        "desc": "Movement impossible\nNo attack possible\nDodge impossible.",
+                        "value": []
+                    }],
+                    "rank": [],
+                    "level": 3
+                }]
+            },
+            {
+                "title": "Spin Up +4",
+                "times": "Casting time : 0.4 sec.\nCool time : 28 seconds\nConsumption MP: 80",
+                "range": "Attack Range: Itself\nTarget: Around Enemy in 12 cell",
+                "fairyEffect": "",
+                "bcard": [{
+                    "desc": "Melee attack is increased by",
+                    "value": "200"
+                }, {
+                    "desc": "Water element is increased by",
+                    "value": "200"
+                }],
+                "rank": "(C).",
+                "img": "https://cdn.olympusgg.com/images/6142.png",
+                "effectImg": ["https://cdn.olympusgg.com/images/6142.png", "https://cdn.olympusgg.com/images/10148.png", "https://cdn.olympusgg.com/images/10148.png"],
+                "bcardEffects": [
+                    "There is a 8% chance of causing",
+                    "There is a 8% chance of causing",
+                    "There is a 8% chance of causing"
+                ],
+                "effects": [{
+                    "title": "Colossal Gale",
+                    "img": "https://cdn.olympusgg.com/images/6142.png",
+                    "desc": "The tiger's tornado has no effect\non high-level monsters or\ncharacters.",
+                    "type": "Debuff",
+                    "duration": 13,
+                    "bcard": [{
+                        "desc": "HP is reduced by 2% of the\ndamage inflicted with a probability\n",
+                        "value": "of 25%."
+                    }],
+                    "rank": "(C).",
+                    "level": 2
+                }, {
+                    "title": "Short Blackout",
+                    "img": "https://cdn.olympusgg.com/images/10148.png",
+                    "desc": "Short Blackout",
+                    "type": "Debuff",
+                    "duration": 2,
+                    "bcard": [{
+                        "desc": "Movement impossible\nNo attack possible\nDodge impossible.",
+                        "value": []
+                    }],
+                    "rank": [],
+                    "level": 3
+                }, {
+                    "title": "Short Blackout",
+                    "img": "https://cdn.olympusgg.com/images/10148.png",
+                    "desc": "Short Blackout",
+                    "type": "Debuff",
+                    "duration": 2,
+                    "bcard": [{
+                        "desc": "Movement impossible\nNo attack possible\nDodge impossible.",
+                        "value": []
+                    }],
+                    "rank": [],
+                    "level": 3
+                }]
+            },
+            {
+                "title": "Spin Up +3",
+                "times": "Casting time : 0.4 sec.\nCool time : 28 seconds\nConsumption MP: 80",
+                "range": "Attack Range: Itself\nTarget: Around Enemy in 12 cell",
+                "fairyEffect": "",
+                "bcard": [{
+                    "desc": "Melee attack is increased by",
+                    "value": "160"
+                }, {
+                    "desc": "Water element is increased by",
+                    "value": "160"
+                }],
+                "rank": "(D).",
+                "img": "https://cdn.olympusgg.com/images/6142.png",
+                "effectImg": ["https://cdn.olympusgg.com/images/6142.png", "https://cdn.olympusgg.com/images/10148.png", "https://cdn.olympusgg.com/images/10148.png"],
+                "bcardEffects": [
+                    "There is a 8% chance of causing",
+                    "There is a 8% chance of causing",
+                    "There is a 8% chance of causing"
+                ],
+                "effects": [{
+                    "title": "Colossal Gale",
+                    "img": "https://cdn.olympusgg.com/images/6142.png",
+                    "desc": "The tiger's tornado has no effect\non high-level monsters or\ncharacters.",
+                    "type": "Debuff",
+                    "duration": 12,
+                    "bcard": [{
+                        "desc": "HP is reduced by 2% of the\ndamage inflicted with a probability\n",
+                        "value": "of 20%."
+                    }],
+                    "rank": "(D).",
+                    "level": 2
+                }, {
+                    "title": "Short Blackout",
+                    "img": "https://cdn.olympusgg.com/images/10148.png",
+                    "desc": "Short Blackout",
+                    "type": "Debuff",
+                    "duration": 2,
+                    "bcard": [{
+                        "desc": "Movement impossible\nNo attack possible\nDodge impossible.",
+                        "value": []
+                    }],
+                    "rank": [],
+                    "level": 3
+                }, {
+                    "title": "Short Blackout",
+                    "img": "https://cdn.olympusgg.com/images/10148.png",
+                    "desc": "Short Blackout",
+                    "type": "Debuff",
+                    "duration": 2,
+                    "bcard": [{
+                        "desc": "Movement impossible\nNo attack possible\nDodge impossible.",
+                        "value": []
+                    }],
+                    "rank": [],
+                    "level": 3
+                }]
+            },
+            {
+                "title": "Spin Up +2",
+                "times": "Casting time : 0.4 sec.\nCool time : 28 seconds\nConsumption MP: 80",
+                "range": "Attack Range: Itself\nTarget: Around Enemy in 12 cell",
+                "fairyEffect": "",
+                "bcard": [{
+                    "desc": "Melee attack is increased by",
+                    "value": "100"
+                }, {
+                    "desc": "Water element is increased by",
+                    "value": "100"
+                }],
+                "rank": "(E).",
+                "img": "https://cdn.olympusgg.com/images/6142.png",
+                "effectImg": ["https://cdn.olympusgg.com/images/6142.png", "https://cdn.olympusgg.com/images/10148.png", "https://cdn.olympusgg.com/images/10148.png"],
+                "bcardEffects": [
+                    "There is a 8% chance of causing",
+                    "There is a 8% chance of causing",
+                    "There is a 8% chance of causing"
+                ],
+                "effects": [{
+                    "title": "Colossal Gale",
+                    "img": "https://cdn.olympusgg.com/images/6142.png",
+                    "desc": "The tiger's tornado has no effect\non high-level monsters or\ncharacters.",
+                    "type": "Debuff",
+                    "duration": 11,
+                    "bcard": [{
+                        "desc": "HP is reduced by 2% of the\ndamage inflicted with a probability\n",
+                        "value": "of 15%."
+                    }],
+                    "rank": "(E).",
+                    "level": 2
+                }, {
+                    "title": "Short Blackout",
+                    "img": "https://cdn.olympusgg.com/images/10148.png",
+                    "desc": "Short Blackout",
+                    "type": "Debuff",
+                    "duration": 2,
+                    "bcard": [{
+                        "desc": "Movement impossible\nNo attack possible\nDodge impossible.",
+                        "value": []
+                    }],
+                    "rank": [],
+                    "level": 3
+                }, {
+                    "title": "Short Blackout",
+                    "img": "https://cdn.olympusgg.com/images/10148.png",
+                    "desc": "Short Blackout",
+                    "type": "Debuff",
+                    "duration": 2,
+                    "bcard": [{
+                        "desc": "Movement impossible\nNo attack possible\nDodge impossible.",
+                        "value": []
+                    }],
+                    "rank": [],
+                    "level": 3
+                }]
+            },
+            {
+                "title": "Spin Up +1",
+                "times": "Casting time : 0.4 sec.\nCool time : 28 seconds\nConsumption MP: 80",
+                "range": "Attack Range: Itself\nTarget: Around Enemy in 12 cell",
+                "fairyEffect": "",
+                "bcard": [{
+                    "desc": "Melee attack is increased by",
+                    "value": "60"
+                }, {
+                    "desc": "Water element is increased by",
+                    "value": "60"
+                }],
+                "rank": "(F).",
+                "img": "https://cdn.olympusgg.com/images/6142.png",
+                "effectImg": ["https://cdn.olympusgg.com/images/6142.png", "https://cdn.olympusgg.com/images/10148.png", "https://cdn.olympusgg.com/images/10148.png"],
+                "bcardEffects": [
+                    "There is a 8% chance of causing",
+                    "There is a 8% chance of causing",
+                    "There is a 8% chance of causing"
+                ],
+                "effects": [{
+                    "title": "Colossal Gale",
+                    "img": "https://cdn.olympusgg.com/images/6142.png",
+                    "desc": "The tiger's tornado has no effect\non high-level monsters or\ncharacters.",
+                    "type": "Debuff",
+                    "duration": 10,
+                    "bcard": [{
+                        "desc": "HP is reduced by 2% of the\ndamage inflicted with a probability\n",
+                        "value": "of 10%."
+                    }],
+                    "rank": "(F).",
+                    "level": 2
+                }, {
+                    "title": "Short Blackout",
+                    "img": "https://cdn.olympusgg.com/images/10148.png",
+                    "desc": "Short Blackout",
+                    "type": "Debuff",
+                    "duration": 2,
+                    "bcard": [{
+                        "desc": "Movement impossible\nNo attack possible\nDodge impossible.",
+                        "value": []
+                    }],
+                    "rank": [],
+                    "level": 3
+                }, {
+                    "title": "Short Blackout",
+                    "img": "https://cdn.olympusgg.com/images/10148.png",
+                    "desc": "Short Blackout",
+                    "type": "Debuff",
+                    "duration": 2,
+                    "bcard": [{
+                        "desc": "Movement impossible\nNo attack possible\nDodge impossible.",
+                        "value": []
+                    }],
+                    "rank": [],
+                    "level": 3
+                }]
+            }],
+            [{
+                "title": "Tiger Power +7",
+                "times": "Casting time : 0.2 sec.\nCool time : 30 seconds\nConsumption MP: 180",
+                "range": "Attack Range: Itself\nTarget: NosMate",
+                "fairyEffect": "",
+                "bcard": [],
+                "rank": "(S).",
+                "img": "https://cdn.olympusgg.com/images/6146.png",
+                "effectImg": ["https://cdn.olympusgg.com/images/6143.png"],
+                "bcardEffects": ["There is a 100% chance of causing"],
+                "effects": [{
+                    "title": "Tiger Power",
+                    "img": "https://cdn.olympusgg.com/images/6143.png",
+                    "desc": "The tiger rises.",
+                    "type": "Buff",
+                    "duration": 20,
+                    "bcard": [{
+                        "desc": "Dodge the target with a\nprobability of",
+                        "value": "65%."
+                    }, {
+                        "desc": "Reduces cooldown of skills by",
+                        "value": "10%."
+                    }],
+                    "rank": "(S).",
+                    "level": 4
+                }]
+            },
+            {
+                "title": "Tiger Power +6",
+                "times": "Casting time : 0.2 sec.\nCool time : 30 seconds\nConsumption MP: 180",
+                "range": "Attack Range: Itself\nTarget: NosMate",
+                "fairyEffect": "",
+                "bcard": [],
+                "rank": "(A).",
+                "img": "https://cdn.olympusgg.com/images/6146.png",
+                "effectImg": ["https://cdn.olympusgg.com/images/6146.png"],
+                "bcardEffects": ["There is a 100% chance of causing"],
+                "effects": [{
+                    "title": "Tiger Power",
+                    "img": "https://cdn.olympusgg.com/images/6146.png",
+                    "desc": "The tiger rises.",
+                    "type": "Buff",
+                    "duration": 16,
+                    "bcard": [{
+                        "desc": "Dodge the target with a\nprobability of",
+                        "value": "60%."
+                    }, {
+                        "desc": "Reduces cooldown of skills by",
+                        "value": "5%."
+                    }],
+                    "rank": "(A).",
+                    "level": 3
+                }]
+            },
+            {
+                "title": "Tiger Power +5",
+                "times": "Casting time : 0.2 sec.\nCool time : 30 seconds\nConsumption MP: 180",
+                "range": "Attack Range: Itself\nTarget: NosMate",
+                "fairyEffect": "",
+                "bcard": [],
+                "rank": "(B).",
+                "img": "https://cdn.olympusgg.com/images/6146.png",
+                "effectImg": ["https://cdn.olympusgg.com/images/6146.png"],
+                "bcardEffects": ["There is a 100% chance of causing"],
+                "effects": [{
+                    "title": "Tiger Power",
+                    "img": "https://cdn.olympusgg.com/images/6146.png",
+                    "desc": "The tiger rises.",
+                    "type": "Buff",
+                    "duration": 14,
+                    "bcard": [{
+                        "desc": "Dodge the target with a\nprobability of",
+                        "value": "50%."
+                    }, {
+                        "desc": "Reduces cooldown of skills by",
+                        "value": "5%."
+                    }],
+                    "rank": "(B).",
+                    "level": 2
+                }]
+            },
+            {
+                "title": "Tiger Power +4",
+                "times": "Casting time : 0.2 sec.\nCool time : 30 seconds\nConsumption MP: 180",
+                "range": "Attack Range: Itself\nTarget: NosMate",
+                "fairyEffect": "",
+                "bcard": [],
+                "rank": "(C).",
+                "img": "https://cdn.olympusgg.com/images/6146.png",
+                "effectImg": ["https://cdn.olympusgg.com/images/6146.png"],
+                "bcardEffects": ["There is a 100% chance of causing"],
+                "effects": [{
+                    "title": "Tiger Power",
+                    "img": "https://cdn.olympusgg.com/images/6146.png",
+                    "desc": "The tiger rises.",
+                    "type": "Buff",
+                    "duration": 12,
+                    "bcard": [{
+                        "desc": "Dodge the target with a\nprobability of",
+                        "value": "50%."
+                    }, {
+                        "desc": "Reduces cooldown of skills by",
+                        "value": "5%."
+                    }],
+                    "rank": "(C).",
+                    "level": 2
+                }]
+            },
+            {
+                "title": "Tiger Power +3",
+                "times": "Casting time : 0.2 sec.\nCool time : 30 seconds\nConsumption MP: 180",
+                "range": "Attack Range: Itself\nTarget: NosMate",
+                "fairyEffect": "",
+                "bcard": [],
+                "rank": "(D).",
+                "img": "https://cdn.olympusgg.com/images/6146.png",
+                "effectImg": ["https://cdn.olympusgg.com/images/6146.png"],
+                "bcardEffects": ["There is a 100% chance of causing"],
+                "effects": [{
+                    "title": "Tiger Power",
+                    "img": "https://cdn.olympusgg.com/images/6146.png",
+                    "desc": "The tiger rises.",
+                    "type": "Buff",
+                    "duration": 12,
+                    "bcard": [{
+                        "desc": "Dodge the target with a\nprobability of",
+                        "value": "45%."
+                    }, {
+                        "desc": "Reduces cooldown of skills by",
+                        "value": "5%."
+                    }],
+                    "rank": "(D).",
+                    "level": 2
+                }]
+            },
+            {
+                "title": "Tiger Power +2",
+                "times": "Casting time : 0.2 sec.\nCool time : 30 seconds\nConsumption MP: 180",
+                "range": "Attack Range: Itself\nTarget: NosMate",
+                "fairyEffect": "",
+                "bcard": [],
+                "rank": "(E).",
+                "img": "https://cdn.olympusgg.com/images/6146.png",
+                "effectImg": ["https://cdn.olympusgg.com/images/6146.png"],
+                "bcardEffects": ["There is a 100% chance of causing"],
+                "effects": [{
+                    "title": "Tiger Power",
+                    "img": "https://cdn.olympusgg.com/images/6146.png",
+                    "desc": "The tiger rises.",
+                    "type": "Buff",
+                    "duration": 10,
+                    "bcard": [{
+                        "desc": "Dodge the target with a\nprobability of",
+                        "value": "45%."
+                    }, {
+                        "desc": "Reduces cooldown of skills by",
+                        "value": "5%."
+                    }],
+                    "rank": "(E).",
+                    "level": 2
+                }]
+            },
+            {
+                "title": "Tiger Power +1",
+                "times": "Casting time : 0.2 sec.\nCool time : 30 seconds\nConsumption MP: 180",
+                "range": "Attack Range: Itself\nTarget: NosMate",
+                "fairyEffect": "",
+                "bcard": [],
+                "rank": "(F).",
+                "img": "https://cdn.olympusgg.com/images/6146.png",
+                "effectImg": ["https://cdn.olympusgg.com/images/6146.png"],
+                "bcardEffects": ["There is a 100% chance of causing"],
+                "effects": [{
+                    "title": "Tiger Power",
+                    "img": "https://cdn.olympusgg.com/images/6146.png",
+                    "desc": "The tiger rises.",
+                    "type": "Buff",
+                    "duration": 10,
+                    "bcard": [{
+                        "desc": "Dodge the target with a\nprobability of",
+                        "value": "40%."
+                    }, {
+                        "desc": "Reduces cooldown of skills by",
+                        "value": "5%."
+                    }],
+                    "rank": "(F).",
+                    "level": 2
+                }]
+            }]
+        ]
+    
     }
 ]
 
